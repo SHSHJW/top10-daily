@@ -1,46 +1,63 @@
 <!doctype html>
-<html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Google Trends KR Top 10</title>
-<style>
-  :root{--muted:#9db0cc}
-  body{margin:0;background:#0b1220;color:#e6edf7;font:15px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
-  header{position:sticky;top:0;background:#0f172a;border-bottom:1px solid #22304a}
-  .wrap{max-width:960px;margin:0 auto;padding:18px 16px}
-  h1{margin:0;font-size:22px}
-  .muted{color:var(--muted);font-size:13px}
-  a{color:#9dc1ff}
-  ol{list-style:none;margin:20px auto;max-width:960px;padding:0;border:1px solid #22304a;border-radius:16px;overflow:hidden;background:#0f172a}
-  li{display:flex;gap:14px;align-items:flex-start;padding:14px 16px;border-top:1px solid #1b2438}
-  li:first-child{border-top:0}
-  .rank{width:32px;text-align:right;font-weight:700}
-  .title{color:#cfe0ff;text-decoration:none;font-weight:600}
-  .title:hover{text-decoration:underline}
-  .sub{font-size:12px;color:var(--muted)}
-</style>
-<header><div class="wrap" style="display:flex;justify-content:space-between;align-items:center">
-  <h1>Google Trends KR Top 10</h1><div id="updated" class="muted">로딩 중…</div>
-</div></header>
-<main class="wrap"><a href="index.html">← 홈</a></main>
-<ol id="list"></ol>
-<footer class="wrap" style="text-align:center;color:#8da0c0;font-size:12px;padding:24px 0">© <span id="y"></span> Top10</footer>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Google Trends KR Top 10</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <style>
+    :root {
+      --bg:#0b1220; --card:#131b2e; --fg:#e8eefc; --muted:#8ea3c5; --accent:#6ea8ff;
+      --ok:#28c76f; --warn:#ff9f43; --bad:#ea5455;
+    }
+    *{box-sizing:border-box} body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Apple Color Emoji,Segoe UI Emoji;background:var(--bg);color:var(--fg)}
+    .wrap{max-width:960px;margin:40px auto;padding:0 16px}
+    h1{margin:0 0 8px;font-size:28px}
+    .meta{color:var(--muted);margin-bottom:24px}
+    .list{display:grid;gap:10px}
+    .item{display:flex;align-items:center;gap:14px;background:var(--card);border-radius:14px;padding:14px 16px;border:1px solid rgba(255,255,255,.06)}
+    .rank{min-width:28px;height:28px;border-radius:8px;background:#0f1a30;color:var(--accent);display:flex;align-items:center;justify-content:center;font-weight:700}
+    .title{font-size:16px;flex:1}
+    .traffic{color:var(--muted);font-size:13px}
+    .link{color:var(--accent);text-decoration:none;font-size:14px}
+    .link:hover{text-decoration:underline}
+    .empty{padding:28px;text-align:center;color:var(--muted);background:var(--card);border-radius:14px;border:1px solid rgba(255,255,255,.06)}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Google Trends KR Top 10</h1>
+    <div class="meta" id="updated"></div>
+    <div class="list" id="list"></div>
+  </div>
 
-<script>
-  const list=document.getElementById('list'); document.getElementById('y').textContent=new Date().getFullYear();
-  function render(payload){
-    const items=payload?.items||[]; document.getElementById('updated').textContent='업데이트: '+new Date(payload?.updatedAt||Date.now()).toLocaleString('ko-KR');
-    list.innerHTML='';
-    (items.length?items:[{rank:1,title:'데모 키워드',url:'#',snippet:'샘플'}]).forEach(it=>{
-      const li=document.createElement('li'); li.innerHTML=`
-        <div class="rank">${it.rank??'-'}</div>
-        <div style="flex:1;min-width:0">
-          <a class="title" href="${it.url||'#'}" target="_blank" rel="noreferrer noopener">${it.title||''}</a>
-          <div class="sub">${it.snippet||''}${it.traffic?(' · 트래픽:'+it.traffic):''}</div>
-        </div>`;
-      list.appendChild(li);
-    });
-  }
-  (async()=>{try{
-    const r=await fetch('data/trends-kr.json',{cache:'no-store'}); if(!r.ok)throw 0; render(await r.json());
-  }catch{render({updatedAt:new Date().toISOString(),items:[]});}})();
-</script>
+  <script>
+    const DATA_URL = './data/trends-kr.json';
+    const $list = document.getElementById('list');
+    const $updated = document.getElementById('updated');
+
+    fetch(DATA_URL, {cache: 'no-store'})
+      .then(r => r.json())
+      .then(({updatedAt, items}) => {
+        $updated.textContent = '업데이트: ' + new Date(updatedAt).toLocaleString('ko-KR');
+        if (!items || !items.length) {
+          $list.innerHTML = '<div class="empty">데이터가 아직 없습니다. 잠시 후 새로고침 해보세요.</div>';
+          return;
+        }
+        $list.innerHTML = items.map(it => `
+          <div class="item">
+            <div class="rank">${it.rank}</div>
+            <div class="title">${escapeHtml(it.title || '')}</div>
+            <div class="traffic">${it.traffic || ''}</div>
+            ${it.url ? `<a class="link" href="${it.url}" target="_blank" rel="noopener">보기</a>` : ''}
+          </div>
+        `).join('');
+      })
+      .catch(() => {
+        $list.innerHTML = '<div class="empty">데이터를 불러오지 못했습니다.</div>';
+      });
+
+    function escapeHtml(s){return String(s).replace(/[&<>"']/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[m]))}
+  </script>
+</body>
 </html>
