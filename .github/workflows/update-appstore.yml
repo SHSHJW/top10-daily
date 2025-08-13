@@ -2,22 +2,30 @@ name: Update App Store KR Top 10
 
 on:
   schedule:
-    - cron: "0 23 * * *"   # KST 08:00
-  workflow_dispatch:
+    - cron: "0 23 * * *"   # 매일 KST 08:00 (UTC 23:00)
+  workflow_dispatch:       # 수동 실행 버튼도 유지
 
 permissions:
-  contents: write
+  contents: write          # JSON 커밋/푸시 권한
+
+# 같은 시간대에 겹치면 이전 실행 취소
+concurrency:
+  group: top10-appstore
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+
       - name: Run updater
         run: node scripts/update-appstore.cjs
+
       - name: Commit & push JSON
         run: |
           git config user.name "github-actions[bot]"
