@@ -1,37 +1,61 @@
-// Google Trends KR Daily RSS -> data/trends-kr.json
-// 패키지 설치 없이 Node 20 내장 fetch 사용
+// Google Trends KR Daily (JSON API) -> data/trends-kr.json
+// ※ RSS는 환경에 따라 404가 떠서 JSON 엔드포인트로 교체.
+// Node 20 내장 fetch 사용, 외부 패키지 불필요.
 
 const fs = require("fs");
 const path = require("path");
 
 const OUT = path.join(__dirname, "..", "data", "trends-kr.json");
-const RSS = "https://trends.google.com/trends/trendingsearches/daily/rss?geo=KR";
+
+// 공식 웹에서 쓰는 JSON API (앞에 ")]}'," 프리픽스 제거 필요)
+// hl=ko (언어), tz=-540 (KST), geo=KR
+const URL =
+  "https://trends.google.com/trends/api/dailytrends?hl=ko&tz=-540&geo=KR";
+
+async function fetchJSON(url) {
+  const res = await fetch(url, {
+    headers: {
+      "User-Agent":
+        "Mozilla/5.0 (compatible; Top10Bot/1.0; +https://github.com/)",
+    },
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  let text = await res.text();
+
+  // 응답 맨 앞의 보안 prefix 제거: )]}',
+  text = text.replace(/^\)\]\}',\s*/, "");
+  return JSON.parse(text);
+}
 
 async function main() {
   try {
-    const res = await fetch(RSS, { headers: { "User-Agent": "Top10Bot/1.0" } });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const xml = await res.text();
+    const data = await fetchJSON(URL);
 
-    // 아주 가벼운 파서: <item>…</item> 단위로 10개만 추출
-    const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)]
-      .slice(0, 10)
-      .map((m, i) => {
-        const block = m[1];
-        const get = (tag) => {
-          const r = new RegExp(`<${tag}>([\\s\\S]*?)</${tag}>`).exec(block);
-          return r ? r[1].replace(/<!\[CDATA\[|\]\]>/g, "").trim() : "";
-        };
-        return {
-          rank: i + 1,
-          title: get("title"),
-          url: get("link"),
-          snippet: get("ht:news_item_title") || get("description"),
-          traffic: get("ht:approx_traffic"), // 예: ‘20만+’
-        };
-      });
+    const days = data?.default?.trendingSearchesDays || [];
+    const today = days[0] || {};
+    const searches = today.trendingSearches || [];
 
-    const payload = { updatedAt: new Date().toISOString(), items };
+    const items = searches.slice(0, 10).map((s, i) => {
+      const title = s?.title?.query || "";
+      const shareUrl = s?.shareUrl || "";
+      const approx = s?.formattedTraffic || s?.trafficBucket || ""; // 예: "20만+"
+      const article = (s?.articles || [])[0] || {};
+      const snippet = article?.title || article?.snippet || "";
+
+      return {
+        rank: i + 1,
+        title,
+        url: shareUrl || article?.url || "",
+        snippet,
+        traffic: approx,
+      };
+    });
+
+    const payload = {
+      updatedAt: new Date().toISOString(),
+      items,
+    };
+
     fs.mkdirSync(path.dirname(OUT), { recursive: true });
     fs.writeFileSync(OUT, JSON.stringify(payload, null, 2), "utf-8");
     console.log(`✅ trends saved: ${items.length} → ${OUT}`);
