@@ -4,7 +4,16 @@ const fsp = require('fs/promises');
 const path = require('path');
 const { XMLParser } = require('fast-xml-parser');
 
-const RSS_URL = 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=KR';
+const CANDIDATE_URLS = [
+  // 언어/도메인/파라미터 조합 여러 개 시도
+  'https://trends.google.com/trends/trendingsearches/daily/rss?hl=ko&geo=KR',
+  'https://trends.google.com/trends/trendingsearches/daily/rss?geo=KR',
+  'https://trends.google.com/trends/trendingsearches/daily?hl=ko&geo=KR&rss=1',
+  'https://trends.google.co.kr/trends/trendingsearches/daily/rss?hl=ko&geo=KR',
+  // 아주 예전 피드(혹시 몰라서 마지막 후보)
+  'https://www.google.com/trends/hottrends/atom/feed?pn=p9',
+];
+
 const OUT_PATH = path.join(__dirname, '..', 'data', 'trends-kr.json');
 const DEBUG_DIR = path.join(__dirname, '..', 'debug');
 
@@ -13,69 +22,92 @@ async function ensureDir(p) {
 }
 function first(arr) { return Array.isArray(arr) && arr.length ? arr[0] : undefined; }
 
-async function main() {
-  console.log('▶ Fetching trends RSS:', RSS_URL);
-  const res = await fetch(RSS_URL, {
-    headers: {
-      'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-      'accept': 'application/rss+xml,text/xml,*/*',
-    },
-  });
-
-  console.log('◻ status:', res.status, res.statusText);
-  if (!res.ok) {
+async function fetchFirstOk(urls) {
+  let lastText = '';
+  for (const url of urls) {
+    console.log('▶ Trying:', url);
+    const res = await fetch(url, {
+      redirect: 'follow',
+      headers: {
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'accept': 'application/rss+xml,text/xml,*/*',
+        'accept-language': 'ko,en;q=0.8',
+      },
+    });
     const text = await res.text().catch(() => '');
-    await ensureDir(DEBUG_DIR);
+    console.log('   ◻ status:', res.status);
+    if (res.ok) return { url, text };
+    lastText = text || lastText;
+  }
+  return { url: null, text: lastText };
+}
+
+async function main() {
+  await ensureDir(DEBUG_DIR);
+
+  const { url, text } = await fetchFirstOk(CANDIDATE_URLS);
+  if (!url) {
     await fsp.writeFile(path.join(DEBUG_DIR, 'trends-raw.txt'), text ?? '', 'utf8');
-    throw new Error(`trends updater failed: HTTP ${res.status}`);
+    throw new Error('trends updater failed: all candidate URLs returned non-200');
   }
 
-  const xml = await res.text();
-  console.log('◻ received length:', xml.length);
+  console.log('✔ Using source:', url);
+  console.log('◻ received length:', text.length);
 
   const parser = new XMLParser({
     ignoreAttributes: false,
     ignoreDeclaration: true,
     processEntities: true,
     ignoreNameSpace: false,
+    // XML이 아닌 ATOM 변종에도 덜 까다롭게
+    isArray: (name, jpath, isLeafNode, isAttribute) => name === 'item' || name === 'entry',
   });
-  const parsed = parser.parse(xml);
 
+  const parsed = parser.parse(text);
+
+  // RSS / Atom 각각 item/entry로 들어올 수 있음
   const itemsRaw =
     parsed?.rss?.channel?.item ||
     parsed?.channel?.item ||
+    parsed?.feed?.entry ||
     [];
 
   console.log('◻ raw items found:', Array.isArray(itemsRaw) ? itemsRaw.length : 0);
 
   const items = (Array.isArray(itemsRaw) ? itemsRaw.slice(0, 10) : []).map((it, idx) => {
-    const title = it?.title ?? '';
+    // RSS 케이스
+    const rssTitle = it?.title ?? it?.['ht:news_item_title'];
     const traffic =
       it?.['ht:approx_traffic'] ??
       it?.ht_approx_traffic ??
       it?.approx_traffic ??
       '';
-    const link =
+    const rssLink =
       it?.link ??
       first(it?.['ht:news_item'])?.['ht:news_item_url'] ??
       first(it?.ht_news_item)?.news_item_url ??
       '';
 
+    // Atom(옛 피드) 케이스
+    const atomTitle = it?.title;
+    const atomLink = typeof it?.link === 'string'
+      ? it.link
+      : (it?.link?.href || '');
+
+    const title = (rssTitle || atomTitle || '').toString().trim();
+    const link = (rssLink || atomLink || '').toString().trim();
+
     return {
       rank: idx + 1,
-      title: String(title).trim(),
-      traffic: String(traffic).trim(),
-      url: String(link).trim(),
+      title,
+      traffic: String(traffic || '').trim(),
+      url: link,
     };
   });
 
   const out = { updatedAt: new Date().toISOString(), items };
-
-  console.log('◻ normalized items:', items.length);
-  if (items.length) console.log('   -', items.slice(0, 3).map(x => x.title).join(' | '));
-
   await fsp.writeFile(OUT_PATH, JSON.stringify(out, null, 2), 'utf8');
-  console.log('✅ trends-kr.json updated:', OUT_PATH);
+  console.log('✅ trends-kr.json updated with', items.length, 'items');
 }
 
 main().catch(async (err) => {
