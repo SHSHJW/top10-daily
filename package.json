@@ -2,8 +2,5 @@
   "name": "top10-daily",
   "private": true,
   "type": "module",
-  "version": "1.0.0",
-  "dependencies": {
-    "google-trends-api": "^4.9.1"
-  }
+  "version": "1.0.0"
 }
