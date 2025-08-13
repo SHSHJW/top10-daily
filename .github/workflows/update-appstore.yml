@@ -3,14 +3,13 @@ name: Update App Store KR Top 10
 on:
   schedule:
     - cron: "0 23 * * *"   # 매일 KST 08:00 (UTC 23:00)
-  workflow_dispatch:       # 수동 실행 버튼도 유지
+  workflow_dispatch:
 
 permissions:
-  contents: write          # JSON 커밋/푸시 권한
+  contents: write
 
-# 같은 시간대에 겹치면 이전 실행 취소
 concurrency:
-  group: top10-appstore
+  group: top10-daily
   cancel-in-progress: true
 
 jobs:
@@ -23,13 +22,19 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Run updater
+      # 1) App Store 업데이트 (기존 파일 사용)
+      - name: Run App Store updater
         run: node scripts/update-appstore.cjs
 
+      # 2) Google Trends 업데이트 (아래 새로 추가하는 스크립트)
+      - name: Run Trends updater
+        run: node scripts/update_trends_kr.cjs
+
+      # 변경된 JSON 둘 다 커밋
       - name: Commit & push JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/appstore-kr.json
-          git commit -m "auto: update appstore KR top10" || echo "No changes"
+          git add data/appstore-kr.json data/trends-kr.json
+          git commit -m "auto: update appstore & trends" || echo "No changes"
           git push
