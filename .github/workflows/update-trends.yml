@@ -3,16 +3,12 @@ name: Update Google Trends KR
 on:
   workflow_dispatch:
   schedule:
-    # 매일 08:05 KST (KST-9h = 23:05 UTC)
-    - cron: "5 23 * * *"
-
-permissions:
-  contents: write
+    # 매일 00:15 UTC (KST 09:15) — 원하면 시간 바꿔도 됨
+    - cron: '15 0 * * *'
 
 jobs:
   update-trends:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Checkout
@@ -21,22 +17,23 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: '20'
+          cache: 'npm'
 
-      - name: Update trends JSON
-        env:
-          # 있으면 자동 폴백 사용 (선택)
-          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
-        run: node scripts/update_trends_kr.cjs
+      - name: Install deps
+        run: npm install --no-audit --no-fund
 
-      - name: Commit & push if changed
+      - name: Run updater
+        run: node scripts/update_trends_kr.mjs
+
+      - name: Commit & push JSON
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name  "github-actions[bot]"
+            git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add data/trends-kr.json
             git commit -m "auto: update trends KR"
             git push
           else
-            echo "No changes."
+            echo "No changes to commit."
           fi
