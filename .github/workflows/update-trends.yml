@@ -3,8 +3,7 @@ name: Update Google Trends KR
 on:
   workflow_dispatch:
   schedule:
-    # 매일 00:15 UTC (KST 09:15). 원하면 바꿔도 OK
-    - cron: '15 0 * * *'
+    - cron: '15 0 * * *'   # 매일 KST 09:15 (UTC 00:15)
 
 jobs:
   update-trends:
@@ -18,11 +17,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          # ⚠️ 캐시 옵션 제거(락파일 없어서 실패하던 부분)
-          # cache: 'npm'
-
-      - name: Install deps
-        run: npm install --no-audit --no-fund
 
       - name: Run updater
         run: node scripts/update_trends_kr.mjs
