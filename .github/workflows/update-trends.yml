@@ -1,0 +1,38 @@
+name: Update Google Trends KR
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 23 * * *' # 매일 KST 오전 8시 (UTC 23시). 원하면 바꿔도 OK
+
+jobs:
+  update-trends:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install deps for trends
+        run: npm install fast-xml-parser
+
+      - name: Run Trends updater
+        run: node scripts/update_trends_kr.cjs
+
+      - name: Upload raw trends on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-trends-response
+          path: debug/trends-raw.txt
+
+      - name: Commit & push JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/trends-kr.json
+          git commit -m "auto: update trends KR" || echo "no changes"
+          git push
