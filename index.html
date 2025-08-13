@@ -4,12 +4,19 @@
 <style>
   body{margin:0;background:#0b1220;color:#e6edf7;font:15px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
   .wrap{max-width:960px;margin:60px auto;padding:0 16px}
-  a.card{display:block;padding:18px 20px;border:1px solid #22304a;border-radius:14px;background:#0f172a;color:#cfe0ff;text-decoration:none}
+  a.card{display:block;padding:18px 20px;border:1px solid #22304a;border-radius:14px;background:#0f172a;color:#cfe0ff;text-decoration:none;margin-bottom:12px}
   a.card:hover{outline:2px solid #30549b}
+  h1{margin:0 0 14px}
+  .muted{color:#9db0cc}
 </style>
 <div class="wrap">
-  <h1 style="margin:0 0 14px">Top 10 Daily</h1>
-  <p style="color:#9db0cc">매일 자동으로 업데이트되는 랭킹</p>
+  <h1>Top 10 Daily</h1>
+  <p class="muted">매일 자동으로 업데이트되는 랭킹</p>
+
+  <!-- 기존 카드 -->
   <a class="card" href="appstore-kr.html">🇰🇷 App Store Top 10</a>
+
+  <!-- ★ 새 카드: 바로 아래 1줄 추가해도 되지만 전체 교체 요청이라 같이 넣음 -->
+  <a class="card" href="trends-kr.html">🇰🇷 Google Trends Top 10</a>
 </div>
 </html>
