@@ -1,15 +1,11 @@
 // scripts/update_trends_kr.cjs
-// Robust Google Trends (KR) updater: HTML -> __NEXT_DATA__ JSON 파싱 + 다중 폴백
-import fs from "fs/promises";
-import path from "path";
-import { fileURLToPath } from "url";
+// Robust Google Trends (KR) updater: HTML -> __NEXT_DATA__ JSON 파싱 + 다중 폴백 (CommonJS)
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const fs = require("fs/promises");
+const path = require("path");
 
 const OUT_PATH = path.join(__dirname, "..", "data", "trends-kr.json");
 
-// 1순위: 실제 페이지 HTML에서 __NEXT_DATA__ 파싱
 const TREND_PAGES = [
   "https://trends.google.com/trends/trendingsearches/daily?geo=KR&hl=ko",
   "https://trends.google.com/trending/trendingsearches/daily?geo=KR&hl=ko",
@@ -19,6 +15,7 @@ const TREND_PAGES = [
 const UA =
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
+// Node 18+ 은 fetch 내장
 async function fetchText(url) {
   const res = await fetch(url, {
     headers: {
@@ -31,7 +28,7 @@ async function fetchText(url) {
   return res.text();
 }
 
-// __NEXT_DATA__ JSON 문자열 추출
+// __NEXT_DATA__ 추출
 function extractNextData(html) {
   const m = html.match(
     /<script id="__NEXT_DATA__" type="application\/json">(.+?)<\/script>/
@@ -44,12 +41,12 @@ function extractNextData(html) {
   }
 }
 
-// JSON 트리 어디에 있든 trendingSearches 배열을 찾아내는 탐색기
+// 트리 어디든 trendingSearches 배열을 탐색
 function findTrendingArray(obj) {
   if (!obj || typeof obj !== "object") return null;
 
-  // 흔한 패턴들 우선 체크
   if (Array.isArray(obj.trendingSearches)) return obj.trendingSearches;
+
   if (Array.isArray(obj.trendingSearchesDays)) {
     const day = obj.trendingSearchesDays.find(
       (d) => Array.isArray(d.trendingSearches)
@@ -57,7 +54,6 @@ function findTrendingArray(obj) {
     if (day) return day.trendingSearches;
   }
 
-  // 일반 DFS
   for (const v of Object.values(obj)) {
     if (v && typeof v === "object") {
       const found = findTrendingArray(v);
@@ -67,13 +63,16 @@ function findTrendingArray(obj) {
   return null;
 }
 
-// __NEXT_DATA__에서 Top 10 아이템 생성
+// __NEXT_DATA__ → items Top10
 function buildItemsFromNextData(nextData) {
   const arr = findTrendingArray(nextData) || [];
   const items = arr.slice(0, 10).map((t, i) => {
     const title =
-      t?.title?.query ?? t?.title ?? t?.query ?? t?.keyword ?? "제목없음";
-    const article = t?.articles?.[0] ?? {};
+      (t && t.title && (t.title.query || t.title)) ||
+      t?.query ||
+      t?.keyword ||
+      "제목없음";
+    const article = t?.articles?.[0] || {};
     const url = article.url || t?.shareUrl || "";
     const source = article.source || "";
     const image =
@@ -92,7 +91,7 @@ function buildItemsFromNextData(nextData) {
   return items;
 }
 
-// 2순위 폴백: SerpAPI (있을 때만)
+// 선택 폴백: SerpAPI
 async function fetchFromSerpAPI() {
   const key = process.env.SERPAPI_KEY;
   if (!key) return [];
@@ -103,7 +102,7 @@ async function fetchFromSerpAPI() {
   if (!res.ok) throw new Error(`SerpAPI HTTP ${res.status}`);
   const data = await res.json();
   const arr = data?.trending_searches ?? data?.trends ?? [];
-  const items = arr.slice(0, 10).map((t, i) => ({
+  return arr.slice(0, 10).map((t, i) => ({
     rank: i + 1,
     title: t?.title || t?.query || "제목없음",
     url: t?.news_url || t?.link || t?.url || "",
@@ -111,10 +110,9 @@ async function fetchFromSerpAPI() {
     image: t?.thumbnail || "",
     traffic: t?.formattedTraffic || t?.traffic || "",
   }));
-  return items;
 }
 
-// 마지막 폴백: 이전 파일 유지 (빈 결과 방지)
+// 마지막 폴백: 이전 결과 유지
 async function keepPreviousIfAny() {
   try {
     const prev = JSON.parse(await fs.readFile(OUT_PATH, "utf8"));
