@@ -1,93 +1,174 @@
 // scripts/update_trends_kr.cjs
-// Node 20+ (global fetch). 여러 엔드포인트 시도 + 실패 시 빈 데이터로도 커밋.
+// Robust Google Trends (KR) updater: HTML -> __NEXT_DATA__ JSON 파싱 + 다중 폴백
+import fs from "fs/promises";
+import path from "path";
+import { fileURLToPath } from "url";
 
-const fs = require("fs");
-const path = require("path");
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const OUT_PATH = path.join(__dirname, "..", "data", "trends-kr.json");
 
-// 순차 시도할 후보 URL들 (일부는 언어/네임스페이스/로캘 변형)
-const CANDIDATE_URLS = [
-  "https://trends.google.com/trends/api/dailytrends?hl=ko&tz=-540&geo=KR",
-  "https://trends.google.com/trends/api/dailytrends?hl=ko-KR&tz=-540&geo=KR",
-  "https://trends.google.com/trends/api/dailytrends?hl=en&tz=-540&geo=KR&ns=15",
-  "https://trends.google.com/trends/api/dailytrends?hl=en-US&tz=-540&geo=KR",
+// 1순위: 실제 페이지 HTML에서 __NEXT_DATA__ 파싱
+const TREND_PAGES = [
+  "https://trends.google.com/trends/trendingsearches/daily?geo=KR&hl=ko",
+  "https://trends.google.com/trending/trendingsearches/daily?geo=KR&hl=ko",
+  "https://trends.google.co.kr/trends/trendingsearches/daily?geo=KR&hl=ko",
 ];
 
-const COMMON_HEADERS = {
-  // 일부 프록시/버전에서 헤더 없으면 404/403 주는 경우가 있어 최소한 붙여줌
-  "User-Agent":
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-  Accept: "application/json, text/plain, */*",
-  "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
-};
+const UA =
+  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
-async function tryFetch(url) {
+async function fetchText(url) {
+  const res = await fetch(url, {
+    headers: {
+      "User-Agent": UA,
+      "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
+    },
+    redirect: "follow",
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status} @ ${url}`);
+  return res.text();
+}
+
+// __NEXT_DATA__ JSON 문자열 추출
+function extractNextData(html) {
+  const m = html.match(
+    /<script id="__NEXT_DATA__" type="application\/json">(.+?)<\/script>/
+  );
+  if (!m) return null;
   try {
-    const res = await fetch(url, { headers: COMMON_HEADERS });
-    if (!res.ok) {
-      console.warn(`⚠️  ${url} -> HTTP ${res.status}`);
-      return null;
-    }
-    const raw = await res.text();
-    const cleaned = raw.replace(/^\)\]\}',?\s*/, ""); // XSSI prefix 제거
-    const json = JSON.parse(cleaned);
-    return json;
-  } catch (e) {
-    console.warn(`⚠️  fetch error for ${url}: ${e.message}`);
+    return JSON.parse(m[1]);
+  } catch {
     return null;
   }
 }
 
-function toItems(json) {
-  const day = json?.default?.trendingSearchesDays?.[0];
-  const list = day?.trendingSearches || [];
-  return list.map((t, i) => {
-    const title = t?.title?.query || "";
+// JSON 트리 어디에 있든 trendingSearches 배열을 찾아내는 탐색기
+function findTrendingArray(obj) {
+  if (!obj || typeof obj !== "object") return null;
+
+  // 흔한 패턴들 우선 체크
+  if (Array.isArray(obj.trendingSearches)) return obj.trendingSearches;
+  if (Array.isArray(obj.trendingSearchesDays)) {
+    const day = obj.trendingSearchesDays.find(
+      (d) => Array.isArray(d.trendingSearches)
+    );
+    if (day) return day.trendingSearches;
+  }
+
+  // 일반 DFS
+  for (const v of Object.values(obj)) {
+    if (v && typeof v === "object") {
+      const found = findTrendingArray(v);
+      if (found) return found;
+    }
+  }
+  return null;
+}
+
+// __NEXT_DATA__에서 Top 10 아이템 생성
+function buildItemsFromNextData(nextData) {
+  const arr = findTrendingArray(nextData) || [];
+  const items = arr.slice(0, 10).map((t, i) => {
+    const title =
+      t?.title?.query ?? t?.title ?? t?.query ?? t?.keyword ?? "제목없음";
+    const article = t?.articles?.[0] ?? {};
+    const url = article.url || t?.shareUrl || "";
+    const source = article.source || "";
+    const image =
+      t?.image?.imageUrl || article?.image?.imageUrl || article?.image || "";
     const traffic = t?.formattedTraffic || "";
-    const icon =
-      t?.image?.imageUrl || "https://www.google.com/favicon.ico";
-    const url =
-      (t?.articles && t.articles[0]?.url) ||
-      `https://www.google.com/search?q=${encodeURIComponent(title)}`;
-    return { rank: i + 1, title, traffic, icon, url };
+
+    return {
+      rank: i + 1,
+      title,
+      url,
+      source,
+      image,
+      traffic,
+    };
   });
+  return items;
+}
+
+// 2순위 폴백: SerpAPI (있을 때만)
+async function fetchFromSerpAPI() {
+  const key = process.env.SERPAPI_KEY;
+  if (!key) return [];
+  const url =
+    "https://serpapi.com/search.json?engine=google_trends_trending_now&hl=ko&geo=KR&api_key=" +
+    encodeURIComponent(key);
+  const res = await fetch(url, { headers: { "User-Agent": UA } });
+  if (!res.ok) throw new Error(`SerpAPI HTTP ${res.status}`);
+  const data = await res.json();
+  const arr = data?.trending_searches ?? data?.trends ?? [];
+  const items = arr.slice(0, 10).map((t, i) => ({
+    rank: i + 1,
+    title: t?.title || t?.query || "제목없음",
+    url: t?.news_url || t?.link || t?.url || "",
+    source: t?.source || "",
+    image: t?.thumbnail || "",
+    traffic: t?.formattedTraffic || t?.traffic || "",
+  }));
+  return items;
+}
+
+// 마지막 폴백: 이전 파일 유지 (빈 결과 방지)
+async function keepPreviousIfAny() {
+  try {
+    const prev = JSON.parse(await fs.readFile(OUT_PATH, "utf8"));
+    return prev?.items?.length ? prev.items : [];
+  } catch {
+    return [];
+  }
 }
 
 async function main() {
-  let parsed = null;
+  let items = [];
 
-  for (const url of CANDIDATE_URLS) {
-    const json = await tryFetch(url);
-    if (!json) continue;
-
-    const items = toItems(json);
-    if (items.length > 0) {
-      parsed = { updatedAt: new Date().toISOString(), items };
-      console.log(`✅ success via: ${url} (items=${items.length})`);
-      break;
-    } else {
-      console.warn(`⚠️  parsed but empty from: ${url}`);
+  // 1) HTML -> __NEXT_DATA__
+  for (const url of TREND_PAGES) {
+    try {
+      const html = await fetchText(url);
+      const nextData = extractNextData(html);
+      if (!nextData) continue;
+      items = buildItemsFromNextData(nextData);
+      if (items.length) break;
+    } catch (e) {
+      console.log(`[WARN] next-data fetch fail @${url}:`, e.message);
     }
   }
 
-  if (!parsed) {
-    // 모든 시도 실패 → 실패로 끝내면 전체 워크플로가 빨개져서 일정이 멈춤.
-    // 우선은 빈 리스트로 저장하고 성공 처리(페이지는 최신 시간으로 유지).
-    parsed = { updatedAt: new Date().toISOString(), items: [] };
-    console.warn("⚠️  all endpoints failed. saving empty items for now.");
+  // 2) SerpAPI (선택)
+  if (!items.length) {
+    try {
+      items = await fetchFromSerpAPI();
+      if (items.length) console.log("Used SerpAPI fallback.");
+    } catch (e) {
+      console.log("[WARN] SerpAPI fallback fail:", e.message);
+    }
   }
 
-  fs.mkdirSync(path.dirname(OUT_PATH), { recursive: true });
-  fs.writeFileSync(OUT_PATH, JSON.stringify(parsed, null, 2), "utf8");
-  console.log(
-    `trends-kr.json written. items=${parsed.items.length}, at=${parsed.updatedAt}`
-  );
+  // 3) 이전 파일 유지
+  if (!items.length) {
+    const prev = await keepPreviousIfAny();
+    if (prev.length) {
+      console.log("No fresh data. Kept previous items.");
+      items = prev;
+    }
+  }
+
+  const out = {
+    updatedAt: new Date().toISOString(),
+    items,
+  };
+
+  await fs.writeFile(OUT_PATH, JSON.stringify(out, null, 2) + "\n", "utf8");
+  console.log(`Saved ${items.length} items to ${OUT_PATH}`);
 }
 
 main().catch((e) => {
-  console.error("unexpected error:", e);
-  // 그래도 빈 데이터라도 남기고 끝내고 싶다면 여기서도 파일 써도 됨.
-  process.exit(0);
+  console.error(e);
+  process.exit(1);
 });
