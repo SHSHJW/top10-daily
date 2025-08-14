@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-13T23:33:48.636Z",
+  "updatedAt": "2025-08-14T23:33:02.578Z",
   "items": [
     {
       "rank": 1,
@@ -21,33 +21,6 @@
     },
     {
       "rank": 3,
-      "title": "워드마스터 통합 학습앱",
-      "artist": "Etoos Education",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%9B%8C%EB%93%9C%EB%A7%88%EC%8A%A4%ED%84%B0-%ED%86%B5%ED%95%A9-%ED%95%99%EC%8A%B5%EC%95%B1/id6747540936",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/ec/37/13ec37a6-a432-b104-2893-c28c62919965/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "SHEIN - 온라인 쇼핑",
-      "artist": "ROADGET BUSINESS PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/shein-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%87%BC%ED%95%91/id878577184",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/5f/3a/625f3aa5-b26c-ad83-6bc9-698b5ffa13f2/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "모바일티머니",
-      "artist": "Tmoney Co., Ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/e2/d2/3ee2d24a-a503-41e7-c60f-a6c8c70ffa54/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -56,7 +29,43 @@
       "price": "무료"
     },
     {
+      "rank": 4,
+      "title": "워드마스터 통합 학습앱",
+      "artist": "Etoos Education",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%9B%8C%EB%93%9C%EB%A7%88%EC%8A%A4%ED%84%B0-%ED%86%B5%ED%95%A9-%ED%95%99%EC%8A%B5%EC%95%B1/id6747540936",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/82/35/32823577-55c4-30f4-002b-253c7ef8c116/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "하나머니(트래블로그)",
+      "artist": "Hana Card Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EB%A8%B8%EB%8B%88-%ED%8A%B8%EB%9E%98%EB%B8%94%EB%A1%9C%EA%B7%B8/id1038288833",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/fa/4e/d2fa4e58-6961-4e6c-030f-b1dc2835deb4/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "Mnet Plus",
+      "artist": "CJ ENM Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/22/3f/dd223f84-5521-0407-ff1e-e42a6d78446b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 7,
+      "title": "모바일티머니",
+      "artist": "Tmoney Co., Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/e2/d2/3ee2d24a-a503-41e7-c60f-a6c8c70ffa54/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "정부24(구 민원24)",
       "artist": "행정안전부",
       "category": "",
@@ -65,21 +74,12 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/8b/fc/e78bfcae-6007-91b5-ed77-0c1673a13ff8/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 9,
-      "title": "땡겨요",
-      "artist": "SHINHAN BANK",
+      "title": "SHEIN - 온라인 쇼핑",
+      "artist": "ROADGET BUSINESS PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/19/7d/86197d50-21db-f80c-0608-6d3f3e791807/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/shein-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%87%BC%ED%95%91/id878577184",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/5f/3a/625f3aa5-b26c-ad83-6bc9-698b5ffa13f2/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -88,7 +88,7 @@
       "artist": "행정안전부",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/32/f8/2832f811-bf71-75fa-be38-2952389dd4eb/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/37/99/7e379928-b6a1-76d1-213e-11a5935be0c5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
