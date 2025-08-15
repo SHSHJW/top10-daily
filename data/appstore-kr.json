@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-14T23:33:02.578Z",
+  "updatedAt": "2025-08-15T23:32:56.681Z",
   "items": [
     {
       "rank": 1,
@@ -12,6 +12,15 @@
     },
     {
       "rank": 2,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/57/3a/fa573a26-4e29-a3ac-2093-390032918dbd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
@@ -20,7 +29,7 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -29,25 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "워드마스터 통합 학습앱",
-      "artist": "Etoos Education",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%9B%8C%EB%93%9C%EB%A7%88%EC%8A%A4%ED%84%B0-%ED%86%B5%ED%95%A9-%ED%95%99%EC%8A%B5%EC%95%B1/id6747540936",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/82/35/32823577-55c4-30f4-002b-253c7ef8c116/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 5,
-      "title": "하나머니(트래블로그)",
-      "artist": "Hana Card Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EB%A8%B8%EB%8B%88-%ED%8A%B8%EB%9E%98%EB%B8%94%EB%A1%9C%EA%B7%B8/id1038288833",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/fa/4e/d2fa4e58-6961-4e6c-030f-b1dc2835deb4/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "Mnet Plus",
       "artist": "CJ ENM Co., Ltd.",
       "category": "",
@@ -56,7 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "모바일티머니",
       "artist": "Tmoney Co., Ltd",
       "category": "",
@@ -65,12 +56,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "정부24(구 민원24)",
-      "artist": "행정안전부",
+      "rank": 7,
+      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
+      "artist": "SKYWORK AI PTE LTD",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/b8/f7/42b8f7d5-f094-6ee4-7cb8-e67bbc8111d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/8a/b5/6c8ab51c-255a-1c81-8ee8-65b3dcb2e707/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "캐치테이블",
+      "artist": "WADcorp",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e2/65/c4e26539-d5dd-6e9a-51d6-0fddf91074e3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -79,16 +79,16 @@
       "artist": "ROADGET BUSINESS PTE. LTD.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/shein-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%87%BC%ED%95%91/id878577184",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/5f/3a/625f3aa5-b26c-ad83-6bc9-698b5ffa13f2/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/21/7e/56217ed8-14c7-a71e-5f1d-008139049950/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "대한민국 모바일 신분증",
-      "artist": "행정안전부",
+      "title": "땡겨요",
+      "artist": "SHINHAN BANK",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/37/99/7e379928-b6a1-76d1-213e-11a5935be0c5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/19/7d/86197d50-21db-f80c-0608-6d3f3e791807/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
