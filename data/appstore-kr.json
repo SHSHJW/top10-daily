@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-15T23:32:56.681Z",
+  "updatedAt": "2025-08-16T23:30:27.415Z",
   "items": [
     {
       "rank": 1,
@@ -39,42 +39,15 @@
     },
     {
       "rank": 5,
-      "title": "Mnet Plus",
-      "artist": "CJ ENM Co., Ltd.",
+      "title": "PDF Reader Pro: Scan & Convert",
+      "artist": "thuy nguyen thi thu",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/22/3f/dd223f84-5521-0407-ff1e-e42a6d78446b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/pdf-reader-pro-scan-convert/id6742165758",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/3e/77/fb3e77ae-f842-1921-19fb-e798f6e369c3/AppIcon-Default-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
-      "title": "모바일티머니",
-      "artist": "Tmoney Co., Ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/e2/d2/3ee2d24a-a503-41e7-c60f-a6c8c70ffa54/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
-      "artist": "SKYWORK AI PTE LTD",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/8a/b5/6c8ab51c-255a-1c81-8ee8-65b3dcb2e707/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "캐치테이블",
-      "artist": "WADcorp",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e2/65/c4e26539-d5dd-6e9a-51d6-0fddf91074e3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "SHEIN - 온라인 쇼핑",
       "artist": "ROADGET BUSINESS PTE. LTD.",
       "category": "",
@@ -83,12 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "땡겨요",
-      "artist": "SHINHAN BANK",
+      "rank": 7,
+      "title": "캐치테이블",
+      "artist": "WADcorp",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/19/7d/86197d50-21db-f80c-0608-6d3f3e791807/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e2/65/c4e26539-d5dd-6e9a-51d6-0fddf91074e3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Mnet Plus",
+      "artist": "CJ ENM Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/22/3f/dd223f84-5521-0407-ff1e-e42a6d78446b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
+      "artist": "SKYWORK AI PTE LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/8a/b5/6c8ab51c-255a-1c81-8ee8-65b3dcb2e707/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "모바일티머니",
+      "artist": "Tmoney Co., Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/e2/d2/3ee2d24a-a503-41e7-c60f-a6c8c70ffa54/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
