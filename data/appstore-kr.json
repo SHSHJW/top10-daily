@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-17T23:33:39.466Z",
+  "updatedAt": "2025-08-18T23:31:19.189Z",
   "items": [
     {
       "rank": 1,
@@ -21,33 +21,15 @@
     },
     {
       "rank": 3,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/57/3a/fa573a26-4e29-a3ac-2093-390032918dbd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/92/31/319231aa-5a39-04c3-1b33-de01c67cfe04/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/0d/5a/850d5ac6-01d2-cab4-6f3f-80148ed8c7b2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "SHEIN - 온라인 쇼핑",
-      "artist": "ROADGET BUSINESS PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/shein-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%87%BC%ED%95%91/id878577184",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/21/7e/56217ed8-14c7-a71e-5f1d-008139049950/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -56,7 +38,34 @@
       "price": "무료"
     },
     {
+      "rank": 5,
+      "title": "정부24(구 민원24)",
+      "artist": "행정안전부",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/b8/f7/42b8f7d5-f094-6ee4-7cb8-e67bbc8111d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "클랙 - 굿즈거래(애니,게임,만화,웹툰,소설)",
+      "artist": "PAIRING Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%81%B4%EB%9E%99-%EA%B5%BF%EC%A6%88%EA%B1%B0%EB%9E%98-%EC%95%A0%EB%8B%88-%EA%B2%8C%EC%9E%84-%EB%A7%8C%ED%99%94-%EC%9B%B9%ED%88%B0-%EC%86%8C%EC%84%A4/id1468386808",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/cd/2f/14cd2ff8-50dc-c1f3-292d-923d7ff2a3ba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 7,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/57/3a/fa573a26-4e29-a3ac-2093-390032918dbd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -65,30 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "쿠팡플레이",
-      "artist": "Coupang Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%8C%A1%ED%94%8C%EB%A0%88%EC%9D%B4/id1536885649",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/ee/92/52ee924a-1b9b-2f8b-e6d9-57740b4ba787/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 9,
-      "title": "Temu: 억만장자처럼 쇼핑하기",
-      "artist": "Temu",
+      "title": "SHEIN - 온라인 쇼핑",
+      "artist": "ROADGET BUSINESS PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/temu-%EC%96%B5%EB%A7%8C%EC%9E%A5%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%87%BC%ED%95%91%ED%95%98%EA%B8%B0/id1641486558",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/2f/1c/5c2f1c80-5c0a-41af-27a0-741b38dd0681/AppIcon-1x_U007emarketing-0-8-0-0-P3-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/shein-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%87%BC%ED%95%91/id878577184",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/5e/a7/105ea777-a3ae-2bcf-f3cd-e246ba759ed6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "Nike Run Club: 러닝 앱",
-      "artist": "Nike, Inc",
+      "title": "Uber Taxi(우버 택시) - 택시 호출 플랫폼",
+      "artist": "Uber Technologies, Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/4d/7e/274d7ead-8ff3-8019-32e6-c33514f60a7a/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/uber-taxi-%EC%9A%B0%EB%B2%84-%ED%83%9D%EC%8B%9C-%ED%83%9D%EC%8B%9C-%ED%98%B8%EC%B6%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC/id368677368",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/f5/05/03f50513-74b5-5a84-d511-c02a44b4d8a1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
