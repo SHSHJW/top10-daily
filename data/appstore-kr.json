@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-18T23:31:19.189Z",
+  "updatedAt": "2025-08-19T23:30:39.120Z",
   "items": [
     {
       "rank": 1,
@@ -12,11 +12,11 @@
     },
     {
       "rank": 2,
-      "title": "PDF Reader Pro: Scan & Convert",
-      "artist": "thuy nguyen thi thu",
+      "title": "클랙 - 굿즈거래(애니,게임,만화,웹툰,소설)",
+      "artist": "PAIRING Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/pdf-reader-pro-scan-convert/id6742165758",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/3e/77/fb3e77ae-f842-1921-19fb-e798f6e369c3/AppIcon-Default-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%81%B4%EB%9E%99-%EA%B5%BF%EC%A6%88%EA%B1%B0%EB%9E%98-%EC%95%A0%EB%8B%88-%EA%B2%8C%EC%9E%84-%EB%A7%8C%ED%99%94-%EC%9B%B9%ED%88%B0-%EC%86%8C%EC%84%A4/id1468386808",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/cd/2f/14cd2ff8-50dc-c1f3-292d-923d7ff2a3ba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -34,25 +34,25 @@
       "artist": "TikTok Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/26/63/a12663da-f267-c71a-679b-db90ea46dcfe/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/17/21/a817218d-66a3-e5d3-2b17-0506a08c4e20/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/42/c7/f142c787-622f-3412-5e24-e91a7c54cf8c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
       "title": "정부24(구 민원24)",
       "artist": "행정안전부",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/b8/f7/42b8f7d5-f094-6ee4-7cb8-e67bbc8111d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "클랙 - 굿즈거래(애니,게임,만화,웹툰,소설)",
-      "artist": "PAIRING Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%81%B4%EB%9E%99-%EA%B5%BF%EC%A6%88%EA%B1%B0%EB%9E%98-%EC%95%A0%EB%8B%88-%EA%B2%8C%EC%9E%84-%EB%A7%8C%ED%99%94-%EC%9B%B9%ED%88%B0-%EC%86%8C%EC%84%A4/id1468386808",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/cd/2f/14cd2ff8-50dc-c1f3-292d-923d7ff2a3ba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,15 +66,6 @@
     },
     {
       "rank": 8,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/42/c7/f142c787-622f-3412-5e24-e91a7c54cf8c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "SHEIN - 온라인 쇼핑",
       "artist": "ROADGET BUSINESS PTE. LTD.",
       "category": "",
@@ -83,12 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "Uber Taxi(우버 택시) - 택시 호출 플랫폼",
-      "artist": "Uber Technologies, Inc.",
+      "rank": 9,
+      "title": "Nike Run Club: 러닝 앱",
+      "artist": "Nike, Inc",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/uber-taxi-%EC%9A%B0%EB%B2%84-%ED%83%9D%EC%8B%9C-%ED%83%9D%EC%8B%9C-%ED%98%B8%EC%B6%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC/id368677368",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/f5/05/03f50513-74b5-5a84-d511-c02a44b4d8a1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/4d/7e/274d7ead-8ff3-8019-32e6-c33514f60a7a/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "모바일티머니",
+      "artist": "Tmoney Co., Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/e2/d2/3ee2d24a-a503-41e7-c60f-a6c8c70ffa54/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
