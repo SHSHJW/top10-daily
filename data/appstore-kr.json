@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-19T23:30:39.120Z",
+  "updatedAt": "2025-08-20T23:30:13.419Z",
   "items": [
     {
       "rank": 1,
@@ -12,15 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "클랙 - 굿즈거래(애니,게임,만화,웹툰,소설)",
-      "artist": "PAIRING Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%81%B4%EB%9E%99-%EA%B5%BF%EC%A6%88%EA%B1%B0%EB%9E%98-%EC%95%A0%EB%8B%88-%EA%B2%8C%EC%9E%84-%EB%A7%8C%ED%99%94-%EC%9B%B9%ED%88%B0-%EC%86%8C%EC%84%A4/id1468386808",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/cd/2f/14cd2ff8-50dc-c1f3-292d-923d7ff2a3ba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
@@ -29,7 +20,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -38,16 +29,16 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/42/c7/f142c787-622f-3412-5e24-e91a7c54cf8c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/55/f1/6e55f11e-a2ff-471d-51e6-2ea130fd78b1/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "정부24(구 민원24)",
       "artist": "행정안전부",
       "category": "",
@@ -56,16 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/57/3a/fa573a26-4e29-a3ac-2093-390032918dbd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "title": "SHEIN - 온라인 쇼핑",
       "artist": "ROADGET BUSINESS PTE. LTD.",
       "category": "",
@@ -74,21 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "Nike Run Club: 러닝 앱",
-      "artist": "Nike, Inc",
+      "rank": 7,
+      "title": "T 멤버십",
+      "artist": "SK Telecom",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/4d/7e/274d7ead-8ff3-8019-32e6-c33514f60a7a/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/t-%EB%A9%A4%EB%B2%84%EC%8B%AD/id464205249",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/6e/c8/b86ec8e7-b5c1-d320-d34c-90eda0b87d3b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Spotify (스포티파이) : 뮤직 & 팟캐스트 앱",
+      "artist": "Spotify",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/spotify-%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-%EB%AE%A4%EC%A7%81-%ED%8C%9F%EC%BA%90%EC%8A%A4%ED%8A%B8-%EC%95%B1/id324684580",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/65/fe/2865fe2d-ddb1-cfd5-7bbc-879b241e5e18/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/57/3a/fa573a26-4e29-a3ac-2093-390032918dbd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "모바일티머니",
-      "artist": "Tmoney Co., Ltd",
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/e2/d2/3ee2d24a-a503-41e7-c60f-a6c8c70ffa54/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/37/99/7e379928-b6a1-76d1-213e-11a5935be0c5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
