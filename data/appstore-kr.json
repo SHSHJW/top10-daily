@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-21T23:30:16.403Z",
+  "updatedAt": "2025-08-22T23:30:09.003Z",
   "items": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/57/3a/fa573a26-4e29-a3ac-2093-390032918dbd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/c6/b0/6dc6b05d-c027-9b98-39a6-051de8a969fe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,15 +39,6 @@
     },
     {
       "rank": 5,
-      "title": "TikTok Lite",
-      "artist": "TikTok Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/17/21/a817218d-66a3-e5d3-2b17-0506a08c4e20/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "정부24(구 민원24)",
       "artist": "행정안전부",
       "category": "",
@@ -56,7 +47,25 @@
       "price": "무료"
     },
     {
+      "rank": 6,
+      "title": "TikTok Lite",
+      "artist": "TikTok Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/17/21/a817218d-66a3-e5d3-2b17-0506a08c4e20/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 7,
+      "title": "Mnet Plus",
+      "artist": "CJ ENM Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/e4/c3/98e4c371-1fa2-90d6-c1ae-bd4a5f01c366/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -65,30 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "롯데마트 제타",
-      "artist": "LOTTE Mart",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A1%AF%EB%8D%B0%EB%A7%88%ED%8A%B8-%EC%A0%9C%ED%83%80/id6447296984",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/ab/3a/3eab3aab-4e88-e70f-4bf2-2f8f8213f75f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 9,
-      "title": "SHEIN - 온라인 쇼핑",
-      "artist": "ROADGET BUSINESS PTE. LTD.",
+      "title": "MegaBox",
+      "artist": "Megabox Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/shein-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%87%BC%ED%95%91/id878577184",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/05/24/53052496-9c49-43b7-df67-61a4e167adcc/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/megabox/id894443858",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/50/17/53501749-6cda-82d4-86fc-ae44c584e227/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "대한민국 모바일 신분증",
-      "artist": "행정안전부",
+      "title": "KREAM(크림) - No.1 한정판 거래 플랫폼",
+      "artist": "KREAM Corporation",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/37/99/7e379928-b6a1-76d1-213e-11a5935be0c5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/kream-%ED%81%AC%EB%A6%BC-no-1-%ED%95%9C%EC%A0%95%ED%8C%90-%EA%B1%B0%EB%9E%98-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1490580239",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/98/cf/eb98cfa4-79e3-33a4-b46a-1823aea2ef4d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
