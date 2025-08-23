@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-22T23:30:09.003Z",
+  "updatedAt": "2025-08-23T23:29:51.877Z",
   "items": [
     {
       "rank": 1,
@@ -39,24 +39,6 @@
     },
     {
       "rank": 5,
-      "title": "정부24(구 민원24)",
-      "artist": "행정안전부",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/b8/f7/42b8f7d5-f094-6ee4-7cb8-e67bbc8111d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "TikTok Lite",
-      "artist": "TikTok Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/17/21/a817218d-66a3-e5d3-2b17-0506a08c4e20/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "Mnet Plus",
       "artist": "CJ ENM Co., Ltd.",
       "category": "",
@@ -65,16 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/55/f1/6e55f11e-a2ff-471d-51e6-2ea130fd78b1/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "MegaBox",
       "artist": "Megabox Ltd.",
       "category": "",
@@ -83,12 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "KREAM(크림) - No.1 한정판 거래 플랫폼",
-      "artist": "KREAM Corporation",
+      "rank": 7,
+      "title": "정부24(구 민원24)",
+      "artist": "행정안전부",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/kream-%ED%81%AC%EB%A6%BC-no-1-%ED%95%9C%EC%A0%95%ED%8C%90-%EA%B1%B0%EB%9E%98-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1490580239",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/98/cf/eb98cfa4-79e3-33a4-b46a-1823aea2ef4d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/b8/f7/42b8f7d5-f094-6ee4-7cb8-e67bbc8111d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "TikTok Lite",
+      "artist": "TikTok Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/17/21/a817218d-66a3-e5d3-2b17-0506a08c4e20/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "뤼튼 - 매일 쓰는 AI",
+      "artist": "wrtn technologies Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%A4%BC%ED%8A%BC-%EB%A7%A4%EC%9D%BC-%EC%93%B0%EB%8A%94-ai/id6448556170",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/75/1b/04751ba0-c2ba-1529-059e-032b29081c26/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/55/f1/6e55f11e-a2ff-471d-51e6-2ea130fd78b1/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
