@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-25T23:31:42.478Z",
+  "updatedAt": "2025-08-26T23:28:32.578Z",
   "items": [
     {
       "rank": 1,
@@ -21,24 +21,6 @@
     },
     {
       "rank": 3,
-      "title": "정부24(구 민원24)",
-      "artist": "행정안전부",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/b8/f7/42b8f7d5-f094-6ee4-7cb8-e67bbc8111d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/50/fe/ad50fe74-69e9-2989-c8e5-d7353610ca05/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -47,12 +29,30 @@
       "price": "무료"
     },
     {
+      "rank": 4,
+      "title": "정부24(구 민원24)",
+      "artist": "행정안전부",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/b8/f7/42b8f7d5-f094-6ee4-7cb8-e67bbc8111d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "ChatGPT",
+      "artist": "OpenAI",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/50/fe/ad50fe74-69e9-2989-c8e5-d7353610ca05/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 6,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/17/21/a817218d-66a3-e5d3-2b17-0506a08c4e20/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/a5/2d/5ba52d34-00e9-4cba-032b-55d709349726/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,6 +66,15 @@
     },
     {
       "rank": 8,
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/15/86/471586df-7f39-fcf6-a00f-19be8ccb96e1/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "뤼튼 - 매일 쓰는 AI",
       "artist": "wrtn technologies Inc.",
       "category": "",
@@ -74,21 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/3f/2f/b23f2f42-3c94-056d-a079-a5c8930f5e5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "SHEIN - 온라인 쇼핑",
-      "artist": "ROADGET BUSINESS PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/shein-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%87%BC%ED%95%91/id878577184",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/05/24/53052496-9c49-43b7-df67-61a4e167adcc/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
