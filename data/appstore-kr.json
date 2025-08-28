@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-27T23:28:16.565Z",
+  "updatedAt": "2025-08-28T23:28:34.696Z",
   "items": [
     {
       "rank": 1,
@@ -34,7 +34,7 @@
       "artist": "행정안전부",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/b8/f7/42b8f7d5-f094-6ee4-7cb8-e67bbc8111d4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/de/af/c9deaf55-2c78-ee59-35bd-b1ced48de15c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -43,20 +43,11 @@
       "artist": "OpenAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/50/fe/ad50fe74-69e9-2989-c8e5-d7353610ca05/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/c6/16/a0c61613-ad89-90aa-bfb7-18aa59d55b6d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/ff/69/31ff69d3-94ea-219e-685d-ed89a1ed473a/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -65,12 +56,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "러쉬",
-      "artist": "LUSHKOREA.CO.LTD.",
+      "rank": 7,
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EC%89%AC/id6450295213",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/3c/34/a73c34e0-d90a-ecdc-d3cc-24fe6c2deaa6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/ff/69/31ff69d3-94ea-219e-685d-ed89a1ed473a/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "국세청 홈택스 [손택스]",
+      "artist": "국세청",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EA%B5%AD%EC%84%B8%EC%B2%AD-%ED%99%88%ED%83%9D%EC%8A%A4-%EC%86%90%ED%83%9D%EC%8A%A4/id495157796",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/66/31/5b66311d-4454-5e4b-4848-d1a70d13efd3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
