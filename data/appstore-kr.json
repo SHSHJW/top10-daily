@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2025-08-31T23:28:27.031Z",
+  "updatedAt": "2025-09-01T23:28:33.809Z",
   "items": [
     {
       "rank": 1,
-      "title": "정부24(구 민원24)",
-      "artist": "행정안전부",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/de/af/c9deaf55-2c78-ee59-35bd-b1ced48de15c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/0b/fa/920bfa79-95e5-845c-f500-52ae7322f358/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
+      "title": "CJ더마켓",
+      "artist": "CJ CheilJedang",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cj%EB%8D%94%EB%A7%88%EC%BC%93/id386265322",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/f5/1f/04f51f74-9ce8-4b10-f4a3-8a9fda91b47b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,15 +30,6 @@
     },
     {
       "rank": 4,
-      "title": "도미노피자 - Domino's Pizza",
-      "artist": "domino pizza of korea",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8F%84%EB%AF%B8%EB%85%B8%ED%94%BC%EC%9E%90-dominos-pizza/id371008429",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/3f/67/a53f67a0-d5d9-9dad-631d-5d1db11a5c56/AppIcon-1x_U007emarketing-0-2-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -47,48 +38,57 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
+      "rank": 5,
+      "title": "신세계백화점",
+      "artist": "SHINSEGAE",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/c6/16/a0c61613-ad89-90aa-bfb7-18aa59d55b6d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%EC%84%B8%EA%B3%84%EB%B0%B1%ED%99%94%EC%A0%90/id411625066",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/3a/be/693abe55-6a13-8ff2-cbff-678b154f7e8f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "정부24(구 민원24)",
+      "artist": "행정안전부",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/de/af/c9deaf55-2c78-ee59-35bd-b1ced48de15c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
+      "title": "신상마켓 도매 사장님",
+      "artist": "Dealicious Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/6e/7b/426e7bb0-fadb-ace8-f5db-e5fd976d292d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%EC%83%81%EB%A7%88%EC%BC%93-%EB%8F%84%EB%A7%A4-%EC%82%AC%EC%9E%A5%EB%8B%98/id1163673352",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/b3/8f/42b38f28-03e1-e303-cc28-59366c521e70/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "Google Gemini",
-      "artist": "Google",
+      "title": "도미노피자 - Domino's Pizza",
+      "artist": "domino pizza of korea",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/ff/69/31ff69d3-94ea-219e-685d-ed89a1ed473a/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%8F%84%EB%AF%B8%EB%85%B8%ED%94%BC%EC%9E%90-dominos-pizza/id371008429",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/3f/67/a53f67a0-d5d9-9dad-631d-5d1db11a5c56/AppIcon-1x_U007emarketing-0-2-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "DramaBox - 영화와 숏폼 드라마",
-      "artist": "STORYMATRIX PTE. LTD.",
+      "title": "공구마켓",
+      "artist": "JASONMG",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/7a/31/147a3185-fb81-ad73-d114-760d25df2776/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EA%B3%B5%EA%B5%AC%EB%A7%88%EC%BC%93/id1319138671",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/15/39/ec153975-beb9-f5e3-a830-38dcbf19562e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "Nike Run Club: 러닝 앱",
-      "artist": "Nike, Inc",
+      "title": "정육각 - 언제나 초신선",
+      "artist": "Jeongyookgak Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/4d/7e/274d7ead-8ff3-8019-32e6-c33514f60a7a/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EC%9C%A1%EA%B0%81-%EC%96%B8%EC%A0%9C%EB%82%98-%EC%B4%88%EC%8B%A0%EC%84%A0/id1490984523",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/3b/d2/633bd2c5-4515-39dc-d1a6-0c476f1d9611/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
