@@ -1,35 +1,8 @@
 {
-  "updatedAt": "2025-09-01T23:28:33.809Z",
+  "updatedAt": "2025-09-02T23:25:57.288Z",
   "items": [
     {
       "rank": 1,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/0b/fa/920bfa79-95e5-845c-f500-52ae7322f358/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
-      "title": "CJ더마켓",
-      "artist": "CJ CheilJedang",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cj%EB%8D%94%EB%A7%88%EC%BC%93/id386265322",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/f5/1f/04f51f74-9ce8-4b10-f4a3-8a9fda91b47b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
-      "title": "올리브영",
-      "artist": "CJ Olive Young Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/07/aa/6607aa37-be19-77a9-16fb-af70b6eb5790/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -38,30 +11,57 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "신세계백화점",
-      "artist": "SHINSEGAE",
+      "rank": 2,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%EC%84%B8%EA%B3%84%EB%B0%B1%ED%99%94%EC%A0%90/id411625066",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/3a/be/693abe55-6a13-8ff2-cbff-678b154f7e8f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/0b/fa/920bfa79-95e5-845c-f500-52ae7322f358/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "라운드(RROUND) - 챌린지로 누리는 리워드 쇼핑",
+      "artist": "Hecto Innovation Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%9A%B4%EB%93%9C-rround-%EC%B1%8C%EB%A6%B0%EC%A7%80%EB%A1%9C-%EB%88%84%EB%A6%AC%EB%8A%94-%EB%A6%AC%EC%9B%8C%EB%93%9C-%EC%87%BC%ED%95%91/id1630747840",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/df/1a/34df1a22-2878-f9c5-6527-710cb7cc5850/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "올리브영",
+      "artist": "CJ Olive Young Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/07/aa/6607aa37-be19-77a9-16fb-af70b6eb5790/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/ff/69/31ff69d3-94ea-219e-685d-ed89a1ed473a/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
-      "title": "정부24(구 민원24)",
-      "artist": "행정안전부",
+      "title": "ChatGPT",
+      "artist": "OpenAI",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/de/af/c9deaf55-2c78-ee59-35bd-b1ced48de15c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/86/22/ab8622d4-3ff6-53dd-f7b8-38bca3fd19de/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "신상마켓 도매 사장님",
-      "artist": "Dealicious Inc.",
+      "title": "H.Point",
+      "artist": "Hyundai Department Store Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%EC%83%81%EB%A7%88%EC%BC%93-%EB%8F%84%EB%A7%A4-%EC%82%AC%EC%9E%A5%EB%8B%98/id1163673352",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/b3/8f/42b38f28-03e1-e303-cc28-59366c521e70/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/h-point/id1255389331",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/20/9b/09209b96-d04c-a5c8-605a-a677cf226f7c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,20 +75,20 @@
     },
     {
       "rank": 9,
-      "title": "공구마켓",
-      "artist": "JASONMG",
+      "title": "BBQ 치킨",
+      "artist": "(주)제너시스 BBQ",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B3%B5%EA%B5%AC%EB%A7%88%EC%BC%93/id1319138671",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/15/39/ec153975-beb9-f5e3-a830-38dcbf19562e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/bbq-%EC%B9%98%ED%82%A8/id6463020512",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/4b/b7/4e4bb7df-bf4f-8437-b2b2-b3a7624e0343/AppIcon-0-0-1x_U007ephone-0-11-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "정육각 - 언제나 초신선",
-      "artist": "Jeongyookgak Co., Ltd.",
+      "title": "Nike Run Club: 러닝 앱",
+      "artist": "Nike, Inc",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EC%9C%A1%EA%B0%81-%EC%96%B8%EC%A0%9C%EB%82%98-%EC%B4%88%EC%8B%A0%EC%84%A0/id1490984523",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/3b/d2/633bd2c5-4515-39dc-d1a6-0c476f1d9611/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/7f/1f/db7f1f6b-1721-8769-a339-78d6b45c268a/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
