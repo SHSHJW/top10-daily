@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2025-09-02T23:25:57.288Z",
+  "updatedAt": "2025-09-03T23:26:39.940Z",
   "items": [
     {
       "rank": 1,
-      "title": "TikTok Lite",
-      "artist": "TikTok Ltd.",
+      "title": "삼삼엠투 - 단기임대 부동산 앱 33m2",
+      "artist": "SPACEV Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/a5/2d/5ba52d34-00e9-4cba-032b-55d709349726/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%82%BC%EC%97%A0%ED%88%AC-%EB%8B%A8%EA%B8%B0%EC%9E%84%EB%8C%80-%EB%B6%80%EB%8F%99%EC%82%B0-%EC%95%B1-33m2/id1491007143",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/cd/fc/5bcdfcc9-d67f-b234-0f68-50932ed5e423/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -21,11 +21,11 @@
     },
     {
       "rank": 3,
-      "title": "라운드(RROUND) - 챌린지로 누리는 리워드 쇼핑",
-      "artist": "Hecto Innovation Co., Ltd.",
+      "title": "TikTok Lite",
+      "artist": "TikTok Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%9A%B4%EB%93%9C-rround-%EC%B1%8C%EB%A6%B0%EC%A7%80%EB%A1%9C-%EB%88%84%EB%A6%AC%EB%8A%94-%EB%A6%AC%EC%9B%8C%EB%93%9C-%EC%87%BC%ED%95%91/id1630747840",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/df/1a/34df1a22-2878-f9c5-6527-710cb7cc5850/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/a5/2d/5ba52d34-00e9-4cba-032b-55d709349726/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,15 +39,24 @@
     },
     {
       "rank": 5,
-      "title": "Google Gemini",
-      "artist": "Google",
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/ff/69/31ff69d3-94ea-219e-685d-ed89a1ed473a/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/c6/b0/6dc6b05d-c027-9b98-39a6-051de8a969fe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ce/2c/efce2c81-443d-c3e1-fed0-6df7a7788256/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
@@ -56,16 +65,16 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "H.Point",
-      "artist": "Hyundai Department Store Co., Ltd.",
+      "rank": 8,
+      "title": "라운드(RROUND) - 챌린지로 누리는 리워드 쇼핑",
+      "artist": "Hecto Innovation Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/h-point/id1255389331",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/20/9b/09209b96-d04c-a5c8-605a-a677cf226f7c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%9A%B4%EB%93%9C-rround-%EC%B1%8C%EB%A6%B0%EC%A7%80%EB%A1%9C-%EB%88%84%EB%A6%AC%EB%8A%94-%EB%A6%AC%EC%9B%8C%EB%93%9C-%EC%87%BC%ED%95%91/id1630747840",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/df/1a/34df1a22-2878-f9c5-6527-710cb7cc5850/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "도미노피자 - Domino's Pizza",
       "artist": "domino pizza of korea",
       "category": "",
@@ -74,21 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "BBQ 치킨",
-      "artist": "(주)제너시스 BBQ",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/bbq-%EC%B9%98%ED%82%A8/id6463020512",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/4b/b7/4e4bb7df-bf4f-8437-b2b2-b3a7624e0343/AppIcon-0-0-1x_U007ephone-0-11-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 10,
-      "title": "Nike Run Club: 러닝 앱",
-      "artist": "Nike, Inc",
+      "title": "헤이딜러 - 번호판 시세, 내차팔기",
+      "artist": "PRND Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/7f/1f/db7f1f6b-1721-8769-a339-78d6b45c268a/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EB%B2%88%ED%98%B8%ED%8C%90-%EC%8B%9C%EC%84%B8-%EB%82%B4%EC%B0%A8%ED%8C%94%EA%B8%B0/id980166975",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/6d/a6/ed6da647-64c5-bb05-7dd9-ddda9bbe6bb9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
