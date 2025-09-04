@@ -1,26 +1,17 @@
 {
-  "updatedAt": "2025-09-03T23:26:39.940Z",
+  "updatedAt": "2025-09-04T23:27:10.417Z",
   "items": [
     {
       "rank": 1,
-      "title": "삼삼엠투 - 단기임대 부동산 앱 33m2",
-      "artist": "SPACEV Co., Ltd.",
+      "title": "테이블링",
+      "artist": "Tabling.inc",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%82%BC%EC%97%A0%ED%88%AC-%EB%8B%A8%EA%B8%B0%EC%9E%84%EB%8C%80-%EB%B6%80%EB%8F%99%EC%82%B0-%EC%95%B1-33m2/id1491007143",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/cd/fc/5bcdfcc9-d67f-b234-0f68-50932ed5e423/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%85%8C%EC%9D%B4%EB%B8%94%EB%A7%81/id1388891287",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/2e/4c/292e4c9d-5c51-f622-8559-12dfe0419e27/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 2,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/0b/fa/920bfa79-95e5-845c-f500-52ae7322f358/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -29,7 +20,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "올리브영",
       "artist": "CJ Olive Young Corporation",
       "category": "",
@@ -38,16 +29,16 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "rank": 4,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/c6/b0/6dc6b05d-c027-9b98-39a6-051de8a969fe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/0b/fa/920bfa79-95e5-845c-f500-52ae7322f358/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -56,7 +47,25 @@
       "price": "무료"
     },
     {
+      "rank": 6,
+      "title": "헤이딜러 - 번호판 시세, 내차팔기",
+      "artist": "PRND Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EB%B2%88%ED%98%B8%ED%8C%90-%EC%8B%9C%EC%84%B8-%EB%82%B4%EC%B0%A8%ED%8C%94%EA%B8%B0/id980166975",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/a1/5a/b6a15abb-3213-586c-8580-b9e1adde5777/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 7,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/c6/b0/6dc6b05d-c027-9b98-39a6-051de8a969fe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
@@ -65,30 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "라운드(RROUND) - 챌린지로 누리는 리워드 쇼핑",
-      "artist": "Hecto Innovation Co., Ltd.",
+      "rank": 9,
+      "title": "삼삼엠투 - 단기임대 부동산 앱 33m2",
+      "artist": "SPACEV Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%9A%B4%EB%93%9C-rround-%EC%B1%8C%EB%A6%B0%EC%A7%80%EB%A1%9C-%EB%88%84%EB%A6%AC%EB%8A%94-%EB%A6%AC%EC%9B%8C%EB%93%9C-%EC%87%BC%ED%95%91/id1630747840",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/df/1a/34df1a22-2878-f9c5-6527-710cb7cc5850/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%82%BC%EC%97%A0%ED%88%AC-%EB%8B%A8%EA%B8%B0%EC%9E%84%EB%8C%80-%EB%B6%80%EB%8F%99%EC%82%B0-%EC%95%B1-33m2/id1491007143",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/cd/fc/5bcdfcc9-d67f-b234-0f68-50932ed5e423/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "도미노피자 - Domino's Pizza",
       "artist": "domino pizza of korea",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%8F%84%EB%AF%B8%EB%85%B8%ED%94%BC%EC%9E%90-dominos-pizza/id371008429",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/3f/67/a53f67a0-d5d9-9dad-631d-5d1db11a5c56/AppIcon-1x_U007emarketing-0-2-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "헤이딜러 - 번호판 시세, 내차팔기",
-      "artist": "PRND Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EB%B2%88%ED%98%B8%ED%8C%90-%EC%8B%9C%EC%84%B8-%EB%82%B4%EC%B0%A8%ED%8C%94%EA%B8%B0/id980166975",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/6d/a6/ed6da647-64c5-bb05-7dd9-ddda9bbe6bb9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
