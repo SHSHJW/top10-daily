@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-07T23:25:40.822Z",
+  "updatedAt": "2025-09-08T23:28:20.378Z",
   "items": [
     {
       "rank": 1,
@@ -12,33 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ce/2c/efce2c81-443d-c3e1-fed0-6df7a7788256/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
-      "title": "DramaBox - 영화와 숏폼 드라마",
-      "artist": "STORYMATRIX PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/f1/f8/87f1f8e1-9769-4c2b-2e03-5ece39334f15/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/4c/e9/c04ce961-8953-f1dd-da49-b0131e036b8f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -47,30 +20,57 @@
       "price": "무료"
     },
     {
+      "rank": 3,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ce/2c/efce2c81-443d-c3e1-fed0-6df7a7788256/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "DramaBox - 영화와 숏폼 드라마",
+      "artist": "STORYMATRIX PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/f1/f8/87f1f8e1-9769-4c2b-2e03-5ece39334f15/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/4c/e9/c04ce961-8953-f1dd-da49-b0131e036b8f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 6,
+      "title": "ChatGPT",
+      "artist": "OpenAI",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/0d/52/c00d5200-f1bd-1714-f706-a7d93d874681/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "SAVE : 투자의 모든 소식, 이제 한 곳에서",
+      "artist": "Fivelines Co.,Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/save-%ED%88%AC%EC%9E%90%EC%9D%98-%EB%AA%A8%EB%93%A0-%EC%86%8C%EC%8B%9D-%EC%9D%B4%EC%A0%9C-%ED%95%9C-%EA%B3%B3%EC%97%90%EC%84%9C/id6751139540",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/d7/7b/b1d77be8-dccb-172d-932a-21b731fef7cc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "헤이딜러 - 번호판 시세, 내차팔기",
       "artist": "PRND Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EB%B2%88%ED%98%B8%ED%8C%90-%EC%8B%9C%EC%84%B8-%EB%82%B4%EC%B0%A8%ED%8C%94%EA%B8%B0/id980166975",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/a1/5a/b6a15abb-3213-586c-8580-b9e1adde5777/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/86/22/ab8622d4-3ff6-53dd-f7b8-38bca3fd19de/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "레포브 - 일상/영화/책/음악 세상 모든 기록 & 공유",
-      "artist": "KILO Inc. (Apps)",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A0%88%ED%8F%AC%EB%B8%8C-%EC%9D%BC%EC%83%81-%EC%98%81%ED%99%94-%EC%B1%85-%EC%9D%8C%EC%95%85-%EC%84%B8%EC%83%81-%EB%AA%A8%EB%93%A0-%EA%B8%B0%EB%A1%9D-%EA%B3%B5%EC%9C%A0/id6502975294",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/9f/b7/0d9fb729-87f2-c948-58ad-873eff20c4f6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "Temu: 억만장자처럼 쇼핑하기",
-      "artist": "Temu",
+      "title": "네이버페이",
+      "artist": "Naver Financial Corporation",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/temu-%EC%96%B5%EB%A7%8C%EC%9E%A5%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%87%BC%ED%95%91%ED%95%98%EA%B8%B0/id1641486558",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/ca/df/ffcadffa-5448-e566-09f8-cab8bc5a5f99/AppIcon-1x_U007emarketing-0-8-0-0-P3-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/90/4e/be904e73-c0fd-5481-e546-9aecb19732ff/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
