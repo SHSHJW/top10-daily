@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2025-09-08T23:28:20.378Z",
+  "updatedAt": "2025-09-09T23:25:53.815Z",
   "items": [
     {
       "rank": 1,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/0b/fa/920bfa79-95e5-845c-f500-52ae7322f358/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -20,16 +11,16 @@
       "price": "무료"
     },
     {
-      "rank": 3,
-      "title": "Google Gemini",
-      "artist": "Google",
+      "rank": 2,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ce/2c/efce2c81-443d-c3e1-fed0-6df7a7788256/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/0b/fa/920bfa79-95e5-845c-f500-52ae7322f358/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "DramaBox - 영화와 숏폼 드라마",
       "artist": "STORYMATRIX PTE. LTD.",
       "category": "",
@@ -38,12 +29,21 @@
       "price": "무료"
     },
     {
+      "rank": 4,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ce/2c/efce2c81-443d-c3e1-fed0-6df7a7788256/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 5,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/4c/e9/c04ce961-8953-f1dd-da49-b0131e036b8f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/ca/b4/3ccab46b-d660-d4e5-c97a-44633ef20704/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,6 +57,15 @@
     },
     {
       "rank": 7,
+      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/6b/38/bb6b38c0-7123-0f13-3226-94a242f1ea5d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "SAVE : 투자의 모든 소식, 이제 한 곳에서",
       "artist": "Fivelines Co.,Ltd.",
       "category": "",
@@ -65,30 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "헤이딜러 - 번호판 시세, 내차팔기",
       "artist": "PRND Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EB%B2%88%ED%98%B8%ED%8C%90-%EC%8B%9C%EC%84%B8-%EB%82%B4%EC%B0%A8%ED%8C%94%EA%B8%B0/id980166975",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/a1/5a/b6a15abb-3213-586c-8580-b9e1adde5777/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/e1/22/8ce1228c-e291-a9ba-84ed-7f71298db28d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Nike Run Club: 러닝 앱",
       "artist": "Nike, Inc",
       "category": "",
       "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/7f/1f/db7f1f6b-1721-8769-a339-78d6b45c268a/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/90/4e/be904e73-c0fd-5481-e546-9aecb19732ff/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
