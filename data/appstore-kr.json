@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-10T23:26:51.474Z",
+  "updatedAt": "2025-09-11T23:26:41.190Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "TikTok Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/10/60/011060a3-b763-23f4-51d3-ed54e80bea56/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/c5/61/f9c5619b-8ad5-ab92-2a42-9da4a77a1336/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,15 +57,6 @@
     },
     {
       "rank": 7,
-      "title": "국세청 홈택스 [손택스]",
-      "artist": "국세청",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B5%AD%EC%84%B8%EC%B2%AD-%ED%99%88%ED%83%9D%EC%8A%A4-%EC%86%90%ED%83%9D%EC%8A%A4/id495157796",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/66/31/5b66311d-4454-5e4b-4848-d1a70d13efd3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "Nike Run Club: 러닝 앱",
       "artist": "Nike, Inc",
       "category": "",
@@ -74,21 +65,30 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "rank": 8,
+      "title": "万能遥控器-手机智能遥控家电通用",
+      "artist": "Qingdao Jushou Network Technology Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/6b/38/bb6b38c0-7123-0f13-3226-94a242f1ea5d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%E4%B8%87%E8%83%BD%E9%81%A5%E6%8E%A7%E5%99%A8-%E6%89%8B%E6%9C%BA%E6%99%BA%E8%83%BD%E9%81%A5%E6%8E%A7%E5%AE%B6%E7%94%B5%E9%80%9A%E7%94%A8/id6743831615",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/be/40/36be4030-0e66-575f-3e81-f8fd5c67910d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "Mnet Plus",
+      "artist": "CJ ENM Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/d1/c9/b5d1c980-ff29-b17e-aab7-708d9d9f0685/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "헤이딜러 - 번호판 시세, 내차팔기",
-      "artist": "PRND Corp.",
+      "title": "Reverse Audio",
+      "artist": "Nobutaka Yuasa",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EB%B2%88%ED%98%B8%ED%8C%90-%EC%8B%9C%EC%84%B8-%EB%82%B4%EC%B0%A8%ED%8C%94%EA%B8%B0/id980166975",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/e1/22/8ce1228c-e291-a9ba-84ed-7f71298db28d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/reverse-audio/id1254981556",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/d4/c5/eed4c5c7-f68c-acc4-4482-35d642ff7d07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
