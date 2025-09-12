@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-11T23:26:41.190Z",
+  "updatedAt": "2025-09-12T23:14:13.402Z",
   "items": [
     {
       "rank": 1,
@@ -16,25 +16,25 @@
       "artist": "STORYMATRIX PTE. LTD.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/f1/f8/87f1f8e1-9769-4c2b-2e03-5ece39334f15/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/22/dd/c822dd4e-e193-acfd-8ac4-b9b9e294fded/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 3,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/a0/82/baa08236-0078-b4e5-e56b-1ef638d192c6/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/0b/fa/920bfa79-95e5-845c-f500-52ae7322f358/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/c9/cc/bac9ccfd-6c76-f8c4-c243-db78f837f081/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,38 +57,38 @@
     },
     {
       "rank": 7,
-      "title": "Nike Run Club: 러닝 앱",
-      "artist": "Nike, Inc",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/7f/1f/db7f1f6b-1721-8769-a339-78d6b45c268a/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "万能遥控器-手机智能遥控家电通用",
-      "artist": "Qingdao Jushou Network Technology Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%E4%B8%87%E8%83%BD%E9%81%A5%E6%8E%A7%E5%99%A8-%E6%89%8B%E6%9C%BA%E6%99%BA%E8%83%BD%E9%81%A5%E6%8E%A7%E5%AE%B6%E7%94%B5%E9%80%9A%E7%94%A8/id6743831615",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/be/40/36be4030-0e66-575f-3e81-f8fd5c67910d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "Mnet Plus",
-      "artist": "CJ ENM Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/d1/c9/b5d1c980-ff29-b17e-aab7-708d9d9f0685/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "Reverse Audio",
       "artist": "Nobutaka Yuasa",
       "category": "",
       "url": "https://apps.apple.com/kr/app/reverse-audio/id1254981556",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/d4/c5/eed4c5c7-f68c-acc4-4482-35d642ff7d07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Mnet Plus",
+      "artist": "CJ ENM Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/a8/95/1fa89554-5bb8-b0a3-eca8-c80e80d7ebc4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "디지털온누리",
+      "artist": "한국조폐공사",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/67/24/546724d8-6557-c95e-35b4-1ec681e764c2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "멜론 티켓(Melon Ticket)",
+      "artist": "Kakao M Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%A9%9C%EB%A1%A0-%ED%8B%B0%EC%BC%93-melon-ticket/id1103635576",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/99/df/7e99df40-838d-e558-eacf-92edaada3e6e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
