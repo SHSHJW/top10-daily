@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-13T23:13:50.140Z",
+  "updatedAt": "2025-09-14T23:14:04.473Z",
   "items": [
     {
       "rank": 1,
@@ -21,15 +21,6 @@
     },
     {
       "rank": 3,
-      "title": "TikTok Lite",
-      "artist": "TikTok Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/c5/61/f9c5619b-8ad5-ab92-2a42-9da4a77a1336/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -38,16 +29,16 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "Reverse Audio",
-      "artist": "Nobutaka Yuasa",
+      "rank": 4,
+      "title": "TikTok Lite",
+      "artist": "TikTok Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/reverse-audio/id1254981556",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/d4/c5/eed4c5c7-f68c-acc4-4482-35d642ff7d07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/c5/61/f9c5619b-8ad5-ab92-2a42-9da4a77a1336/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -56,7 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
@@ -65,7 +56,25 @@
       "price": "무료"
     },
     {
+      "rank": 7,
+      "title": "하나머니(트래블로그)",
+      "artist": "Hana Card Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EB%A8%B8%EB%8B%88-%ED%8A%B8%EB%9E%98%EB%B8%94%EB%A1%9C%EA%B7%B8/id1038288833",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/45/87/114587ac-e720-17a1-a30d-1e74ce097d9e/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 8,
+      "title": "Reverse Audio",
+      "artist": "Nobutaka Yuasa",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/reverse-audio/id1254981556",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/d4/c5/eed4c5c7-f68c-acc4-4482-35d642ff7d07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "Temu: 억만장자처럼 쇼핑하기",
       "artist": "Temu",
       "category": "",
@@ -74,21 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/8c/86/108c867b-32bf-2e7a-c01d-2ce3917ca5de/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 10,
-      "title": "하나머니(트래블로그)",
-      "artist": "Hana Card Co., Ltd.",
+      "title": "Nike Run Club: 러닝 앱",
+      "artist": "Nike, Inc",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EB%A8%B8%EB%8B%88-%ED%8A%B8%EB%9E%98%EB%B8%94%EB%A1%9C%EA%B7%B8/id1038288833",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/45/87/114587ac-e720-17a1-a30d-1e74ce097d9e/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/7f/1f/db7f1f6b-1721-8769-a339-78d6b45c268a/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
