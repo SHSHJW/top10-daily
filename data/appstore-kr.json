@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2025-09-14T23:14:04.473Z",
+  "updatedAt": "2025-09-15T23:14:11.717Z",
   "items": [
     {
       "rank": 1,
+      "title": "디지털온누리",
+      "artist": "한국조폐공사",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/47/81/9747814f-de30-58ba-1291-fb4d3815ef2b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/5f/4d/cf5f4d5e-c15e-2f86-50c2-ae68ecd85ae8/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -11,25 +29,16 @@
       "price": "무료"
     },
     {
-      "rank": 2,
-      "title": "DramaBox - 영화와 숏폼 드라마",
-      "artist": "STORYMATRIX PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/22/dd/c822dd4e-e193-acfd-8ac4-b9b9e294fded/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/c9/cc/bac9ccfd-6c76-f8c4-c243-db78f837f081/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 4,
+      "title": "ChatGPT",
+      "artist": "OpenAI",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/e7/2f/7de72fe9-9025-fe7f-c827-be6d463b4db0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -38,57 +47,48 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/ca/b4/3ccab46b-d660-d4e5-c97a-44633ef20704/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 6,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
+      "title": "DramaBox - 영화와 숏폼 드라마",
+      "artist": "STORYMATRIX PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/0d/52/c00d5200-f1bd-1714-f706-a7d93d874681/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/22/dd/c822dd4e-e193-acfd-8ac4-b9b9e294fded/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "하나머니(트래블로그)",
-      "artist": "Hana Card Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EB%A8%B8%EB%8B%88-%ED%8A%B8%EB%9E%98%EB%B8%94%EB%A1%9C%EA%B7%B8/id1038288833",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/45/87/114587ac-e720-17a1-a30d-1e74ce097d9e/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "Reverse Audio",
-      "artist": "Nobutaka Yuasa",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/reverse-audio/id1254981556",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/d4/c5/eed4c5c7-f68c-acc4-4482-35d642ff7d07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "Temu: 억만장자처럼 쇼핑하기",
-      "artist": "Temu",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/temu-%EC%96%B5%EB%A7%8C%EC%9E%A5%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%87%BC%ED%95%91%ED%95%98%EA%B8%B0/id1641486558",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/14/13/0714134a-2d03-1f69-4944-11d3cff11463/AppIcon-1x_U007emarketing-0-8-0-0-P3-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "Nike Run Club: 러닝 앱",
       "artist": "Nike, Inc",
       "category": "",
       "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/7f/1f/db7f1f6b-1721-8769-a339-78d6b45c268a/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/15/86/471586df-7f39-fcf6-a00f-19be8ccb96e1/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "헤이딜러 - 번호판 시세, 내차팔기",
+      "artist": "PRND Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EB%B2%88%ED%98%B8%ED%8C%90-%EC%8B%9C%EC%84%B8-%EB%82%B4%EC%B0%A8%ED%8C%94%EA%B8%B0/id980166975",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f3/04/51f304bd-23fc-b801-8155-135fda7fa31c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/ca/b4/3ccab46b-d660-d4e5-c97a-44633ef20704/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
