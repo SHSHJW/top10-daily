@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-16T23:11:45.946Z",
+  "updatedAt": "2025-09-17T23:14:20.511Z",
   "items": [
     {
       "rank": 1,
@@ -16,7 +16,7 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/5f/4d/cf5f4d5e-c15e-2f86-50c2-ae68ecd85ae8/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/44/82/504482cd-c31a-22f2-5c21-31c28cf91811/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -25,16 +25,16 @@
       "artist": "CJ CGV Co.ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/0b/fa/920bfa79-95e5-845c-f500-52ae7322f358/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "ISRU",
-      "artist": "Tom Sachs Studio",
+      "title": "xZoom Cam - 프로 카메라",
+      "artist": "Slava Plisko",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/isru/id6743388136",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/d6/43/69d6433b-b47a-7d5f-3187-924385cfaea6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/xzoom-cam-%ED%94%84%EB%A1%9C-%EC%B9%B4%EB%A9%94%EB%9D%BC/id1643676119",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/22/56/fa22568b-59fd-e9ea-21d5-ececbe80525e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,15 +48,33 @@
     },
     {
       "rank": 6,
-      "title": "TikTok Lite",
-      "artist": "TikTok Ltd.",
+      "title": "ISRU",
+      "artist": "Tom Sachs Studio",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/c5/61/f9c5619b-8ad5-ab92-2a42-9da4a77a1336/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/isru/id6743388136",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/d6/43/69d6433b-b47a-7d5f-3187-924385cfaea6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
+      "title": "TikTok Lite",
+      "artist": "TikTok Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/b5/5b/98b55b3e-ad91-a8ba-81eb-d1f937e9be8c/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "서울Pay+ (서울페이,서울페이플러스,서울사랑상품권)",
+      "artist": "비즈플레이(주)",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8pay-%EC%84%9C%EC%9A%B8%ED%8E%98%EC%9D%B4-%EC%84%9C%EC%9A%B8%ED%8E%98%EC%9D%B4%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%84%9C%EC%9A%B8%EC%82%AC%EB%9E%91%EC%83%81%ED%92%88%EA%B6%8C/id6479675842",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/e7/66/73e76628-09e5-47fb-9194-49efacb8f7c9/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "Nintendo Today!",
       "artist": "Nintendo Co., Ltd.",
       "category": "",
@@ -65,30 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "DramaBox - 영화와 숏폼 드라마",
-      "artist": "STORYMATRIX PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/22/dd/c822dd4e-e193-acfd-8ac4-b9b9e294fded/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "헤이딜러 - 번호판 시세, 내차팔기",
-      "artist": "PRND Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EB%B2%88%ED%98%B8%ED%8C%90-%EC%8B%9C%EC%84%B8-%EB%82%B4%EC%B0%A8%ED%8C%94%EA%B8%B0/id980166975",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f3/04/51f304bd-23fc-b801-8155-135fda7fa31c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 10,
-      "title": "Nike Run Club: 러닝 앱",
-      "artist": "Nike, Inc",
+      "title": "MegaBox",
+      "artist": "Megabox Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/7f/1f/db7f1f6b-1721-8769-a339-78d6b45c268a/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/megabox/id894443858",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/5f/49/5c5f4930-06bf-96b8-3314-2f98438e0f2b/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.png",
       "price": "무료"
     }
   ]
