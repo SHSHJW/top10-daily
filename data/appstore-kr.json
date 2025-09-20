@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-19T23:14:36.326Z",
+  "updatedAt": "2025-09-20T23:14:37.348Z",
   "items": [
     {
       "rank": 1,
@@ -21,15 +21,6 @@
     },
     {
       "rank": 3,
-      "title": "Mnet Plus",
-      "artist": "CJ ENM Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/e3/ca/8ce3cae3-9572-9b80-3671-bb2401a6c261/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -38,21 +29,30 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "Nintendo Today!",
-      "artist": "Nintendo Co., Ltd.",
+      "rank": 4,
+      "title": "Mnet Plus",
+      "artist": "CJ ENM Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nintendo-today/id6736725704",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/d8/29/e8d829d5-6731-aecd-0f0e-6bbc240a5be8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/a3/08/dca308f1-9e60-c96d-5bac-eebc2f0a847c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/e7/2f/7de72fe9-9025-fe7f-c827-be6d463b4db0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "Nintendo Today!",
+      "artist": "Nintendo Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/nintendo-today/id6736725704",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/d8/29/e8d829d5-6731-aecd-0f0e-6bbc240a5be8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,29 +66,29 @@
     },
     {
       "rank": 8,
-      "title": "MegaBox",
-      "artist": "Megabox Ltd.",
+      "title": "메이투 Meitu -사진 보정 앱,얼굴몸매&영상 보정",
+      "artist": "Xiamen Meitu Technology Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/megabox/id894443858",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/5f/49/5c5f4930-06bf-96b8-3314-2f98438e0f2b/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%A9%94%EC%9D%B4%ED%88%AC-meitu-%EC%82%AC%EC%A7%84-%EB%B3%B4%EC%A0%95-%EC%95%B1-%EC%96%BC%EA%B5%B4%EB%AA%B8%EB%A7%A4-%EC%98%81%EC%83%81-%EB%B3%B4%EC%A0%95/id416048305",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/27/f0/6827f0f8-1a95-4e65-5a14-e44f87063cda/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "KB M-able - KB증권의 대표 MTS",
-      "artist": "KB Securities Co., Ltd.",
+      "title": "Nike Run Club: 러닝 앱",
+      "artist": "Nike, Inc",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/kb-m-able-kb%EC%A6%9D%EA%B6%8C%EC%9D%98-%EB%8C%80%ED%91%9C-mts/id350742701",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/7b/09/9e7b09ca-d667-d7e4-2c8e-6a6f540e06f6/AppIcon-0-0-1x_U007ephone-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/7f/1f/db7f1f6b-1721-8769-a339-78d6b45c268a/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "대한민국 모바일 신분증",
-      "artist": "행정안전부",
+      "title": "모바일티머니",
+      "artist": "Tmoney Co., Ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/15/86/471586df-7f39-fcf6-a00f-19be8ccb96e1/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/26/68/f62668af-c570-b6a0-0158-cec56c58a370/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
