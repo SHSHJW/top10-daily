@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-20T23:14:37.348Z",
+  "updatedAt": "2025-09-21T23:14:34.938Z",
   "items": [
     {
       "rank": 1,
@@ -39,24 +39,6 @@
     },
     {
       "rank": 5,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/e7/2f/7de72fe9-9025-fe7f-c827-be6d463b4db0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "Nintendo Today!",
-      "artist": "Nintendo Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/nintendo-today/id6736725704",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/d8/29/e8d829d5-6731-aecd-0f0e-6bbc240a5be8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -65,7 +47,16 @@
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "title": "ChatGPT",
+      "artist": "OpenAI",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/e7/2f/7de72fe9-9025-fe7f-c827-be6d463b4db0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "메이투 Meitu -사진 보정 앱,얼굴몸매&영상 보정",
       "artist": "Xiamen Meitu Technology Co., Ltd.",
       "category": "",
@@ -74,7 +65,7 @@
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Nike Run Club: 러닝 앱",
       "artist": "Nike, Inc",
       "category": "",
@@ -83,12 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "모바일티머니",
-      "artist": "Tmoney Co., Ltd",
+      "rank": 9,
+      "title": "Nintendo Today!",
+      "artist": "Nintendo Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/26/68/f62668af-c570-b6a0-0158-cec56c58a370/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nintendo-today/id6736725704",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/d8/29/e8d829d5-6731-aecd-0f0e-6bbc240a5be8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "TikTok Lite",
+      "artist": "TikTok Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/b5/5b/98b55b3e-ad91-a8ba-81eb-d1f937e9be8c/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
