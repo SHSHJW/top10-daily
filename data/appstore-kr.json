@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-21T23:14:34.938Z",
+  "updatedAt": "2025-09-22T23:14:58.335Z",
   "items": [
     {
       "rank": 1,
@@ -21,20 +21,20 @@
     },
     {
       "rank": 3,
+      "title": "Mnet Plus",
+      "artist": "CJ ENM Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/f7/d7/22f7d77d-33da-520a-d073-5f4e9e9bca5d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "Mnet Plus",
-      "artist": "CJ ENM Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/a3/08/dca308f1-9e60-c96d-5bac-eebc2f0a847c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -52,20 +52,11 @@
       "artist": "OpenAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/e7/2f/7de72fe9-9025-fe7f-c827-be6d463b4db0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/6e/75/5b6e751d-bec3-85c4-19be-3c96b63acf9d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "메이투 Meitu -사진 보정 앱,얼굴몸매&영상 보정",
-      "artist": "Xiamen Meitu Technology Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A9%94%EC%9D%B4%ED%88%AC-meitu-%EC%82%AC%EC%A7%84-%EB%B3%B4%EC%A0%95-%EC%95%B1-%EC%96%BC%EA%B5%B4%EB%AA%B8%EB%A7%A4-%EC%98%81%EC%83%81-%EB%B3%B4%EC%A0%95/id416048305",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/27/f0/6827f0f8-1a95-4e65-5a14-e44f87063cda/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "Nike Run Club: 러닝 앱",
       "artist": "Nike, Inc",
       "category": "",
@@ -74,12 +65,21 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "Nintendo Today!",
-      "artist": "Nintendo Co., Ltd.",
+      "rank": 8,
+      "title": "메이투 Meitu -사진 보정 앱,얼굴몸매&영상 보정",
+      "artist": "Xiamen Meitu Technology Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nintendo-today/id6736725704",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/d8/29/e8d829d5-6731-aecd-0f0e-6bbc240a5be8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%A9%94%EC%9D%B4%ED%88%AC-meitu-%EC%82%AC%EC%A7%84-%EB%B3%B4%EC%A0%95-%EC%95%B1-%EC%96%BC%EA%B5%B4%EB%AA%B8%EB%A7%A4-%EC%98%81%EC%83%81-%EB%B3%B4%EC%A0%95/id416048305",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/27/f0/6827f0f8-1a95-4e65-5a14-e44f87063cda/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "The건강보험",
+      "artist": "국민건강보험공단",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/the%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98/id375279377",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/c7/c7/23c7c798-dd21-bbbd-a9b6-5f10bfb19dd7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
