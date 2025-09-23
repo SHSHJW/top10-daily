@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-22T23:14:58.335Z",
+  "updatedAt": "2025-09-23T23:14:24.480Z",
   "items": [
     {
       "rank": 1,
@@ -16,25 +16,25 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/29/51/55295149-9f58-b996-a1a0-90e5f82d79d9/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/d5/48/6ed54872-4120-27db-d2dc-5e55033438e9/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 3,
-      "title": "Mnet Plus",
-      "artist": "CJ ENM Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/f7/d7/22f7d77d-33da-520a-d073-5f4e9e9bca5d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "Mnet Plus",
+      "artist": "CJ ENM Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/f7/d7/22f7d77d-33da-520a-d073-5f4e9e9bca5d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -52,7 +52,7 @@
       "artist": "OpenAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/6e/75/5b6e751d-bec3-85c4-19be-3c96b63acf9d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/88/82/5288829b-4f7f-6b7b-2a0d-574d2570267d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,15 +66,6 @@
     },
     {
       "rank": 8,
-      "title": "메이투 Meitu -사진 보정 앱,얼굴몸매&영상 보정",
-      "artist": "Xiamen Meitu Technology Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A9%94%EC%9D%B4%ED%88%AC-meitu-%EC%82%AC%EC%A7%84-%EB%B3%B4%EC%A0%95-%EC%95%B1-%EC%96%BC%EA%B5%B4%EB%AA%B8%EB%A7%A4-%EC%98%81%EC%83%81-%EB%B3%B4%EC%A0%95/id416048305",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/27/f0/6827f0f8-1a95-4e65-5a14-e44f87063cda/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "The건강보험",
       "artist": "국민건강보험공단",
       "category": "",
@@ -83,12 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "TikTok Lite",
-      "artist": "TikTok Ltd.",
+      "rank": 9,
+      "title": "메이투 Meitu -사진 보정 앱,얼굴몸매&영상 보정",
+      "artist": "Xiamen Meitu Technology Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/b5/5b/98b55b3e-ad91-a8ba-81eb-d1f937e9be8c/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%A9%94%EC%9D%B4%ED%88%AC-meitu-%EC%82%AC%EC%A7%84-%EB%B3%B4%EC%A0%95-%EC%95%B1-%EC%96%BC%EA%B5%B4%EB%AA%B8%EB%A7%A4-%EC%98%81%EC%83%81-%EB%B3%B4%EC%A0%95/id416048305",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/3e/64/873e641e-6780-a2b8-0c42-5d496cca64b4/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/8c/2a/0d8c2a69-d8d4-5411-51a2-352e94a2406f/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
