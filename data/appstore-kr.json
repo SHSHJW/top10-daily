@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-23T23:14:24.480Z",
+  "updatedAt": "2025-09-24T23:15:10.192Z",
   "items": [
     {
       "rank": 1,
@@ -34,7 +34,7 @@
       "artist": "CJ ENM Co., Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/f7/d7/22f7d77d-33da-520a-d073-5f4e9e9bca5d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/1d/f7/881df7eb-ba0c-c09c-2e84-8c3bfc9996bc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -52,25 +52,25 @@
       "artist": "OpenAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/88/82/5288829b-4f7f-6b7b-2a0d-574d2570267d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/c9/6c/38c96c85-eb0c-4b4e-e749-59c8ed0c19c3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "Nike Run Club: 러닝 앱",
-      "artist": "Nike, Inc",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/7f/1f/db7f1f6b-1721-8769-a339-78d6b45c268a/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "The건강보험",
       "artist": "국민건강보험공단",
       "category": "",
       "url": "https://apps.apple.com/kr/app/the%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98/id375279377",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/c7/c7/23c7c798-dd21-bbbd-a9b6-5f10bfb19dd7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/8c/2a/0d8c2a69-d8d4-5411-51a2-352e94a2406f/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "대한민국 모바일 신분증",
-      "artist": "행정안전부",
+      "title": "TikTok Lite",
+      "artist": "TikTok Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/8c/2a/0d8c2a69-d8d4-5411-51a2-352e94a2406f/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/87/4e/25874ec2-e896-73fa-7387-c0ee25a95eff/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
