@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-24T23:15:10.192Z",
+  "updatedAt": "2025-09-25T23:14:49.764Z",
   "items": [
     {
       "rank": 1,
@@ -7,11 +7,20 @@
       "artist": "한국조폐공사",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/47/81/9747814f-de30-58ba-1291-fb4d3815ef2b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/ec/fa/72ecfa72-5177-13c2-afa2-3fe73bee0d09/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 2,
+      "title": "Mnet Plus",
+      "artist": "CJ ENM Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/1d/f7/881df7eb-ba0c-c09c-2e84-8c3bfc9996bc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -20,21 +29,12 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "Mnet Plus",
-      "artist": "CJ ENM Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/1d/f7/881df7eb-ba0c-c09c-2e84-8c3bfc9996bc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,6 +48,15 @@
     },
     {
       "rank": 6,
+      "title": "Plus Chat 플러스챗",
+      "artist": "CJ ENM Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/plus-chat-%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%B1%97/id6446480483",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/6c/1c/6e6c1cb2-fc44-aaa2-d18c-d41b26aaa6f8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
@@ -56,7 +65,16 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "티켓링크 – 스포츠, 공연전시 예매, 쉽고 빠르게!",
+      "artist": "NHN Link Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%8B%B0%EC%BC%93%EB%A7%81%ED%81%AC-%EC%8A%A4%ED%8F%AC%EC%B8%A0-%EA%B3%B5%EC%97%B0%EC%A0%84%EC%8B%9C-%EC%98%88%EB%A7%A4-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C/id1021825736",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/66/8f/87668f59-43d7-c95b-0779-5bfd07410b02/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "The건강보험",
       "artist": "국민건강보험공단",
       "category": "",
@@ -65,30 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "대한민국 모바일 신분증",
       "artist": "행정안전부",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/8c/2a/0d8c2a69-d8d4-5411-51a2-352e94a2406f/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "메이투 Meitu -사진 보정 앱,얼굴몸매&영상 보정",
-      "artist": "Xiamen Meitu Technology Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A9%94%EC%9D%B4%ED%88%AC-meitu-%EC%82%AC%EC%A7%84-%EB%B3%B4%EC%A0%95-%EC%95%B1-%EC%96%BC%EA%B5%B4%EB%AA%B8%EB%A7%A4-%EC%98%81%EC%83%81-%EB%B3%B4%EC%A0%95/id416048305",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/3e/64/873e641e-6780-a2b8-0c42-5d496cca64b4/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "TikTok Lite",
-      "artist": "TikTok Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/87/4e/25874ec2-e896-73fa-7387-c0ee25a95eff/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
