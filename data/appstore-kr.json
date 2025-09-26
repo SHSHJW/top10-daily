@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-25T23:14:49.764Z",
+  "updatedAt": "2025-09-26T23:14:46.158Z",
   "items": [
     {
       "rank": 1,
@@ -12,15 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "Mnet Plus",
-      "artist": "CJ ENM Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/1d/f7/881df7eb-ba0c-c09c-2e84-8c3bfc9996bc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -29,7 +20,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -38,21 +29,30 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "rank": 4,
+      "title": "Mnet Plus",
+      "artist": "CJ ENM Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/66/bd/9766bd89-07a8-8270-f2d5-51084a701084/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/1d/f7/881df7eb-ba0c-c09c-2e84-8c3bfc9996bc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Plus Chat 플러스챗",
       "artist": "CJ ENM Co., Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/plus-chat-%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%B1%97/id6446480483",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/6c/1c/6e6c1cb2-fc44-aaa2-d18c-d41b26aaa6f8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "New 롯데월드 어드벤처",
+      "artist": "Hotel Lotte Co., Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/new-%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/id6744043800",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/8a/25/f88a253e-8c7a-8f6f-6c48-ce910e2f42f9/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,29 +66,29 @@
     },
     {
       "rank": 8,
-      "title": "티켓링크 – 스포츠, 공연전시 예매, 쉽고 빠르게!",
-      "artist": "NHN Link Corporation",
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%8B%B0%EC%BC%93%EB%A7%81%ED%81%AC-%EC%8A%A4%ED%8F%AC%EC%B8%A0-%EA%B3%B5%EC%97%B0%EC%A0%84%EC%8B%9C-%EC%98%88%EB%A7%A4-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C/id1021825736",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/66/8f/87668f59-43d7-c95b-0779-5bfd07410b02/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/3f/d5/733fd56e-49f5-dcba-5173-885d07280ef3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "The건강보험",
-      "artist": "국민건강보험공단",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/the%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98/id375279377",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/c7/c7/23c7c798-dd21-bbbd-a9b6-5f10bfb19dd7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "대한민국 모바일 신분증",
       "artist": "행정안전부",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/8c/2a/0d8c2a69-d8d4-5411-51a2-352e94a2406f/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "네이트온",
+      "artist": "NATE Communications Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%ED%8A%B8%EC%98%A8/id362693357",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a9/14/1aa91473-344e-d3cb-564b-eb97ce9ad39b/AppIcon-AppStore-0-1x_U007emarketing-0-6-0-0-P3-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
