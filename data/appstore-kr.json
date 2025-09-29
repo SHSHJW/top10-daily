@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-28T23:14:44.706Z",
+  "updatedAt": "2025-09-29T23:15:04.145Z",
   "items": [
     {
       "rank": 1,
@@ -12,15 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -29,21 +20,30 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "New 롯데월드 어드벤처",
-      "artist": "Hotel Lotte Co., Ltd",
+      "rank": 3,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/new-%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/id6744043800",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/8a/25/f88a253e-8c7a-8f6f-6c48-ce910e2f42f9/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/3f/d5/733fd56e-49f5-dcba-5173-885d07280ef3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "New 롯데월드 어드벤처",
+      "artist": "Hotel Lotte Co., Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/new-%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/id6744043800",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/8a/25/f88a253e-8c7a-8f6f-6c48-ce910e2f42f9/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,38 +57,38 @@
     },
     {
       "rank": 7,
-      "title": "라인 LINE",
-      "artist": "LINE Corporation",
+      "title": "Adobe Premiere: 비디오 에디터",
+      "artist": "Adobe Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%9D%B8-line/id443904275",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/3a/65/c63a65a8-83b1-d135-31f7-e1f6979a7dfc/basic_default-0-0-1x_U007epad-0-6-0-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/adobe-premiere-%EB%B9%84%EB%94%94%EC%98%A4-%EC%97%90%EB%94%94%ED%84%B0/id6742757464",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/dc/8e/5ddc8e98-5ca0-5c3b-2eca-371992e66534/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "네이트온",
-      "artist": "NATE Communications Corporation",
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%ED%8A%B8%EC%98%A8/id362693357",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a9/14/1aa91473-344e-d3cb-564b-eb97ce9ad39b/AppIcon-AppStore-0-1x_U007emarketing-0-6-0-0-P3-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/8c/2a/0d8c2a69-d8d4-5411-51a2-352e94a2406f/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "Temu: 억만장자처럼 쇼핑하기",
-      "artist": "Temu",
+      "title": "모바일 건강보험증",
+      "artist": "국민건강보험공단",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/temu-%EC%96%B5%EB%A7%8C%EC%9E%A5%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%87%BC%ED%95%91%ED%95%98%EA%B8%B0/id1641486558",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/76/82/9d7682be-7a9a-9b02-b3ab-e863994e3e2f/AppIcon-1x_U007emarketing-0-8-0-0-P3-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EC%A6%9D/id6444602589",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/dc/4f/acdc4fab-d33a-9185-f93c-fcbbb57e379f/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "Threads",
-      "artist": "Instagram, Inc.",
+      "title": "Nike Run Club: 러닝 앱",
+      "artist": "Nike, Inc",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/threads/id6446901002",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/3f/53/8a3f533d-524f-fdbf-2284-6812bd8f9140/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/51/cc/f851cc42-4415-6fe4-4f87-7c3706383b34/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
