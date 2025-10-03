@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-02T23:14:27.110Z",
+  "updatedAt": "2025-10-03T23:14:07.135Z",
   "items": [
     {
       "rank": 1,
@@ -66,29 +66,29 @@
     },
     {
       "rank": 8,
-      "title": "모바일 건강보험증",
-      "artist": "국민건강보험공단",
+      "title": "ICN SMARTPASS (인천공항 스마트패스)",
+      "artist": "인천국제공항공사",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EC%A6%9D/id6444602589",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/dc/4f/acdc4fab-d33a-9185-f93c-fcbbb57e379f/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/icn-smartpass-%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%AD-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A8%EC%8A%A4/id6443837919",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/f0/5a/ecf05aba-f001-e174-268d-88ab233b8e63/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "Sora by OpenAI",
-      "artist": "OpenAI",
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/sora-by-openai/id6744034028",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/cc/23/f9cc23db-41bd-bc73-8f00-20e3a4cd8911/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/3f/d5/733fd56e-49f5-dcba-5173-885d07280ef3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "BBQ 치킨",
-      "artist": "(주)제너시스 BBQ",
+      "title": "유니클로 UNIQLO - 쇼핑",
+      "artist": "UNIQLO CO., LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/bbq-%EC%B9%98%ED%82%A8/id6463020512",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/4b/b7/4e4bb7df-bf4f-8437-b2b2-b3a7624e0343/AppIcon-0-0-1x_U007ephone-0-11-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/b1/38/24b138a5-0722-bbd7-2372-0c3d897605ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
