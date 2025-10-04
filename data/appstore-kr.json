@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-03T23:14:07.135Z",
+  "updatedAt": "2025-10-04T23:14:39.974Z",
   "items": [
     {
       "rank": 1,
@@ -21,6 +21,15 @@
     },
     {
       "rank": 3,
+      "title": "후루츠패밀리: 빈티지, 세컨핸드 패션 중고거래 커뮤니티",
+      "artist": "Fruits Family Company, Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%9B%84%EB%A3%A8%EC%B8%A0%ED%8C%A8%EB%B0%80%EB%A6%AC-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%84%B8%EC%BB%A8%ED%95%B8%EB%93%9C-%ED%8C%A8%EC%85%98-%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/id1466193804",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/95/25/3c95256d-956a-e74d-1d16-c11b833c22cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -29,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Hypic - Photo Editor & AI Art",
       "artist": "Bytedance Pte. Ltd",
       "category": "",
@@ -38,7 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "땡겨요",
       "artist": "SHINHAN BANK",
       "category": "",
@@ -47,7 +56,7 @@
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "New 롯데월드 어드벤처",
       "artist": "Hotel Lotte Co., Ltd",
       "category": "",
@@ -56,21 +65,12 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/47/99/8847994c-50e1-e350-9aa2-6ab96a35ba20/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "ICN SMARTPASS (인천공항 스마트패스)",
-      "artist": "인천국제공항공사",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/icn-smartpass-%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%AD-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A8%EC%8A%A4/id6443837919",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/f0/5a/ecf05aba-f001-e174-268d-88ab233b8e63/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/53/17/4253170a-f7ce-eb3b-e5a4-e3788e008560/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
