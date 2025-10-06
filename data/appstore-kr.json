@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-05T23:13:17.184Z",
+  "updatedAt": "2025-10-06T23:14:47.563Z",
   "items": [
     {
       "rank": 1,
@@ -30,24 +30,15 @@
     },
     {
       "rank": 4,
-      "title": "후루츠패밀리: 빈티지, 세컨핸드 패션 중고거래 커뮤니티",
-      "artist": "Fruits Family Company, Inc.",
+      "title": "New 롯데월드 어드벤처",
+      "artist": "Hotel Lotte Co., Ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%9B%84%EB%A3%A8%EC%B8%A0%ED%8C%A8%EB%B0%80%EB%A6%AC-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%84%B8%EC%BB%A8%ED%95%B8%EB%93%9C-%ED%8C%A8%EC%85%98-%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/id1466193804",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/95/25/3c95256d-956a-e74d-1d16-c11b833c22cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/new-%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/id6744043800",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/8a/25/f88a253e-8c7a-8f6f-6c48-ce910e2f42f9/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/53/17/4253170a-f7ce-eb3b-e5a4-e3788e008560/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -56,21 +47,30 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "Hypic - Photo Editor & AI Art",
-      "artist": "Bytedance Pte. Ltd",
+      "rank": 6,
+      "title": "ChatGPT",
+      "artist": "OpenAI",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/hypic-photo-editor-ai-art/id1644042837",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/c5/b5/cec5b5db-527f-207a-d798-b027aa52bcdc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/53/17/4253170a-f7ce-eb3b-e5a4-e3788e008560/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "유니클로 UNIQLO - 쇼핑",
+      "artist": "UNIQLO CO., LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/b1/38/24b138a5-0722-bbd7-2372-0c3d897605ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "New 롯데월드 어드벤처",
-      "artist": "Hotel Lotte Co., Ltd",
+      "title": "TikTok Lite",
+      "artist": "TikTok Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/new-%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/id6744043800",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/8a/25/f88a253e-8c7a-8f6f-6c48-ce910e2f42f9/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/87/4e/25874ec2-e896-73fa-7387-c0ee25a95eff/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "유니클로 UNIQLO - 쇼핑",
-      "artist": "UNIQLO CO., LTD.",
+      "title": "SHEIN - 온라인 쇼핑",
+      "artist": "ROADGET BUSINESS PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/b1/38/24b138a5-0722-bbd7-2372-0c3d897605ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/shein-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%87%BC%ED%95%91/id878577184",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/c2/77/cbc277af-5dcf-fa10-ab38-40583c4b2476/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
