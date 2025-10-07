@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-06T23:14:47.563Z",
+  "updatedAt": "2025-10-07T23:14:46.352Z",
   "items": [
     {
       "rank": 1,
@@ -48,15 +48,6 @@
     },
     {
       "rank": 6,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/53/17/4253170a-f7ce-eb3b-e5a4-e3788e008560/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "유니클로 UNIQLO - 쇼핑",
       "artist": "UNIQLO CO., LTD.",
       "category": "",
@@ -65,16 +56,16 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "TikTok Lite",
-      "artist": "TikTok Ltd.",
+      "rank": 7,
+      "title": "ChatGPT",
+      "artist": "OpenAI",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/87/4e/25874ec2-e896-73fa-7387-c0ee25a95eff/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/53/17/4253170a-f7ce-eb3b-e5a4-e3788e008560/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "땡겨요",
       "artist": "SHINHAN BANK",
       "category": "",
@@ -83,12 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "SHEIN - 온라인 쇼핑",
-      "artist": "ROADGET BUSINESS PTE. LTD.",
+      "rank": 9,
+      "title": "캐치테이블",
+      "artist": "WADcorp",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/shein-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%87%BC%ED%95%91/id878577184",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/c2/77/cbc277af-5dcf-fa10-ab38-40583c4b2476/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/5f/78/a25f788e-40e7-4655-cada-0a37bd32b5cf/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "TikTok Lite",
+      "artist": "TikTok Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/87/4e/25874ec2-e896-73fa-7387-c0ee25a95eff/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
