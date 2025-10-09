@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-08T23:14:45.830Z",
+  "updatedAt": "2025-10-09T23:15:09.786Z",
   "items": [
     {
       "rank": 1,
@@ -30,15 +30,6 @@
     },
     {
       "rank": 4,
-      "title": "New 롯데월드 어드벤처",
-      "artist": "Hotel Lotte Co., Ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/new-%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/id6744043800",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/8a/25/f88a253e-8c7a-8f6f-6c48-ce910e2f42f9/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -47,16 +38,16 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "유니클로 UNIQLO - 쇼핑",
-      "artist": "UNIQLO CO., LTD.",
+      "rank": 5,
+      "title": "Blackmagic Camera",
+      "artist": "Blackmagic Design Inc",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/b1/38/24b138a5-0722-bbd7-2372-0c3d897605ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/blackmagic-camera/id6449580241",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/34/fc/f734fc62-93d7-bc4b-2979-08b95d8508e3/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
@@ -65,12 +56,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "NOL 티켓",
-      "artist": "Interpark INT",
+      "rank": 7,
+      "title": "유니클로 UNIQLO - 쇼핑",
+      "artist": "UNIQLO CO., LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nol-%ED%8B%B0%EC%BC%93/id440487844",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/2f/87/842f8730-702a-bf60-62aa-3661f5912bc3/appIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/b1/38/24b138a5-0722-bbd7-2372-0c3d897605ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "New 롯데월드 어드벤처",
+      "artist": "Hotel Lotte Co., Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/new-%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/id6744043800",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/8a/25/f88a253e-8c7a-8f6f-6c48-ce910e2f42f9/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "캐치테이블",
-      "artist": "WADcorp",
+      "title": "Threads",
+      "artist": "Instagram, Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/5f/78/a25f788e-40e7-4655-cada-0a37bd32b5cf/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/threads/id6446901002",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/4d/6b/f54d6b67-6f08-5245-8e7e-09360d5accd4/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
