@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2025-10-09T23:15:09.786Z",
+  "updatedAt": "2025-10-10T23:14:33.716Z",
   "items": [
     {
       "rank": 1,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "디지털온누리",
       "artist": "한국조폐공사",
       "category": "",
@@ -20,7 +11,25 @@
       "price": "무료"
     },
     {
+      "rank": 2,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 3,
+      "title": "땡겨요",
+      "artist": "SHINHAN BANK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/f3/ab/1df3ab08-cdfc-fd7a-02fa-24abc05d4696/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -29,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -38,7 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Blackmagic Camera",
       "artist": "Blackmagic Design Inc",
       "category": "",
@@ -47,48 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/53/17/4253170a-f7ce-eb3b-e5a4-e3788e008560/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 7,
-      "title": "유니클로 UNIQLO - 쇼핑",
-      "artist": "UNIQLO CO., LTD.",
+      "title": "텐퍼센트커피",
+      "artist": "Waldlust Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/b1/38/24b138a5-0722-bbd7-2372-0c3d897605ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%85%90%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%BB%A4%ED%94%BC/id6443460235",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/b7/2b/56b72bb7-ec13-8ff2-d6b1-3d2e4cc4d4fe/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "New 롯데월드 어드벤처",
-      "artist": "Hotel Lotte Co., Ltd",
+      "title": "ChatGPT",
+      "artist": "OpenAI",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/new-%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/id6744043800",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/8a/25/f88a253e-8c7a-8f6f-6c48-ce910e2f42f9/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/4c/89/154c8910-0df4-3e9b-1069-eaebe818848e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "Nike Run Club: 러닝 앱",
-      "artist": "Nike, Inc",
+      "title": "모바일 건강보험증",
+      "artist": "국민건강보험공단",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nike-run-club-%EB%9F%AC%EB%8B%9D-%EC%95%B1/id387771637",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/51/cc/f851cc42-4415-6fe4-4f87-7c3706383b34/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EC%A6%9D/id6444602589",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/dc/4f/acdc4fab-d33a-9185-f93c-fcbbb57e379f/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "Threads",
-      "artist": "Instagram, Inc.",
+      "title": "쿠팡플레이",
+      "artist": "Coupang Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/threads/id6446901002",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/4d/6b/f54d6b67-6f08-5245-8e7e-09360d5accd4/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%8C%A1%ED%94%8C%EB%A0%88%EC%9D%B4/id1536885649",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/46/07/5e460721-8f22-b91e-a2a2-21f03e5afcaa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
