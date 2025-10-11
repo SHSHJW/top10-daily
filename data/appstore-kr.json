@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-10T23:14:33.716Z",
+  "updatedAt": "2025-10-11T23:14:29.054Z",
   "items": [
     {
       "rank": 1,
@@ -48,24 +48,6 @@
     },
     {
       "rank": 6,
-      "title": "Blackmagic Camera",
-      "artist": "Blackmagic Design Inc",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/blackmagic-camera/id6449580241",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/34/fc/f734fc62-93d7-bc4b-2979-08b95d8508e3/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "텐퍼센트커피",
-      "artist": "Waldlust Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%85%90%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%BB%A4%ED%94%BC/id6443460235",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/b7/2b/56b72bb7-ec13-8ff2-d6b1-3d2e4cc4d4fe/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
@@ -74,7 +56,16 @@
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "title": "쿠팡플레이",
+      "artist": "Coupang Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%8C%A1%ED%94%8C%EB%A0%88%EC%9D%B4/id1536885649",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/46/07/5e460721-8f22-b91e-a2a2-21f03e5afcaa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "모바일 건강보험증",
       "artist": "국민건강보험공단",
       "category": "",
@@ -83,12 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "쿠팡플레이",
-      "artist": "Coupang Corp.",
+      "rank": 9,
+      "title": "헤어비 : 얼굴형 분석과 가상헤어 체험",
+      "artist": "Basicfive Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%8C%A1%ED%94%8C%EB%A0%88%EC%9D%B4/id1536885649",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/46/07/5e460721-8f22-b91e-a2a2-21f03e5afcaa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%96%B4%EB%B9%84-%EC%96%BC%EA%B5%B4%ED%98%95-%EB%B6%84%EC%84%9D%EA%B3%BC-%EA%B0%80%EC%83%81%ED%97%A4%EC%96%B4-%EC%B2%B4%ED%97%98/id6452395655",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/b9/80/40b980db-cad6-f116-1ef7-f0d8164a71c1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "업비트 - 가장 신뢰받는 디지털 자산 거래소",
+      "artist": "Dunamu",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%97%85%EB%B9%84%ED%8A%B8-%EA%B0%80%EC%9E%A5-%EC%8B%A0%EB%A2%B0%EB%B0%9B%EB%8A%94-%EB%94%94%EC%A7%80%ED%84%B8-%EC%9E%90%EC%82%B0-%EA%B1%B0%EB%9E%98%EC%86%8C/id1256371195",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/27/cc/1d27ccbf-7a78-e2c6-3993-11073f471f4d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
