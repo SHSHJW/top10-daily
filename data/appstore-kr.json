@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-15T23:14:43.750Z",
+  "updatedAt": "2025-10-16T23:14:27.723Z",
   "items": [
     {
       "rank": 1,
@@ -7,20 +7,11 @@
       "artist": "한국조폐공사",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/ec/fa/72ecfa72-5177-13c2-afa2-3fe73bee0d09/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/5c/a2/105ca2f4-365a-2ae2-c73c-b1807bf767ac/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 2,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/f2/ea/b1f2eaab-2623-42dc-8624-e2733346440f/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "땡겨요",
       "artist": "SHINHAN BANK",
       "category": "",
@@ -29,16 +20,16 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "NOL 티켓",
-      "artist": "Interpark INT",
+      "rank": 3,
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nol-%ED%8B%B0%EC%BC%93/id440487844",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/80/e4/2480e4b8-81c7-b172-73bb-beb159e09147/appIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/54/87/fe548748-5243-1125-f99d-5671cf2d52b5/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
@@ -47,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -56,12 +47,21 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "번개장터",
-      "artist": "Pic&Go",
+      "rank": 6,
+      "title": "써브웨이",
+      "artist": "Subway International B.V. (Korea)",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0/id395672275",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/fa/51/adfa5157-414d-1875-603d-2d5c96aa7cd2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8D%A8%EB%B8%8C%EC%9B%A8%EC%9D%B4/id1516736468",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/60/d7/6160d725-cd6d-2916-ac4a-18abfe9e2cf7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "먹깨비 - 할인에 지역화폐를 더하다",
+      "artist": "MUKKEBI",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%A8%B9%EA%B9%A8%EB%B9%84-%ED%95%A0%EC%9D%B8%EC%97%90-%EC%A7%80%EC%97%AD%ED%99%94%ED%8F%90%EB%A5%BC-%EB%8D%94%ED%95%98%EB%8B%A4/id1355591390",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/c5/58/9cc5585a-6a6e-8ba3-9a4c-df9412e63aac/AppIcon-Event-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,20 +75,20 @@
     },
     {
       "rank": 9,
+      "title": "NOL 티켓",
+      "artist": "Interpark INT",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/nol-%ED%8B%B0%EC%BC%93/id440487844",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/80/e4/2480e4b8-81c7-b172-73bb-beb159e09147/appIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "먹깨비 - 할인에 지역화폐를 더하다",
-      "artist": "MUKKEBI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A8%B9%EA%B9%A8%EB%B9%84-%ED%95%A0%EC%9D%B8%EC%97%90-%EC%A7%80%EC%97%AD%ED%99%94%ED%8F%90%EB%A5%BC-%EB%8D%94%ED%95%98%EB%8B%A4/id1355591390",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/c5/58/9cc5585a-6a6e-8ba3-9a4c-df9412e63aac/AppIcon-Event-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
