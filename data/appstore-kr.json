@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-21T23:16:30.941Z",
+  "updatedAt": "2025-10-22T23:14:20.514Z",
   "items": [
     {
       "rank": 1,
@@ -21,33 +21,42 @@
     },
     {
       "rank": 3,
-      "title": "Google Gemini",
-      "artist": "Google",
+      "title": "모바일티머니",
+      "artist": "Tmoney Co., Ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/54/87/fe548748-5243-1125-f99d-5671cf2d52b5/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/bc/34/b3bc34d9-3a9f-a9ba-df5c-35bc4214b1c9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/84/90/01849078-c38b-b41c-14d7-22860d501cd5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/0f/20/360f2041-5647-a021-ca56-d2fa3830b416/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "title": "ChatGPT",
+      "artist": "OpenAI",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/3f/d5/733fd56e-49f5-dcba-5173-885d07280ef3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/bf/7b/9ebf7bda-edbe-c34c-e47d-fb8155a3c920/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
+      "title": "K-패스",
+      "artist": "교통안전공단",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/k-%ED%8C%A8%EC%8A%A4/id1538531939",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1f/13/221f137a-2c68-e7d7-41cf-d0425830a9ce/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "배스킨라빈스-배라를 배라앱으로!",
       "artist": "BR Korea Co., Ltd.",
       "category": "",
@@ -56,7 +65,7 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "TOPTEN10",
       "artist": "신성통상㈜",
       "category": "",
@@ -65,30 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "노스페이스 코리아",
-      "artist": "(주)영원아웃도어(YOUNGONE OUTDOOR Corp.)",
+      "rank": 9,
+      "title": "해외안전여행",
+      "artist": "외교부",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%85%B8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EC%BD%94%EB%A6%AC%EC%95%84/id6450890314",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/91/e7/fd91e79b-beaf-e1e3-140f-27ff5ed34188/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%B4%EC%99%B8%EC%95%88%EC%A0%84%EC%97%AC%ED%96%89/id1469501110",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/ec/fd/2decfd62-a996-a63d-71d7-0e6da08c69cf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/25/c0/9525c062-e194-9f37-1892-1c9e339222eb/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/f7/5f/d0f75f22-b8ba-442a-f761-a31736db3862/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
