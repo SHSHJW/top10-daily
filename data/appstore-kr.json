@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2025-10-22T23:14:20.514Z",
+  "updatedAt": "2025-10-23T23:15:05.134Z",
   "items": [
     {
       "rank": 1,
-      "title": "디지털온누리",
-      "artist": "한국조폐공사",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/5c/a2/105ca2f4-365a-2ae2-c73c-b1807bf767ac/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "땡겨요",
       "artist": "SHINHAN BANK",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/f3/ab/1df3ab08-cdfc-fd7a-02fa-24abc05d4696/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
+      "title": "디지털온누리",
+      "artist": "한국조폐공사",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/5c/a2/105ca2f4-365a-2ae2-c73c-b1807bf767ac/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,24 +39,6 @@
     },
     {
       "rank": 5,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/bf/7b/9ebf7bda-edbe-c34c-e47d-fb8155a3c920/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "K-패스",
-      "artist": "교통안전공단",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/k-%ED%8C%A8%EC%8A%A4/id1538531939",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1f/13/221f137a-2c68-e7d7-41cf-d0425830a9ce/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "배스킨라빈스-배라를 배라앱으로!",
       "artist": "BR Korea Co., Ltd.",
       "category": "",
@@ -65,7 +47,34 @@
       "price": "무료"
     },
     {
+      "rank": 6,
+      "title": "ChatGPT",
+      "artist": "OpenAI",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/bf/7b/9ebf7bda-edbe-c34c-e47d-fb8155a3c920/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "K-패스",
+      "artist": "교통안전공단",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/k-%ED%8C%A8%EC%8A%A4/id1538531939",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1f/13/221f137a-2c68-e7d7-41cf-d0425830a9ce/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 8,
+      "title": "FocusFlight - Deepfocus Timer",
+      "artist": "Cement Planet LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/focusflight-deepfocus-timer/id6648771147",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/76/9e/a5769ef1-5525-0555-1ba8-29a6517b32cb/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "TOPTEN10",
       "artist": "신성통상㈜",
       "category": "",
@@ -74,21 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "해외안전여행",
-      "artist": "외교부",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%B4%EC%99%B8%EC%95%88%EC%A0%84%EC%97%AC%ED%96%89/id1469501110",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/ec/fd/2decfd62-a996-a63d-71d7-0e6da08c69cf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 10,
-      "title": "TikTok Lite",
-      "artist": "TikTok Ltd.",
+      "title": "New 롯데월드 어드벤처",
+      "artist": "Hotel Lotte Co., Ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/25/c0/9525c062-e194-9f37-1892-1c9e339222eb/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/new-%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/id6744043800",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/24/64/84246490-0828-e68b-c571-8a17ec2706a9/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
