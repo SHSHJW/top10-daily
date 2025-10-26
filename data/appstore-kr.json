@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-25T23:14:28.125Z",
+  "updatedAt": "2025-10-26T23:15:10.119Z",
   "items": [
     {
       "rank": 1,
@@ -21,15 +21,6 @@
     },
     {
       "rank": 3,
-      "title": "NOL 티켓",
-      "artist": "Interpark INT",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/nol-%ED%8B%B0%EC%BC%93/id440487844",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/80/e4/2480e4b8-81c7-b172-73bb-beb159e09147/appIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -38,7 +29,7 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "모바일티머니",
       "artist": "Tmoney Co., Ltd",
       "category": "",
@@ -47,16 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
@@ -65,16 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "NOL 인터파크",
-      "artist": "Interpark INT",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/nol-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC/id504765473",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/0b/97/3e0b97b2-5588-f446-16eb-ca007dd81910/appIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "TOPTEN10",
       "artist": "신성통상㈜",
       "category": "",
@@ -83,12 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "rank": 7,
+      "title": "DrawerJournal - 타임라인 일기·메모",
+      "artist": "Yoshihiko Uchida",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/3f/d5/733fd56e-49f5-dcba-5173-885d07280ef3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/drawerjournal-%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8-%EC%9D%BC%EA%B8%B0-%EB%A9%94%EB%AA%A8/id1553585038",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/3f/44/a13f4460-a347-2711-bbc1-d1c8889aa265/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "유니클로 UNIQLO - 쇼핑",
+      "artist": "UNIQLO CO., LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/b1/38/24b138a5-0722-bbd7-2372-0c3d897605ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "NOL 티켓",
+      "artist": "Interpark INT",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/nol-%ED%8B%B0%EC%BC%93/id440487844",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/80/e4/2480e4b8-81c7-b172-73bb-beb159e09147/appIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
