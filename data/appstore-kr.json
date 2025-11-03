@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-02T23:14:47.070Z",
+  "updatedAt": "2025-11-03T23:15:48.931Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "Xiamen Meitu Technology Co., Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%A9%94%EC%9D%B4%ED%88%AC-meitu-%EC%82%AC%EC%A7%84-%EB%B3%B4%EC%A0%95-%EC%95%B1-%EC%96%BC%EA%B5%B4%EB%AA%B8%EB%A7%A4-%EC%98%81%EC%83%81-%EB%B3%B4%EC%A0%95/id416048305",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/37/bd/9e37bd93-ee14-a013-9932-eabd09675f93/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/73/23/2973238b-ddf1-84a4-dba6-575abeadd4e5/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,15 +30,6 @@
     },
     {
       "rank": 4,
-      "title": "땡겨요",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/08/2653085c-4031-c045-bdf5-428818326c79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -47,48 +38,57 @@
       "price": "무료"
     },
     {
+      "rank": 5,
+      "title": "땡겨요",
+      "artist": "SHINHAN BANK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/08/2653085c-4031-c045-bdf5-428818326c79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 6,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/a1/30/c9a1309e-a2c6-63f0-6584-cbd9ab561cf6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/c1/e9/cdc1e9b6-6192-617b-5c05-f7fde17d6978/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
+      "title": "모바일 건강보험증",
+      "artist": "국민건강보험공단",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EC%A6%9D/id6444602589",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/dc/4f/acdc4fab-d33a-9185-f93c-fcbbb57e379f/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "모바일티머니",
+      "artist": "Tmoney Co., Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/bc/34/b3bc34d9-3a9f-a9ba-df5c-35bc4214b1c9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "TikTok Lite",
+      "artist": "TikTok Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/60/e7/6860e797-8827-00fc-b656-cfdfdfde8647/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "TOPTEN10",
-      "artist": "신성통상㈜",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/topten10/id6450069980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/0e/8e/c50e8e86-04b0-9b36-b352-fafbbe53ac9e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "유니클로 UNIQLO - 쇼핑",
-      "artist": "UNIQLO CO., LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/52/ff/ae52ffc4-d2da-634a-9cce-989589c60427/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "BeautyCam-뷰티&필름 카메라",
-      "artist": "Xiamen Meitu Technology Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/beautycam-%EB%B7%B0%ED%8B%B0-%ED%95%84%EB%A6%84-%EC%B9%B4%EB%A9%94%EB%9D%BC/id592331499",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/71/94/4a7194a8-90ca-a479-b792-64956dbaedb6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
