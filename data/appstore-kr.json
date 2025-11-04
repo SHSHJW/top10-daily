@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-03T23:15:48.931Z",
+  "updatedAt": "2025-11-04T23:16:13.632Z",
   "items": [
     {
       "rank": 1,
@@ -12,15 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "디지털온누리",
-      "artist": "한국조폐공사",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/70/96/e4709604-256d-3379-b53f-79ccccebf01d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -29,21 +20,30 @@
       "price": "무료"
     },
     {
+      "rank": 3,
+      "title": "디지털온누리",
+      "artist": "한국조폐공사",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/70/96/e4709604-256d-3379-b53f-79ccccebf01d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 4,
+      "title": "컴포즈커피",
+      "artist": "Da Vinci Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%BB%B4%ED%8F%AC%EC%A6%88%EC%BB%A4%ED%94%BC/id6742086811",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/19/49/a6194933-1eec-a8a2-8d93-8c533e2df606/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/b7/d4/4db7d48a-d4b4-774b-bbb8-5e943111811f/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "땡겨요",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/08/2653085c-4031-c045-bdf5-428818326c79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,38 +57,38 @@
     },
     {
       "rank": 7,
-      "title": "모바일 건강보험증",
-      "artist": "국민건강보험공단",
+      "title": "땡겨요",
+      "artist": "SHINHAN BANK",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EC%A6%9D/id6444602589",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/dc/4f/acdc4fab-d33a-9185-f93c-fcbbb57e379f/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/08/2653085c-4031-c045-bdf5-428818326c79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "모바일티머니",
-      "artist": "Tmoney Co., Ltd",
+      "title": "키움증권 영웅문S#(NEW)",
+      "artist": "Kiwoom Securities Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/bc/34/b3bc34d9-3a9f-a9ba-df5c-35bc4214b1c9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C-%EC%98%81%EC%9B%85%EB%AC%B8s-new/id1570370057",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/01/2d/34012d06-7f28-3cc1-d722-feefb410e0de/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "TikTok Lite",
-      "artist": "TikTok Ltd.",
+      "title": "monimo (모니모, 삼성금융네트웍스)",
+      "artist": "Samsungcard Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/60/e7/6860e797-8827-00fc-b656-cfdfdfde8647/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/monimo-%EB%AA%A8%EB%8B%88%EB%AA%A8-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4/id379577046",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/93/0e/ab930ea4-b784-ab4a-6668-f068aa2c48f6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
+      "title": "신세계백화점(비욘드신세계/비아신세계)",
+      "artist": "SHINSEGAE",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%EC%84%B8%EA%B3%84%EB%B0%B1%ED%99%94%EC%A0%90-%EB%B9%84%EC%9A%98%EB%93%9C%EC%8B%A0%EC%84%B8%EA%B3%84-%EB%B9%84%EC%95%84%EC%8B%A0%EC%84%B8%EA%B3%84/id411625066",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/6e/65/5d6e65d7-49bc-f86e-d1d8-98d99c7740cc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
