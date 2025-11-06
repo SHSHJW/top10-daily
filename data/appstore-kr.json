@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-05T23:16:27.207Z",
+  "updatedAt": "2025-11-06T23:16:15.298Z",
   "items": [
     {
       "rank": 1,
@@ -21,20 +21,20 @@
     },
     {
       "rank": 3,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/d8/01/d4d801eb-ae8e-43d1-bd4d-53ba845ac279/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "메이투 Meitu -사진 보정 앱,얼굴몸매&영상 보정",
       "artist": "Xiamen Meitu Technology Co., Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%A9%94%EC%9D%B4%ED%88%AC-meitu-%EC%82%AC%EC%A7%84-%EB%B3%B4%EC%A0%95-%EC%95%B1-%EC%96%BC%EA%B5%B4%EB%AA%B8%EB%A7%A4-%EC%98%81%EC%83%81-%EB%B3%B4%EC%A0%95/id416048305",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/73/23/2973238b-ddf1-84a4-dba6-575abeadd4e5/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/b7/d4/4db7d48a-d4b4-774b-bbb8-5e943111811f/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,11 +57,11 @@
     },
     {
       "rank": 7,
-      "title": "키움증권 영웅문S#(NEW)",
-      "artist": "Kiwoom Securities Co., Ltd.",
+      "title": "미래에셋증권 M-STOCK",
+      "artist": "Mirae Asset Securities Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C-%EC%98%81%EC%9B%85%EB%AC%B8s-new/id1570370057",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/01/2d/34012d06-7f28-3cc1-d722-feefb410e0de/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-m-stock/id1248716281",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/87/01/3f870182-57cf-f2d0-f2c8-53b651d08fb3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "컴포즈커피",
-      "artist": "Da Vinci Corp.",
+      "title": "monimo (모니모, 삼성금융네트웍스)",
+      "artist": "Samsungcard Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BB%B4%ED%8F%AC%EC%A6%88%EC%BB%A4%ED%94%BC/id6742086811",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/19/49/a6194933-1eec-a8a2-8d93-8c533e2df606/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/monimo-%EB%AA%A8%EB%8B%88%EB%AA%A8-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4/id379577046",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/93/0e/ab930ea4-b784-ab4a-6668-f068aa2c48f6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
