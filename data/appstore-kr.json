@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-06T23:16:15.298Z",
+  "updatedAt": "2025-11-07T23:15:37.360Z",
   "items": [
     {
       "rank": 1,
@@ -30,20 +30,20 @@
     },
     {
       "rank": 4,
-      "title": "메이투 Meitu -사진 보정 앱,얼굴몸매&영상 보정",
-      "artist": "Xiamen Meitu Technology Co., Ltd.",
+      "title": "MUJI KR",
+      "artist": "MUJI KOREA CO.,LTD",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A9%94%EC%9D%B4%ED%88%AC-meitu-%EC%82%AC%EC%A7%84-%EB%B3%B4%EC%A0%95-%EC%95%B1-%EC%96%BC%EA%B5%B4%EB%AA%B8%EB%A7%A4-%EC%98%81%EC%83%81-%EB%B3%B4%EC%A0%95/id416048305",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/73/23/2973238b-ddf1-84a4-dba6-575abeadd4e5/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/59/cd/e659cd10-2d34-c5db-9b67-7b85e186fee5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
+      "title": "LG전자 LGE.COM",
+      "artist": "LG Electronics, Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/c1/e9/cdc1e9b6-6192-617b-5c05-f7fde17d6978/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/lg%EC%A0%84%EC%9E%90-lge-com/id1561079401",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/2f/b0/4f2fb0b3-fe7f-ec15-2f9f-7b2fdf3cc611/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,29 +57,29 @@
     },
     {
       "rank": 7,
+      "title": "ChatGPT",
+      "artist": "OpenAI",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/c1/e9/cdc1e9b6-6192-617b-5c05-f7fde17d6978/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "메이투 Meitu -사진 보정 앱,얼굴몸매&영상 보정",
+      "artist": "Xiamen Meitu Technology Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%A9%94%EC%9D%B4%ED%88%AC-meitu-%EC%82%AC%EC%A7%84-%EB%B3%B4%EC%A0%95-%EC%95%B1-%EC%96%BC%EA%B5%B4%EB%AA%B8%EB%A7%A4-%EC%98%81%EC%83%81-%EB%B3%B4%EC%A0%95/id416048305",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/73/23/2973238b-ddf1-84a4-dba6-575abeadd4e5/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "미래에셋증권 M-STOCK",
       "artist": "Mirae Asset Securities Co., Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-m-stock/id1248716281",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/87/01/3f870182-57cf-f2d0-f2c8-53b651d08fb3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "세븐일레븐",
-      "artist": "Korea Seven Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90/id1253773772",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/0f/ac/4f0fac88-b570-30ba-a831-c2a0edc88e56/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "모바일티머니",
-      "artist": "Tmoney Co., Ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/bc/34/b3bc34d9-3a9f-a9ba-df5c-35bc4214b1c9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
