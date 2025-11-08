@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2025-11-07T23:15:37.360Z",
+  "updatedAt": "2025-11-08T23:14:37.068Z",
   "items": [
     {
       "rank": 1,
+      "title": "MUJI KR",
+      "artist": "MUJI KOREA CO.,LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/59/cd/e659cd10-2d34-c5db-9b67-7b85e186fee5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
       "title": "디지털온누리",
       "artist": "한국조폐공사",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/70/96/e4709604-256d-3379-b53f-79ccccebf01d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/19/51/99195105-2cd5-befb-7311-47718dfacbe1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,24 +30,15 @@
     },
     {
       "rank": 4,
-      "title": "MUJI KR",
-      "artist": "MUJI KOREA CO.,LTD",
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/59/cd/e659cd10-2d34-c5db-9b67-7b85e186fee5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/19/51/99195105-2cd5-befb-7311-47718dfacbe1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "LG전자 LGE.COM",
-      "artist": "LG Electronics, Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/lg%EC%A0%84%EC%9E%90-lge-com/id1561079401",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/2f/b0/4f2fb0b3-fe7f-ec15-2f9f-7b2fdf3cc611/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "땡겨요",
       "artist": "SHINHAN BANK",
       "category": "",
@@ -56,12 +47,21 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/c1/e9/cdc1e9b6-6192-617b-5c05-f7fde17d6978/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,20 +75,20 @@
     },
     {
       "rank": 9,
-      "title": "미래에셋증권 M-STOCK",
-      "artist": "Mirae Asset Securities Co., Ltd.",
+      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "artist": "Trip.com Travel Singapore Pte. Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-m-stock/id1248716281",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/87/01/3f870182-57cf-f2d0-f2c8-53b651d08fb3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/a3/e2/7ba3e27a-529a-5adf-d34c-f47d98b98b29/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "monimo (모니모, 삼성금융네트웍스)",
-      "artist": "Samsungcard Co., Ltd.",
+      "title": "LG전자 LGE.COM",
+      "artist": "LG Electronics, Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/monimo-%EB%AA%A8%EB%8B%88%EB%AA%A8-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4/id379577046",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/93/0e/ab930ea4-b784-ab4a-6668-f068aa2c48f6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/lg%EC%A0%84%EC%9E%90-lge-com/id1561079401",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/2f/b0/4f2fb0b3-fe7f-ec15-2f9f-7b2fdf3cc611/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
