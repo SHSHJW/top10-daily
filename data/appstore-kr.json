@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-08T23:14:37.068Z",
+  "updatedAt": "2025-11-09T23:15:34.117Z",
   "items": [
     {
       "rank": 1,
@@ -21,20 +21,20 @@
     },
     {
       "rank": 3,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/d8/01/d4d801eb-ae8e-43d1-bd4d-53ba845ac279/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/19/51/99195105-2cd5-befb-7311-47718dfacbe1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/d8/01/d4d801eb-ae8e-43d1-bd4d-53ba845ac279/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,24 +57,6 @@
     },
     {
       "rank": 7,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "메이투 Meitu -사진 보정 앱,얼굴몸매&영상 보정",
-      "artist": "Xiamen Meitu Technology Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A9%94%EC%9D%B4%ED%88%AC-meitu-%EC%82%AC%EC%A7%84-%EB%B3%B4%EC%A0%95-%EC%95%B1-%EC%96%BC%EA%B5%B4%EB%AA%B8%EB%A7%A4-%EC%98%81%EC%83%81-%EB%B3%B4%EC%A0%95/id416048305",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/73/23/2973238b-ddf1-84a4-dba6-575abeadd4e5/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "Trip.com 트립닷컴 - 여행 할인 예약",
       "artist": "Trip.com Travel Singapore Pte. Ltd.",
       "category": "",
@@ -83,12 +65,30 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "LG전자 LGE.COM",
-      "artist": "LG Electronics, Inc.",
+      "rank": 8,
+      "title": "치지직",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/lg%EC%A0%84%EC%9E%90-lge-com/id1561079401",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/2f/b0/4f2fb0b3-fe7f-ec15-2f9f-7b2fdf3cc611/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/2c/02/232c0247-d32a-7f21-198b-a03171a52e36/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "다이소몰",
+      "artist": "ASUNGDAISO, Co.,Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%8B%A4%EC%9D%B4%EC%86%8C%EB%AA%B0/id1070715498",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/0b/d8/a80bd854-0bf7-9eb0-8724-eeeb0f12bc05/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "하나머니(트래블로그)",
+      "artist": "Hana Card Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EB%A8%B8%EB%8B%88-%ED%8A%B8%EB%9E%98%EB%B8%94%EB%A1%9C%EA%B7%B8/id1038288833",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/47/61/634761fa-6b25-f48b-aa88-f79965c709a8/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
