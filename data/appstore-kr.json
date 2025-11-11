@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-10T23:16:48.846Z",
+  "updatedAt": "2025-11-11T23:15:58.052Z",
   "items": [
     {
       "rank": 1,
@@ -12,69 +12,42 @@
     },
     {
       "rank": 2,
-      "title": "SERIES - 네이버 시리즈",
-      "artist": "NAVER WEBTOON Ltd.",
+      "title": "썸원 SumOne",
+      "artist": "sandfox",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/series-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8B%9C%EB%A6%AC%EC%A6%88/id433592412",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/6c/7d/1b6c7dae-0258-5c0a-9e13-6237d0288f3e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8D%B8%EC%9B%90-sumone/id1469506430",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/46/b3/0d46b351-f9e1-bbe6-5b12-24eb8bff919c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 3,
-      "title": "네이버 캘린더 - Naver Calendar",
-      "artist": "NAVER Corp.",
+      "title": "영어 학습 및 말하기 실습",
+      "artist": "Praktika.ai Company",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%BA%98%EB%A6%B0%EB%8D%94-naver-calendar/id592346243",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/8d/5f/8a8d5f17-451b-5c52-7528-69f9d0bc2e12/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%98%81%EC%96%B4-%ED%95%99%EC%8A%B5-%EB%B0%8F-%EB%A7%90%ED%95%98%EA%B8%B0-%EC%8B%A4%EC%8A%B5/id1624701477",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/0f/0b/a60f0bbc-6e9d-47c4-f4f9-f276f57f6f78/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "네이버 카페 – Naver Cafe",
-      "artist": "NAVER Corp.",
+      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "artist": "Trip.com Travel Singapore Pte. Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%B9%B4%ED%8E%98-naver-cafe/id420615104",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/0c/b6/cf0cb6a7-6fab-bcfe-d5fd-8b27c89b0275/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/a3/e2/7ba3e27a-529a-5adf-d34c-f47d98b98b29/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "네이버 MYBOX - NAVER MYBOX",
+      "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-mybox-naver-mybox/id585173084",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/83/ac/5c83accb-4774-703c-e998-4e88a40a615f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/02/75/9c02750b-5db6-164d-3229-85c063f93aab/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
-      "title": "당근",
-      "artist": "Danggeun Market Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8B%B9%EA%B7%BC/id1018769995",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/a8/de/eca8de5e-c8ca-ec44-57cf-11ef756f1d58/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "네이버 메일",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%A9%94%EC%9D%BC/id582152066",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/1e/98/d51e981f-fd10-4f20-8b73-3600c7b91951/appicon-naver-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "네이버 시리즈온 - SERIES ON",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%98%A8-series-on/id530059576",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/0e/ca/820ecade-b1fe-6ce4-eaff-6f8be18efe28/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "디지털온누리",
       "artist": "한국조폐공사",
       "category": "",
@@ -83,12 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "네이버플러스 스토어",
+      "rank": 7,
+      "title": "SERIES - 네이버 시리즈",
+      "artist": "NAVER WEBTOON Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/series-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8B%9C%EB%A6%AC%EC%A6%88/id433592412",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/6c/7d/1b6c7dae-0258-5c0a-9e13-6237d0288f3e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/d8/01/d4d801eb-ae8e-43d1-bd4d-53ba845ac279/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "네이버 캘린더 - Naver Calendar",
       "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/02/75/9c02750b-5db6-164d-3229-85c063f93aab/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%BA%98%EB%A6%B0%EB%8D%94-naver-calendar/id592346243",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/8d/5f/8a8d5f17-451b-5c52-7528-69f9d0bc2e12/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "MUJI KR",
+      "artist": "MUJI KOREA CO.,LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/59/cd/e659cd10-2d34-c5db-9b67-7b85e186fee5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
