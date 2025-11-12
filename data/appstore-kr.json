@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-11T23:15:58.052Z",
+  "updatedAt": "2025-11-12T23:16:57.709Z",
   "items": [
     {
       "rank": 1,
@@ -12,42 +12,24 @@
     },
     {
       "rank": 2,
-      "title": "썸원 SumOne",
-      "artist": "sandfox",
+      "title": "샵백 ShopBack - 쇼핑하고 돌려받는 현금 캐시백",
+      "artist": "eCommerce Enablers Pte Ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8D%B8%EC%9B%90-sumone/id1469506430",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/46/b3/0d46b351-f9e1-bbe6-5b12-24eb8bff919c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%83%B5%EB%B0%B1-shopback-%EC%87%BC%ED%95%91%ED%95%98%EA%B3%A0-%EB%8F%8C%EB%A0%A4%EB%B0%9B%EB%8A%94-%ED%98%84%EA%B8%88-%EC%BA%90%EC%8B%9C%EB%B0%B1/id1086505626",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/22/31/8222313d-fa6a-f29f-9a4f-7f22d3672bd3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 3,
-      "title": "영어 학습 및 말하기 실습",
-      "artist": "Praktika.ai Company",
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%98%81%EC%96%B4-%ED%95%99%EC%8A%B5-%EB%B0%8F-%EB%A7%90%ED%95%98%EA%B8%B0-%EC%8B%A4%EC%8A%B5/id1624701477",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/0f/0b/a60f0bbc-6e9d-47c4-f4f9-f276f57f6f78/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/4e/53/124e538d-1943-a36b-a44f-8138378e91b6/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/a3/e2/7ba3e27a-529a-5adf-d34c-f47d98b98b29/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/02/75/9c02750b-5db6-164d-3229-85c063f93aab/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "디지털온누리",
       "artist": "한국조폐공사",
       "category": "",
@@ -56,39 +38,57 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "SERIES - 네이버 시리즈",
-      "artist": "NAVER WEBTOON Ltd.",
+      "rank": 5,
+      "title": "T locker 또타라커 - 지하철 물품 보관 전달함",
+      "artist": "Seoul Metropolitan Rapid Transit Engineering",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/series-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8B%9C%EB%A6%AC%EC%A6%88/id433592412",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/6c/7d/1b6c7dae-0258-5c0a-9e13-6237d0288f3e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/t-locker-%EB%98%90%ED%83%80%EB%9D%BC%EC%BB%A4-%EC%A7%80%ED%95%98%EC%B2%A0-%EB%AC%BC%ED%92%88-%EB%B3%B4%EA%B4%80-%EC%A0%84%EB%8B%AC%ED%95%A8/id1503291383",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/ca/eb/fccaeb8b-b80d-4602-6a75-4b0c9e9b9abf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/d8/01/d4d801eb-ae8e-43d1-bd4d-53ba845ac279/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "네이버 캘린더 - Naver Calendar",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%BA%98%EB%A6%B0%EB%8D%94-naver-calendar/id592346243",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/8d/5f/8a8d5f17-451b-5c52-7528-69f9d0bc2e12/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "title": "MUJI KR",
       "artist": "MUJI KOREA CO.,LTD",
       "category": "",
       "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/59/cd/e659cd10-2d34-c5db-9b67-7b85e186fee5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "화해 (대한민국 1등 뷰티 앱)",
+      "artist": "BirdView Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%99%94%ED%95%B4-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-1%EB%93%B1-%EB%B7%B0%ED%8B%B0-%EC%95%B1/id940056100",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/58/42/c35842a7-93b8-144b-a7cc-6bee3f17ad9c/AppIcon-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "하이플러스 - 대한민국 대표 하이패스",
+      "artist": "SM HIPLUS Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EC%9D%B4%ED%94%8C%EB%9F%AC%EC%8A%A4-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%8C%80%ED%91%9C-%ED%95%98%EC%9D%B4%ED%8C%A8%EC%8A%A4/id6743926262",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/22/e2/6322e217-2efb-99da-8454-9d8190bcd987/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/a3/e2/7ba3e27a-529a-5adf-d34c-f47d98b98b29/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "ChatGPT",
+      "artist": "OpenAI",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/c1/e9/cdc1e9b6-6192-617b-5c05-f7fde17d6978/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
