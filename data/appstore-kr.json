@@ -1,35 +1,17 @@
 {
-  "updatedAt": "2025-11-12T23:16:57.709Z",
+  "updatedAt": "2025-12-02T23:16:55.690Z",
   "items": [
     {
       "rank": 1,
-      "title": "엽기떡볶이",
-      "artist": "(주)핫시즈너",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%97%BD%EA%B8%B0%EB%96%A1%EB%B3%B6%EC%9D%B4/id1190023113",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/8c/e6/e88ce6fb-5481-b3bb-cc95-262c0d0c7c47/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
-      "title": "샵백 ShopBack - 쇼핑하고 돌려받는 현금 캐시백",
-      "artist": "eCommerce Enablers Pte Ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%83%B5%EB%B0%B1-shopback-%EC%87%BC%ED%95%91%ED%95%98%EA%B3%A0-%EB%8F%8C%EB%A0%A4%EB%B0%9B%EB%8A%94-%ED%98%84%EA%B8%88-%EC%BA%90%EC%8B%9C%EB%B0%B1/id1086505626",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/22/31/8222313d-fa6a-f29f-9a4f-7f22d3672bd3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/4e/53/124e538d-1943-a36b-a44f-8138378e91b6/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/bd/e9/0dbde91b-0659-2d12-761e-4ec40c08680f/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "디지털온누리",
       "artist": "한국조폐공사",
       "category": "",
@@ -38,39 +20,57 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "T locker 또타라커 - 지하철 물품 보관 전달함",
-      "artist": "Seoul Metropolitan Rapid Transit Engineering",
+      "rank": 3,
+      "title": "빗썸",
+      "artist": "Bithumb Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/t-locker-%EB%98%90%ED%83%80%EB%9D%BC%EC%BB%A4-%EC%A7%80%ED%95%98%EC%B2%A0-%EB%AC%BC%ED%92%88-%EB%B3%B4%EA%B4%80-%EC%A0%84%EB%8B%AC%ED%95%A8/id1503291383",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/ca/eb/fccaeb8b-b80d-4602-6a75-4b0c9e9b9abf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%B9%97%EC%8D%B8/id1299421592",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/96/aa/af96aaa2-ab7d-4831-a176-0e8d4e6661ee/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "모바일 관세청",
+      "artist": "Korea Customs Service",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B4%80%EC%84%B8%EC%B2%AD/id1100073666",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/31/c7/3b31c7a6-0ef3-7615-3a12-02dbbd47c55d/AppIconPubservice-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
-      "title": "MUJI KR",
-      "artist": "MUJI KOREA CO.,LTD",
+      "title": "올리브영",
+      "artist": "CJ Olive Young Corporation",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/59/cd/e659cd10-2d34-c5db-9b67-7b85e186fee5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/dc/07/fbdc0728-10ed-d7ba-8730-e83b7048dd3a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "화해 (대한민국 1등 뷰티 앱)",
-      "artist": "BirdView Inc.",
+      "title": "ChatGPT",
+      "artist": "OpenAI",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%99%94%ED%95%B4-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-1%EB%93%B1-%EB%B7%B0%ED%8B%B0-%EC%95%B1/id940056100",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/58/42/c35842a7-93b8-144b-a7cc-6bee3f17ad9c/AppIcon-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/06/c8/5206c85b-ce69-c293-971b-4a3143c4f62d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "하이플러스 - 대한민국 대표 하이패스",
-      "artist": "SM HIPLUS Corporation",
+      "title": "땡겨요",
+      "artist": "SHINHAN BANK",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EC%9D%B4%ED%94%8C%EB%9F%AC%EC%8A%A4-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%8C%80%ED%91%9C-%ED%95%98%EC%9D%B4%ED%8C%A8%EC%8A%A4/id6743926262",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/22/e2/6322e217-2efb-99da-8454-9d8190bcd987/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/08/2653085c-4031-c045-bdf5-428818326c79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -79,16 +79,16 @@
       "artist": "Trip.com Travel Singapore Pte. Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/a3/e2/7ba3e27a-529a-5adf-d34c-f47d98b98b29/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/14/fe/1614feab-55e3-0a12-9687-9d17ef6d1622/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
+      "title": "운전면허 PLUS - 운전면허 필기시험(2025최신판)",
+      "artist": "Adrock Advertainment",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/c1/e9/cdc1e9b6-6192-617b-5c05-f7fde17d6978/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88-plus-%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88-%ED%95%84%EA%B8%B0%EC%8B%9C%ED%97%98-2025%EC%B5%9C%EC%8B%A0%ED%8C%90/id644223359",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/ff/60/30ff6095-162f-40ef-e3fb-0619fdf56832/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
