@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-02T23:16:55.690Z",
+  "updatedAt": "2025-12-03T23:15:51.664Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/bd/e9/0dbde91b-0659-2d12-761e-4ec40c08680f/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/39/c0/0c39c0a7-1f31-317e-0122-d2f02da836d0/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -21,15 +21,6 @@
     },
     {
       "rank": 3,
-      "title": "빗썸",
-      "artist": "Bithumb Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%B9%97%EC%8D%B8/id1299421592",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/96/aa/af96aaa2-ab7d-4831-a176-0e8d4e6661ee/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "모바일 관세청",
       "artist": "Korea Customs Service",
       "category": "",
@@ -38,12 +29,21 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5f/75/3d5f75fb-7846-b20b-9c21-eeed8a3834ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "ChatGPT",
+      "artist": "OpenAI",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/06/c8/5206c85b-ce69-c293-971b-4a3143c4f62d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,15 +57,6 @@
     },
     {
       "rank": 7,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/06/c8/5206c85b-ce69-c293-971b-4a3143c4f62d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "땡겨요",
       "artist": "SHINHAN BANK",
       "category": "",
@@ -74,21 +65,30 @@
       "price": "무료"
     },
     {
+      "rank": 8,
+      "title": "오토클리커 - 오토클릭,클리커Auto Clicker Q",
+      "artist": "家豪 魏",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%98%A4%ED%86%A0%ED%81%B4%EB%A6%AC%EC%BB%A4-%EC%98%A4%ED%86%A0%ED%81%B4%EB%A6%AD-%ED%81%B4%EB%A6%AC%EC%BB%A4auto-clicker-q/id6749267219",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/58/a5/f258a5f4-5482-30fd-bf6d-5044494583e0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 9,
+      "title": "TikTok Lite",
+      "artist": "TikTok Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/69/c6/4569c6ab-679f-46bb-9ed0-512d11aa622a/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
       "title": "Trip.com 트립닷컴 - 여행 할인 예약",
       "artist": "Trip.com Travel Singapore Pte. Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/14/fe/1614feab-55e3-0a12-9687-9d17ef6d1622/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "운전면허 PLUS - 운전면허 필기시험(2025최신판)",
-      "artist": "Adrock Advertainment",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88-plus-%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88-%ED%95%84%EA%B8%B0%EC%8B%9C%ED%97%98-2025%EC%B5%9C%EC%8B%A0%ED%8C%90/id644223359",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/ff/60/30ff6095-162f-40ef-e3fb-0619fdf56832/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
