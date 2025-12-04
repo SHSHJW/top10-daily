@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-03T23:15:51.664Z",
+  "updatedAt": "2025-12-04T23:17:26.157Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/39/c0/0c39c0a7-1f31-317e-0122-d2f02da836d0/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/38/49/1e384953-5045-5e56-53e7-9b492b03e5d7/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -21,15 +21,6 @@
     },
     {
       "rank": 3,
-      "title": "모바일 관세청",
-      "artist": "Korea Customs Service",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B4%80%EC%84%B8%EC%B2%AD/id1100073666",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/31/c7/3b31c7a6-0ef3-7615-3a12-02dbbd47c55d/AppIconPubservice-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -38,16 +29,43 @@
       "price": "무료"
     },
     {
+      "rank": 4,
+      "title": "유니클로 UNIQLO - 쇼핑",
+      "artist": "UNIQLO CO., LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/52/ff/ae52ffc4-d2da-634a-9cce-989589c60427/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 5,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/06/c8/5206c85b-ce69-c293-971b-4a3143c4f62d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/7b/a2/d27ba28b-610c-086a-3941-5f67860e932c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
+      "title": "모바일 관세청",
+      "artist": "Korea Customs Service",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B4%80%EC%84%B8%EC%B2%AD/id1100073666",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/af/49/a3af499b-6f1b-053f-ac1d-dd5f4c22e2a0/AppIconPubservice-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "TikTok Lite",
+      "artist": "TikTok Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/ae/97/a9ae9732-b0b2-9fcb-f178-48d27c207318/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "올리브영",
       "artist": "CJ Olive Young Corporation",
       "category": "",
@@ -56,39 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "땡겨요",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/08/2653085c-4031-c045-bdf5-428818326c79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "오토클리커 - 오토클릭,클리커Auto Clicker Q",
-      "artist": "家豪 魏",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%98%A4%ED%86%A0%ED%81%B4%EB%A6%AC%EC%BB%A4-%EC%98%A4%ED%86%A0%ED%81%B4%EB%A6%AD-%ED%81%B4%EB%A6%AC%EC%BB%A4auto-clicker-q/id6749267219",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/58/a5/f258a5f4-5482-30fd-bf6d-5044494583e0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 9,
-      "title": "TikTok Lite",
-      "artist": "TikTok Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/69/c6/4569c6ab-679f-46bb-9ed0-512d11aa622a/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "Trip.com 트립닷컴 - 여행 할인 예약",
       "artist": "Trip.com Travel Singapore Pte. Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/14/fe/1614feab-55e3-0a12-9687-9d17ef6d1622/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "땡겨요",
+      "artist": "SHINHAN BANK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/08/2653085c-4031-c045-bdf5-428818326c79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
