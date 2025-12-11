@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-10T23:16:04.196Z",
+  "updatedAt": "2025-12-11T23:17:43.588Z",
   "items": [
     {
       "rank": 1,
@@ -12,20 +12,20 @@
     },
     {
       "rank": 2,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/0a/32/da0a32e6-725f-a29f-4394-0aa3ba1ba763/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/ae/97/a9ae9732-b0b2-9fcb-f178-48d27c207318/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/0a/32/da0a32e6-725f-a29f-4394-0aa3ba1ba763/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,11 +66,11 @@
     },
     {
       "rank": 8,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "title": "하나머니(트래블로그)",
+      "artist": "Hana Card Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/b1/ff/a7b1ffdb-80f8-a9c8-aad9-c8a1de1b50cf/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EB%A8%B8%EB%8B%88-%ED%8A%B8%EB%9E%98%EB%B8%94%EB%A1%9C%EA%B7%B8/id1038288833",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/fa/84/4ffa844c-0b7a-1a1a-6443-37f892d2b0e7/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "삼성증권 mPOP",
-      "artist": "SAMSUNG SECURITIES Co., LTD.",
+      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "artist": "Trip.com Travel Singapore Pte. Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%84%B1%EC%A6%9D%EA%B6%8C-mpop/id1150231646",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/d8/5d/6bd85d40-9032-f176-8326-d86db031c07a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/b1/ff/a7b1ffdb-80f8-a9c8-aad9-c8a1de1b50cf/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
