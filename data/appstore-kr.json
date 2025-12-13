@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2025-12-12T23:17:49.176Z",
+  "updatedAt": "2025-12-13T23:16:12.266Z",
   "items": [
     {
       "rank": 1,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/09/1b/a8091bbf-8cdc-4dff-d13b-2b44466ddfa0/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -20,16 +11,16 @@
       "price": "무료"
     },
     {
-      "rank": 3,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "rank": 2,
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/0a/32/da0a32e6-725f-a29f-4394-0aa3ba1ba763/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/09/1b/a8091bbf-8cdc-4dff-d13b-2b44466ddfa0/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -38,34 +29,25 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "디지털온누리",
-      "artist": "한국조폐공사",
+      "rank": 4,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/70/96/e4709604-256d-3379-b53f-79ccccebf01d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/0a/32/da0a32e6-725f-a29f-4394-0aa3ba1ba763/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "Blackmagic Camera",
+      "artist": "Blackmagic Design Inc",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/blackmagic-camera/id6449580241",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/97/bc/6197bc3b-1e24-0ca8-2916-a032d1a50772/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/32/5d/40325dac-86a7-dba8-abc3-ae8022b6f830/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "컬처패스",
-      "artist": "Mybi Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BB%AC%EC%B2%98%ED%8C%A8%EC%8A%A4/id6748126066",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/90/54/8190542e-0110-13a2-3815-bd85ccfc06e7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
@@ -74,21 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "대한민국 모바일 신분증",
-      "artist": "행정안전부",
+      "rank": 7,
+      "title": "디지털온누리",
+      "artist": "한국조폐공사",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/f0/bc/99f0bce0-96bc-31b5-de3e-007aafac550d/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/70/96/e4709604-256d-3379-b53f-79ccccebf01d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "ChatGPT",
+      "artist": "OpenAI",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/32/5d/40325dac-86a7-dba8-abc3-ae8022b6f830/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "DramaBox - 영화와 숏폼 드라마",
+      "artist": "STORYMATRIX PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/4d/f1/1b4df1ef-f446-150f-0966-c2d7228f8ba7/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "카카오페이",
-      "artist": "kakaopay corp.",
+      "title": "땡겨요",
+      "artist": "SHINHAN BANK",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4/id1464496236",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/a0/98/71a098f0-aaae-3753-8c12-9dcaa4d00d4b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/08/2653085c-4031-c045-bdf5-428818326c79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
