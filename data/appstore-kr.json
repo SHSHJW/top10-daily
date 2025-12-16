@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-15T23:18:10.905Z",
+  "updatedAt": "2025-12-16T23:17:29.944Z",
   "items": [
     {
       "rank": 1,
@@ -12,6 +12,15 @@
     },
     {
       "rank": 2,
+      "title": "TravelBoast: 여행 지도",
+      "artist": "ALEXSANDR KUZNETSOV",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/travelboast-%EC%97%AC%ED%96%89-%EC%A7%80%EB%8F%84/id1476504378",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/69/4c/cc694cda-18af-39c8-5d16-ecb863f237ff/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -20,21 +29,12 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/09/1b/a8091bbf-8cdc-4dff-d13b-2b44466ddfa0/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "TravelBoast: 여행 지도",
-      "artist": "ALEXSANDR KUZNETSOV",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/travelboast-%EC%97%AC%ED%96%89-%EC%A7%80%EB%8F%84/id1476504378",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/69/4c/cc694cda-18af-39c8-5d16-ecb863f237ff/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -70,25 +70,25 @@
       "artist": "OpenAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/32/5d/40325dac-86a7-dba8-abc3-ae8022b6f830/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/85/41/1685416e-4182-d08a-e3c7-69d04a06cd08/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "Amora: 당신의 소울메이트",
-      "artist": "Lit Apps LLC (Mobile)",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/amora-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%86%8C%EC%9A%B8%EB%A9%94%EC%9D%B4%ED%8A%B8/id6748601088",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/51/5a/dc515a96-226d-33fe-60f2-c02808bb3e22/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/08/ab/7e08ab92-dfaa-a242-2a2f-26b58eae1279/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/72/f2/f272f221-c721-2360-f0a4-4cf258335191/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
