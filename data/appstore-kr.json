@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-17T23:17:53.667Z",
+  "updatedAt": "2025-12-18T23:18:01.281Z",
   "items": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/09/1b/a8091bbf-8cdc-4dff-d13b-2b44466ddfa0/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/98/48/dc9848f3-af7a-a934-d2cb-36b3725dcfe2/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,24 +39,15 @@
     },
     {
       "rank": 5,
-      "title": "TravelBoast: 여행 지도",
-      "artist": "ALEXSANDR KUZNETSOV",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/travelboast-%EC%97%AC%ED%96%89-%EC%A7%80%EB%8F%84/id1476504378",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/e0/33/5fe0331d-60ec-533b-cfa7-0239bdd3b7b8/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/0a/32/da0a32e6-725f-a29f-4394-0aa3ba1ba763/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/76/b2/a976b2b2-2e08-701f-2e1f-07f031ef6b9f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -65,16 +56,7 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "ZARA",
-      "artist": "Industria de Diseno Textil, S.A.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/zara/id547951480",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/58/65/355865ba-e2e0-455c-3545-01e87191c594/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
@@ -83,12 +65,30 @@
       "price": "무료"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "토스",
       "artist": "Viva Republica",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%86%A0%EC%8A%A4/id839333328",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/30/88/c3308808-6a41-e37f-5834-1a7085a96342/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "TravelBoast: 여행 지도",
+      "artist": "ALEXSANDR KUZNETSOV",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/travelboast-%EC%97%AC%ED%96%89-%EC%A7%80%EB%8F%84/id1476504378",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/e5/86/94e58601-10bc-60cb-527c-ea8211515efa/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "실손24",
+      "artist": "Korean Insurance Development Institute Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/8b/5a/bb8b5a6c-84e5-21a2-d6a5-07ca5568c3fb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
