@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-20T23:16:50.207Z",
+  "updatedAt": "2025-12-21T23:16:58.617Z",
   "items": [
     {
       "rank": 1,
@@ -39,15 +39,6 @@
     },
     {
       "rank": 5,
-      "title": "땡겨요",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/08/2653085c-4031-c045-bdf5-428818326c79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -56,21 +47,30 @@
       "price": "무료"
     },
     {
+      "rank": 6,
+      "title": "땡겨요",
+      "artist": "SHINHAN BANK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/08/2653085c-4031-c045-bdf5-428818326c79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 7,
       "title": "Grok AI",
       "artist": "xAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/grok-ai/id6670324846",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/ba/e3/35bae39c-ae7a-56c7-ff1a-5c8aa825c596/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/fe/85/ebfe853e-809c-fe21-c4f6-b8eb54730981/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "캐치테이블",
-      "artist": "WADcorp",
+      "title": "Dazz - 필름카메라 & 사진 편집",
+      "artist": "DAZZ PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/73/3c/ca733c4f-b190-28b7-413e-32274471c6eb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/dazz-%ED%95%84%EB%A6%84%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%82%AC%EC%A7%84-%ED%8E%B8%EC%A7%91/id1422471180",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/ec/c8/a7ecc822-01de-2907-0178-58dc61821b9f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
+      "title": "캐치테이블",
+      "artist": "WADcorp",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/85/41/1685416e-4182-d08a-e3c7-69d04a06cd08/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/73/3c/ca733c4f-b190-28b7-413e-32274471c6eb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
