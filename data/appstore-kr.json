@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2025-12-25T23:17:47.486Z",
+  "updatedAt": "2025-12-26T23:17:36.203Z",
   "items": [
     {
       "rank": 1,
-      "title": "Grok AI",
-      "artist": "xAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/grok-ai/id6670324846",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ab/cf/8cabcf1f-465d-c251-95f7-285248cf053f/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -20,16 +11,7 @@
       "price": "무료"
     },
     {
-      "rank": 3,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -38,16 +20,25 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "캐치테이블",
-      "artist": "WADcorp",
+      "rank": 3,
+      "title": "Grok AI",
+      "artist": "xAI",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/73/3c/ca733c4f-b190-28b7-413e-32274471c6eb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/grok-ai/id6670324846",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/3e/96/f13e9681-cf7b-671d-18f9-318c859dbd57/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "디지털온누리",
       "artist": "한국조폐공사",
       "category": "",
@@ -56,16 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/82/d9/3982d95c-b526-da87-584a-f5242b18959c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -74,21 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "투썸하트",
-      "artist": "A TWOSOME PLACE CO., LTD",
+      "rank": 7,
+      "title": "캐치테이블",
+      "artist": "WADcorp",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%88%AC%EC%8D%B8%ED%95%98%ED%8A%B8/id1225957208",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/02/6d/20026d82-de93-32c1-3e6d-2ebab13484e6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/73/3c/ca733c4f-b190-28b7-413e-32274471c6eb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "한국장학재단",
+      "artist": "Korea Student Aid Foundation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B5%AD%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8/id1400580506",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/1b/a7/7f1ba7bf-46ef-0765-037d-7b791c634ce1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "에브리타임",
+      "artist": "Vinu Labs Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%97%90%EB%B8%8C%EB%A6%AC%ED%83%80%EC%9E%84/id642416310",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/c7/6b/0cc76b4c-598f-ce08-53f4-69ce77e0d4cc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "SBS play",
-      "artist": "SBS I&M Co., Ltd.",
+      "title": "ChatGPT",
+      "artist": "OpenAI",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/sbs-play/id1020136055",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/6e/32/b46e32cc-14c8-4301-74b6-b35ba90537d7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/82/d9/3982d95c-b526-da87-584a-f5242b18959c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
