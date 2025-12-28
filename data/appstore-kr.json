@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-27T23:17:33.578Z",
+  "updatedAt": "2025-12-28T23:17:31.784Z",
   "items": [
     {
       "rank": 1,
@@ -57,15 +57,6 @@
     },
     {
       "rank": 7,
-      "title": "캐치테이블",
-      "artist": "WADcorp",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/73/3c/ca733c4f-b190-28b7-413e-32274471c6eb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "땡겨요",
       "artist": "SHINHAN BANK",
       "category": "",
@@ -74,7 +65,7 @@
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
@@ -83,12 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "DramaBox - 영화와 숏폼 드라마",
-      "artist": "STORYMATRIX PTE. LTD.",
+      "rank": 9,
+      "title": "메리츠SMART (계좌개설 겸용)",
+      "artist": "Meritz",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/38/f8/1e38f8d6-6a2d-c676-9955-579947767fa3/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%A9%94%EB%A6%AC%EC%B8%A0smart-%EA%B3%84%EC%A2%8C%EA%B0%9C%EC%84%A4-%EA%B2%B8%EC%9A%A9/id1104272974",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/b0/dc/80b0dc52-fec2-e4f4-27b1-bb05c74b9c70/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/08/ab/7e08ab92-dfaa-a242-2a2f-26b58eae1279/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
