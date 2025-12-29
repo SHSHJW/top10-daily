@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-28T23:17:31.784Z",
+  "updatedAt": "2025-12-29T23:17:43.365Z",
   "items": [
     {
       "rank": 1,
@@ -21,60 +21,24 @@
     },
     {
       "rank": 3,
-      "title": "Grok AI",
-      "artist": "xAI",
+      "title": "페이코 PAYCO - 혜택까지 똑똑한 간편결제",
+      "artist": "NHN Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/grok-ai/id6670324846",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/3e/96/f13e9681-cf7b-671d-18f9-318c859dbd57/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%8E%98%EC%9D%B4%EC%BD%94-payco-%ED%98%9C%ED%83%9D%EA%B9%8C%EC%A7%80-%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%84%ED%8E%B8%EA%B2%B0%EC%A0%9C/id924292102",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/d3/08/40d30896-93e7-442e-4171-92a07e7c9e7f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
+      "title": "네이버 MYBOX - NAVER MYBOX",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-mybox-naver-mybox/id585173084",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/99/98/4d9998bc-df41-b2e3-d2f4-b422c03f4449/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "디지털온누리",
-      "artist": "한국조폐공사",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/5d/26/325d26bf-c198-01fb-bc60-d3f34f8b157c/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/ef/48/36ef4886-908a-e8ac-264d-4a52d2d1f724/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "땡겨요",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/bc/54/2fbc542d-9b7f-7313-a2fd-22e4954cdd94/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/82/d9/3982d95c-b526-da87-584a-f5242b18959c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "메리츠SMART (계좌개설 겸용)",
       "artist": "Meritz",
       "category": "",
@@ -83,12 +47,48 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
+      "rank": 6,
+      "title": "디지털온누리",
+      "artist": "한국조폐공사",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/08/ab/7e08ab92-dfaa-a242-2a2f-26b58eae1279/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/5d/26/325d26bf-c198-01fb-bc60-d3f34f8b157c/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "Grok AI",
+      "artist": "xAI",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/grok-ai/id6670324846",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/3e/96/f13e9681-cf7b-671d-18f9-318c859dbd57/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "실손24",
+      "artist": "Korean Insurance Development Institute Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/8b/5a/bb8b5a6c-84e5-21a2-d6a5-07ca5568c3fb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/ef/48/36ef4886-908a-e8ac-264d-4a52d2d1f724/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
