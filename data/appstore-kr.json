@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2025-12-30T23:17:08.458Z",
+  "updatedAt": "2025-12-31T23:17:44.301Z",
   "items": [
     {
       "rank": 1,
+      "title": "Kling AI: AI Image&Video Maker",
+      "artist": "LOHAS GAMES PTE.LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/kling-ai-ai-image-video-maker/id6738049229",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/b6/d0/0bb6d0cc-955b-0aac-f37f-551011e1c26d/AppIconKlingabroad-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -11,7 +20,16 @@
       "price": "무료"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "세계문학 일력",
+      "artist": "Minumsa Publishing Group",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EA%B3%84%EB%AC%B8%ED%95%99-%EC%9D%BC%EB%A0%A5/id6752370745",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/cf/19/dbcf19a8-3db4-1c0a-85d8-beb6f7126afe/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "메리츠SMART (계좌개설 겸용)",
       "artist": "Meritz",
       "category": "",
@@ -20,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -29,7 +47,16 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "미래에셋증권 M-STOCK",
+      "artist": "Mirae Asset Securities Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-m-stock/id1248716281",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/55/5c/34555cb8-3c36-6904-4647-dcb22dcfd167/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "디지털온누리",
       "artist": "한국조폐공사",
       "category": "",
@@ -38,25 +65,7 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "실손24",
-      "artist": "Korean Insurance Development Institute Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/8b/5a/bb8b5a6c-84e5-21a2-d6a5-07ca5568c3fb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/ef/48/36ef4886-908a-e8ac-264d-4a52d2d1f724/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -65,30 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "Grok AI",
-      "artist": "xAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/grok-ai/id6670324846",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/3e/96/f13e9681-cf7b-671d-18f9-318c859dbd57/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 9,
-      "title": "미래에셋증권 M-STOCK",
-      "artist": "Mirae Asset Securities Co., Ltd.",
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-m-stock/id1248716281",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/a5/e6/f1a5e606-260a-f400-20ef-89101298da7e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/f0/bc/99f0bce0-96bc-31b5-de3e-007aafac550d/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "TravelBoast: 여행 지도",
-      "artist": "ALEXSANDR KUZNETSOV",
+      "title": "CapCut: 사진 및 동영상 에디터",
+      "artist": "Bytedance Pte. Ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/travelboast-%EC%97%AC%ED%96%89-%EC%A7%80%EB%8F%84/id1476504378",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/fc/05/64fc05b6-4995-2a27-c610-5dd1a4661a28/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/capcut-%EC%82%AC%EC%A7%84-%EB%B0%8F-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%90%EB%94%94%ED%84%B0/id1500855883",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/4f/f9/cc4ff961-6ce5-6225-1c21-fda4d53108d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
