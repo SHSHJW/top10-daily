@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-31T23:17:44.301Z",
+  "updatedAt": "2026-01-01T23:18:33.255Z",
   "items": [
     {
       "rank": 1,
@@ -30,11 +30,11 @@
     },
     {
       "rank": 4,
-      "title": "메리츠SMART (계좌개설 겸용)",
-      "artist": "Meritz",
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A9%94%EB%A6%AC%EC%B8%A0smart-%EA%B3%84%EC%A2%8C%EA%B0%9C%EC%84%A4-%EA%B2%B8%EC%9A%A9/id1104272974",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/b0/dc/80b0dc52-fec2-e4f4-27b1-bb05c74b9c70/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,15 +48,6 @@
     },
     {
       "rank": 6,
-      "title": "미래에셋증권 M-STOCK",
-      "artist": "Mirae Asset Securities Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-m-stock/id1248716281",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/55/5c/34555cb8-3c36-6904-4647-dcb22dcfd167/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "디지털온누리",
       "artist": "한국조폐공사",
       "category": "",
@@ -65,30 +56,39 @@
       "price": "무료"
     },
     {
+      "rank": 7,
+      "title": "Hailuo AI: AI Video Generator",
+      "artist": "NANONOBLE PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/hailuo-ai-ai-video-generator/id6741675037",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/2e/68/b02e68c8-cbf4-2920-9ed2-4d54bbf672d8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 8,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "대한민국 모바일 신분증",
-      "artist": "행정안전부",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/f0/bc/99f0bce0-96bc-31b5-de3e-007aafac550d/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "CapCut: 사진 및 동영상 에디터",
       "artist": "Bytedance Pte. Ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/capcut-%EC%82%AC%EC%A7%84-%EB%B0%8F-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%90%EB%94%94%ED%84%B0/id1500855883",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/4f/f9/cc4ff961-6ce5-6225-1c21-fda4d53108d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "ChatGPT",
+      "artist": "OpenAI",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/82/d9/3982d95c-b526-da87-584a-f5242b18959c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "메리츠SMART (계좌개설 겸용)",
+      "artist": "Meritz",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%A9%94%EB%A6%AC%EC%B8%A0smart-%EA%B3%84%EC%A2%8C%EA%B0%9C%EC%84%A4-%EA%B2%B8%EC%9A%A9/id1104272974",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/b0/dc/80b0dc52-fec2-e4f4-27b1-bb05c74b9c70/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
