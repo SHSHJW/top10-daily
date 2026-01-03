@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-02T23:17:45.842Z",
+  "updatedAt": "2026-01-03T23:17:27.833Z",
   "items": [
     {
       "rank": 1,
@@ -30,15 +30,6 @@
     },
     {
       "rank": 4,
-      "title": "여민전",
-      "artist": "KONA I CO., LTD",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%97%AC%EB%AF%BC%EC%A0%84/id6754589057",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/2d/9f/462d9f84-cba8-ce35-b2fe-fc103d64ec5d/Yeominpay-AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -47,21 +38,30 @@
       "price": "무료"
     },
     {
+      "rank": 5,
+      "title": "모바일티머니",
+      "artist": "Tmoney Co., Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/b5/f9/c2b5f940-a840-661e-e9fa-fa956ddcd5d0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 6,
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/08/ab/7e08ab92-dfaa-a242-2a2f-26b58eae1279/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "Hailuo AI: AI Video Generator",
       "artist": "NANONOBLE PTE. LTD.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/hailuo-ai-ai-video-generator/id6741675037",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/2e/68/b02e68c8-cbf4-2920-9ed2-4d54bbf672d8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "세계문학 일력",
-      "artist": "Minumsa Publishing Group",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EA%B3%84%EB%AC%B8%ED%95%99-%EC%9D%BC%EB%A0%A5/id6752370745",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/35/16/f03516e7-3300-28a0-10b0-90a067a107dc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,20 +75,20 @@
     },
     {
       "rank": 9,
-      "title": "대한민국 모바일 신분증",
-      "artist": "행정안전부",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/f0/bc/99f0bce0-96bc-31b5-de3e-007aafac550d/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/82/d9/3982d95c-b526-da87-584a-f5242b18959c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "캐치테이블",
+      "artist": "WADcorp",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/73/3c/ca733c4f-b190-28b7-413e-32274471c6eb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
