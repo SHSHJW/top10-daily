@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-03T23:17:27.833Z",
+  "updatedAt": "2026-01-04T23:17:48.575Z",
   "items": [
     {
       "rank": 1,
@@ -48,6 +48,15 @@
     },
     {
       "rank": 6,
+      "title": "빽다방",
+      "artist": "더본코리아",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%B9%BD%EB%8B%A4%EB%B0%A9/id1423434541",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/80/53/f280530c-1b7e-91ff-dbdc-ac0cabfba6b1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
@@ -56,25 +65,7 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "Hailuo AI: AI Video Generator",
-      "artist": "NANONOBLE PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/hailuo-ai-ai-video-generator/id6741675037",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/2e/68/b02e68c8-cbf4-2920-9ed2-4d54bbf672d8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 8,
-      "title": "디지털온누리",
-      "artist": "한국조폐공사",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/5d/26/325d26bf-c198-01fb-bc60-d3f34f8b157c/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
@@ -83,12 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "캐치테이블",
-      "artist": "WADcorp",
+      "rank": 9,
+      "title": "Vigloo - 숏폼드라마",
+      "artist": "Spoonlabs, Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/73/3c/ca733c4f-b190-28b7-413e-32274471c6eb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/18/54/3f185436-8f9a-c579-179c-3fc97bdc057c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "K-패스",
+      "artist": "교통안전공단",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/k-%ED%8C%A8%EC%8A%A4/id1538531939",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1f/13/221f137a-2c68-e7d7-41cf-d0425830a9ce/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
