@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-01-04T23:17:48.575Z",
+  "updatedAt": "2026-01-05T23:18:22.299Z",
   "items": [
     {
       "rank": 1,
-      "title": "Kling AI: AI Image&Video Maker",
-      "artist": "LOHAS GAMES PTE.LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/kling-ai-ai-image-video-maker/id6738049229",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/b6/d0/0bb6d0cc-955b-0aac-f37f-551011e1c26d/AppIconKlingabroad-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/98/48/dc9848f3-af7a-a934-d2cb-36b3725dcfe2/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
+      "title": "Kling AI: AI Image&Video Maker",
+      "artist": "LOHAS GAMES PTE.LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/kling-ai-ai-image-video-maker/id6738049229",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/55/c7/a055c746-dbcc-1417-8c53-91676a4ef80e/AppIconKlingabroad-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,11 +30,11 @@
     },
     {
       "rank": 4,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
+      "title": "빽다방",
+      "artist": "더본코리아",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%B9%BD%EB%8B%A4%EB%B0%A9/id1423434541",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/80/53/f280530c-1b7e-91ff-dbdc-ac0cabfba6b1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,20 +48,20 @@
     },
     {
       "rank": 6,
-      "title": "빽다방",
-      "artist": "더본코리아",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%B9%BD%EB%8B%A4%EB%B0%A9/id1423434541",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/80/53/f280530c-1b7e-91ff-dbdc-ac0cabfba6b1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/08/ab/7e08ab92-dfaa-a242-2a2f-26b58eae1279/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/08/b3/8508b373-ddbc-3560-a1e6-1048ab5bd2a6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,11 +75,11 @@
     },
     {
       "rank": 9,
-      "title": "Vigloo - 숏폼드라마",
-      "artist": "Spoonlabs, Inc.",
+      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "artist": "Trip.com Travel Singapore Pte. Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/18/54/3f185436-8f9a-c579-179c-3fc97bdc057c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/a1/78/82a17851-4e26-9982-b2af-ac5ef09e79a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
