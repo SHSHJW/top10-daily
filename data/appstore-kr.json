@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-07T23:18:43.874Z",
+  "updatedAt": "2026-01-08T23:17:01.111Z",
   "items": [
     {
       "rank": 1,
@@ -16,7 +16,7 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/98/48/dc9848f3-af7a-a934-d2cb-36b3725dcfe2/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/99/75/f9997565-6f29-8e46-7937-bae299689969/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,24 +39,15 @@
     },
     {
       "rank": 5,
-      "title": "빽다방",
-      "artist": "더본코리아",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%B9%BD%EB%8B%A4%EB%B0%A9/id1423434541",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/80/53/f280530c-1b7e-91ff-dbdc-ac0cabfba6b1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "ChatGPT",
       "artist": "OpenAI",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/98/65/049865c9-2a3d-50be-7e91-3d5da454a41b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/eb/01/f9eb01a0-2d1c-21bb-d0b6-fa75436f33eb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
@@ -65,12 +56,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "BeautyCam-뷰티&필름 카메라",
       "artist": "Xiamen Meitu Technology Co., Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/beautycam-%EB%B7%B0%ED%8B%B0-%ED%95%84%EB%A6%84-%EC%B9%B4%EB%A9%94%EB%9D%BC/id592331499",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/bc/15/8abc152a-026d-db5d-48da-1d47dd59f721/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "빽다방",
+      "artist": "더본코리아",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%B9%BD%EB%8B%A4%EB%B0%A9/id1423434541",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/80/53/f280530c-1b7e-91ff-dbdc-ac0cabfba6b1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
