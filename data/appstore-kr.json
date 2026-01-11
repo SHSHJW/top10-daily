@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-10T23:17:21.872Z",
+  "updatedAt": "2026-01-11T23:17:49.144Z",
   "items": [
     {
       "rank": 1,
@@ -21,15 +21,24 @@
     },
     {
       "rank": 3,
-      "title": "치지직",
-      "artist": "NAVER Corp.",
+      "title": "OMG - 중고등학생 전용 SNS",
+      "artist": "Dyve Studios Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/52/d2/0b52d21b-4d9d-2c77-88ff-99c2670f3ca4/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/omg-%EC%A4%91%EA%B3%A0%EB%93%B1%ED%95%99%EC%83%9D-%EC%A0%84%EC%9A%A9-sns/id6459363834",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e2/e5/f6e2e597-d5ee-68aa-3894-00171c51b7a3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
+      "title": "전국 시외버스 승차권 통합 예매(버스타고)",
+      "artist": "EZL Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%84%EA%B5%AD-%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4-%EC%8A%B9%EC%B0%A8%EA%B6%8C-%ED%86%B5%ED%95%A9-%EC%98%88%EB%A7%A4-%EB%B2%84%EC%8A%A4%ED%83%80%EA%B3%A0/id966782397",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/c3/55/4dc355c0-335b-fd08-5b75-15bf18ecf1cd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -38,16 +47,34 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "제주 탐나는전",
-      "artist": "비즈플레이(주)",
+      "rank": 6,
+      "title": "스튜디오메이트 회원용",
+      "artist": "스튜디오메이트",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%A0%9C%EC%A3%BC-%ED%83%90%EB%82%98%EB%8A%94%EC%A0%84/id6756000197",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/3c/c2/e03cc2a9-feb8-85b3-6ace-c6ebba132970/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EB%A9%94%EC%9D%B4%ED%8A%B8-%ED%9A%8C%EC%9B%90%EC%9A%A9/id1400126585",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/9b/4f/d19b4feb-9282-a548-6e11-987b20efc114/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "러쉬",
+      "artist": "LUSHKOREA.CO.LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EC%89%AC/id6450295213",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/fb/a4/d2fba4a2-f63b-77ce-2a18-ead9e3d24477/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "형사사법포털",
+      "artist": "법무부",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%98%95%EC%82%AC%EC%82%AC%EB%B2%95%ED%8F%AC%ED%84%B8/id6526476553",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/f5/97/5af59756-8cf1-1533-1e89-f3d4709be291/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "Kling AI: AI Image&Video Maker",
       "artist": "LOHAS GAMES PTE.LTD.",
       "category": "",
@@ -56,39 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "PP EMU - 게임 에뮬레이터",
-      "artist": "Emulator",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/pp-emu-%EA%B2%8C%EC%9E%84-%EC%97%90%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0/id6753177858",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/0c/b2/0f0cb2a1-ba01-3795-2e30-e2c725429940/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "U+스팸차단",
-      "artist": "LG Uplus",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/u-%EC%8A%A4%ED%8C%B8%EC%B0%A8%EB%8B%A8/id994846408",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4a/70/0c/4a700c4b-9c20-c043-8991-f2afc578932d/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 10,
-      "title": "국세청 홈택스 [손택스]",
-      "artist": "국세청",
+      "title": "엔카 - 중고차 필수 플랫폼, 내차팔기, 내차시세",
+      "artist": "ENCARSALES.COM",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B5%AD%EC%84%B8%EC%B2%AD-%ED%99%88%ED%83%9D%EC%8A%A4-%EC%86%90%ED%83%9D%EC%8A%A4/id495157796",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/8c/4a/e08c4a33-15b3-d033-541c-50495bcdb732/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%97%94%EC%B9%B4-%EC%A4%91%EA%B3%A0%EC%B0%A8-%ED%95%84%EC%88%98-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%82%B4%EC%B0%A8%ED%8C%94%EA%B8%B0-%EB%82%B4%EC%B0%A8%EC%8B%9C%EC%84%B8/id404512755",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/97/6c/f9976cc0-8938-1dbd-caf5-707ec8b78822/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
