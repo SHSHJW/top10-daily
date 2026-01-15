@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-14T23:16:41.819Z",
+  "updatedAt": "2026-01-15T23:19:06.564Z",
   "items": [
     {
       "rank": 1,
@@ -12,6 +12,15 @@
     },
     {
       "rank": 2,
+      "title": "디지털온누리",
+      "artist": "한국조폐공사",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/5d/26/325d26bf-c198-01fb-bc60-d3f34f8b157c/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -20,75 +29,66 @@
       "price": "무료"
     },
     {
-      "rank": 3,
-      "title": "T 우주",
-      "artist": "SK Telecom",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/t-%EC%9A%B0%EC%A3%BC/id6480496299",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/37/b1/0f37b190-0d4e-ab56-8c61-82965b7aa169/AppIcon-0-0-1x_U007ephone-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 4,
-      "title": "Repost+ 인스타그램용",
-      "artist": "Livintis W.L.L.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/repost-%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%EC%9A%A9/id1477820240",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/92/ee/5192ee99-87cd-1901-8319-230596f3a3ee/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/82/3a/48823a9e-54b9-5737-5543-859e14252972/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/16/63/f11663a8-f8f3-d62b-f3d5-e579cd0b3957/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "ChatGPT",
-      "artist": "OpenAI",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/eb/01/f9eb01a0-2d1c-21bb-d0b6-fa75436f33eb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/02/b4/6b02b4c7-0d61-e28e-c6e4-44a60cd795b6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/a5/c1/4aa5c1eb-400d-5ebf-c4b2-f2b027f10eec/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "대한민국 모바일 신분증",
-      "artist": "행정안전부",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/f0/bc/99f0bce0-96bc-31b5-de3e-007aafac550d/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
+      "rank": 5,
       "title": "국세청 홈택스 [손택스]",
       "artist": "국세청",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EA%B5%AD%EC%84%B8%EC%B2%AD-%ED%99%88%ED%83%9D%EC%8A%A4-%EC%86%90%ED%83%9D%EC%8A%A4/id495157796",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/8c/4a/e08c4a33-15b3-d033-541c-50495bcdb732/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "스포애니",
+      "artist": "KDhealthcare Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%8A%A4%ED%8F%AC%EC%95%A0%EB%8B%88/id6749523533",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/37/a5/f337a541-f313-1a98-7a29-d1503eb71626/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "연말정산(2025년) - 월급날",
+      "artist": "JUNG HOON KIM",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%97%B0%EB%A7%90%EC%A0%95%EC%82%B0-2025%EB%85%84-%EC%9B%94%EA%B8%89%EB%82%A0/id1600197223",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/8c/36/7b8c36f5-e6ab-fbcb-4e84-214da158a896/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/64/58/866458f0-55d0-b62d-753d-a2b094293f20/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "컴포즈커피",
+      "artist": "Da Vinci Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%BB%B4%ED%8F%AC%EC%A6%88%EC%BB%A4%ED%94%BC/id6742086811",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/b4/3e/1eb43e92-fb4a-ecde-1585-a412e46d463c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "T 우주",
+      "artist": "SK Telecom",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/t-%EC%9A%B0%EC%A3%BC/id6480496299",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/37/b1/0f37b190-0d4e-ab56-8c61-82965b7aa169/AppIcon-0-0-1x_U007ephone-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
