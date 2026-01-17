@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T23:18:22.846Z",
+  "updatedAt": "2026-01-17T23:17:16.702Z",
   "items": [
     {
       "rank": 1,
@@ -21,20 +21,20 @@
     },
     {
       "rank": 3,
+      "title": "데일리",
+      "artist": "TRILLIWON, Co.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%8D%B0%EC%9D%BC%EB%A6%AC/id6737768320",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/9a/98/199a989e-613c-5770-7818-d74d4a345307/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/7c/fb/d07cfb58-0b88-5a42-57e9-59f35cc34cce/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "데일리",
-      "artist": "TRILLIWON, Co.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8D%B0%EC%9D%BC%EB%A6%AC/id6737768320",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/7a/2b/2a7a2b79-1df3-30c2-6cc9-3801f3541e7a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,33 +48,6 @@
     },
     {
       "rank": 6,
-      "title": "치지직",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/41/8e/31418e42-c1ab-dedc-cd80-0e2abd70b65b/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "국세청 홈택스 [손택스]",
-      "artist": "국세청",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B5%AD%EC%84%B8%EC%B2%AD-%ED%99%88%ED%83%9D%EC%8A%A4-%EC%86%90%ED%83%9D%EC%8A%A4/id495157796",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/8c/4a/e08c4a33-15b3-d033-541c-50495bcdb732/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "KITZ",
-      "artist": "TakeOne Company",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/kitz/id6749225206",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/41/ff/6d41ff96-ae7e-98ab-4749-ec916ac0c778/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "땡겨요",
       "artist": "SHINHAN BANK",
       "category": "",
@@ -83,12 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "title": "스포애니",
+      "artist": "KDhealthcare Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%8A%A4%ED%8F%AC%EC%95%A0%EB%8B%88/id6749523533",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/37/a5/f337a541-f313-1a98-7a29-d1503eb71626/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "쿠팡이츠 - 와우회원 무료배달",
       "artist": "Coupang Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%8C%A1%EC%9D%B4%EC%B8%A0-%EC%99%80%EC%9A%B0%ED%9A%8C%EC%9B%90-%EB%AC%B4%EB%A3%8C%EB%B0%B0%EB%8B%AC/id1445504255",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/6b/ee/496bee71-e4b7-e32f-c53a-c7bdd0815610/AppIcon-0-0-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/64/58/866458f0-55d0-b62d-753d-a2b094293f20/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
