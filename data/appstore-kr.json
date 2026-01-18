@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T23:17:16.702Z",
+  "updatedAt": "2026-01-18T23:17:46.724Z",
   "items": [
     {
       "rank": 1,
@@ -21,20 +21,20 @@
     },
     {
       "rank": 3,
-      "title": "데일리",
-      "artist": "TRILLIWON, Co.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8D%B0%EC%9D%BC%EB%A6%AC/id6737768320",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/9a/98/199a989e-613c-5770-7818-d74d4a345307/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/7c/fb/d07cfb58-0b88-5a42-57e9-59f35cc34cce/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "데일리",
+      "artist": "Pacifiq",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%8D%B0%EC%9D%BC%EB%A6%AC/id6737768320",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/60/81/b66081e5-4018-6d9d-efc7-cfe7f68cca73/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,11 +57,11 @@
     },
     {
       "rank": 7,
-      "title": "스포애니",
-      "artist": "KDhealthcare Co., Ltd.",
+      "title": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
+      "artist": "FLEXTECH INC.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8A%A4%ED%8F%AC%EC%95%A0%EB%8B%88/id6749523533",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/37/a5/f337a541-f313-1a98-7a29-d1503eb71626/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/05/5c/93055cb5-0e3d-bdca-a042-4141200a9713/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,20 +75,20 @@
     },
     {
       "rank": 9,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
+      "title": "치지직",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/41/8e/31418e42-c1ab-dedc-cd80-0e2abd70b65b/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
+      "title": "Vigloo - 숏폼드라마",
+      "artist": "Spoonlabs, Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/64/58/866458f0-55d0-b62d-753d-a2b094293f20/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/99/7e/98997e1d-dbfe-eadb-2967-baefe6f329e1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
