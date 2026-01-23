@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T23:19:15.328Z",
+  "updatedAt": "2026-01-23T23:19:22.494Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "TikTok Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/c9/cb/66c9cbed-a606-6d4d-15e0-b24d8af73718/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/9e/55/259e55f6-5c6e-4649-e019-2e2563075093/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -16,7 +16,7 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/d4/f3/dcd4f395-94f6-5f4e-29c5-24000557406a/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/17/d7/2e17d73b-44d8-e72b-9e16-c952c865b2cd/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,20 +30,20 @@
     },
     {
       "rank": 4,
-      "title": "국세청 홈택스 [손택스]",
-      "artist": "국세청",
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B5%AD%EC%84%B8%EC%B2%AD-%ED%99%88%ED%83%9D%EC%8A%A4-%EC%86%90%ED%83%9D%EC%8A%A4/id495157796",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/8c/4a/e08c4a33-15b3-d033-541c-50495bcdb732/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/16/63/f11663a8-f8f3-d62b-f3d5-e579cd0b3957/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "Vigloo - 숏폼드라마",
-      "artist": "Spoonlabs, Inc.",
+      "title": "국세청 홈택스 [손택스]",
+      "artist": "국세청",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/99/7e/98997e1d-dbfe-eadb-2967-baefe6f329e1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EA%B5%AD%EC%84%B8%EC%B2%AD-%ED%99%88%ED%83%9D%EC%8A%A4-%EC%86%90%ED%83%9D%EC%8A%A4/id495157796",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/92/24/ad922468-7df1-7d8d-a991-9aa228ed1183/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,11 +57,11 @@
     },
     {
       "rank": 7,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "title": "Vigloo - 숏폼드라마",
+      "artist": "Spoonlabs, Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/16/63/f11663a8-f8f3-d62b-f3d5-e579cd0b3957/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/99/7e/98997e1d-dbfe-eadb-2967-baefe6f329e1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,20 +75,20 @@
     },
     {
       "rank": 9,
-      "title": "Bleach Bypass",
-      "artist": "EDIS ALI AKGUN",
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/bleach-bypass/id6751105098",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/81/36/f88136d7-647f-a024-9c1b-a6a0b6a87898/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/d4/f6/ddd4f604-b14a-487c-7fb3-c9bb367c1aab/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "포켓CU",
-      "artist": "BGFretail Co., Ltd.",
+      "title": "세븐일레븐",
+      "artist": "Korea Seven Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/a5/88/b3a5888d-fa26-9eab-1f78-88999ca2274d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90/id1253773772",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/92/2b/71922b5d-60e4-cb65-ca84-6c803c2a5f79/AppIcon_1-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
