@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-01-26T23:20:11.911Z",
+  "updatedAt": "2026-01-27T23:19:38.888Z",
   "items": [
     {
       "rank": 1,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/17/d7/2e17d73b-44d8-e72b-9e16-c952c865b2cd/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -20,16 +11,16 @@
       "price": "무료"
     },
     {
-      "rank": 3,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "rank": 2,
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/16/63/f11663a8-f8f3-d62b-f3d5-e579cd0b3957/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/17/d7/2e17d73b-44d8-e72b-9e16-c952c865b2cd/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "컬처패스",
       "artist": "Mybi Co., Ltd.",
       "category": "",
@@ -38,16 +29,16 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "패널파워 - 설문조사로 돈 버는 습관",
-      "artist": "M.E.",
+      "rank": 4,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%8C%A8%EB%84%90%ED%8C%8C%EC%9B%8C-%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EB%A1%9C-%EB%8F%88-%EB%B2%84%EB%8A%94-%EC%8A%B5%EA%B4%80/id1329447145",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/3e/be/653ebe03-8faa-2ee9-12c4-2c18645c6cbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/16/63/f11663a8-f8f3-d62b-f3d5-e579cd0b3957/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
@@ -56,39 +47,48 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "투썸하트",
-      "artist": "A TWOSOME PLACE CO., LTD",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%88%AC%EC%8D%B8%ED%95%98%ED%8A%B8/id1225957208",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/02/6d/20026d82-de93-32c1-3e6d-2ebab13484e6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "Vigloo - 숏폼드라마",
-      "artist": "Spoonlabs, Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/99/7e/98997e1d-dbfe-eadb-2967-baefe6f329e1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/ed/1a/b4ed1afe-2987-ba60-c37d-5cab455605cb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/3b/0a/5b3b0a2b-7f47-0b66-8494-a154cdef8e62/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "국세청 홈택스 [손택스]",
       "artist": "국세청",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EA%B5%AD%EC%84%B8%EC%B2%AD-%ED%99%88%ED%83%9D%EC%8A%A4-%EC%86%90%ED%83%9D%EC%8A%A4/id495157796",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/92/24/ad922468-7df1-7d8d-a991-9aa228ed1183/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "세븐일레븐",
+      "artist": "Korea Seven Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90/id1253773772",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/92/2b/71922b5d-60e4-cb65-ca84-6c803c2a5f79/AppIcon_1-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/e7/ed/8ae7ed43-9783-d590-0384-9c07ee19c146/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "디지털온누리",
+      "artist": "한국조폐공사",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/5d/26/325d26bf-c198-01fb-bc60-d3f34f8b157c/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
