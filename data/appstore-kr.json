@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T23:24:11.484Z",
+  "updatedAt": "2026-01-30T23:23:11.843Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "TikTok Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/9e/55/259e55f6-5c6e-4649-e019-2e2563075093/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/88/05/788805f8-0967-6c5f-90dd-6e90ae275bf5/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -21,6 +21,15 @@
     },
     {
       "rank": 3,
+      "title": "투썸하트",
+      "artist": "A TWOSOME PLACE CO., LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%88%AC%EC%8D%B8%ED%95%98%ED%8A%B8/id1225957208",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/02/6d/20026d82-de93-32c1-3e6d-2ebab13484e6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -29,21 +38,12 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "컬처패스",
       "artist": "Mybi Co., Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EC%BB%AC%EC%B2%98%ED%8C%A8%EC%8A%A4/id6748126066",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/d1/e9/74d1e9e8-eb80-b7bc-974a-3ba6f542e50a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "세븐일레븐",
-      "artist": "Korea Seven Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90/id1253773772",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/ef/31/38ef3100-c4ef-23f1-4ab1-991723a8cd8f/AppIcon_1-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,38 +57,38 @@
     },
     {
       "rank": 7,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
+      "title": "데일리",
+      "artist": "Pacifiq",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/3b/0a/5b3b0a2b-7f47-0b66-8494-a154cdef8e62/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%8D%B0%EC%9D%BC%EB%A6%AC/id6737768320",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/f1/97/6ef19731-1d21-d031-aebc-a4f27e6351bf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "미래에셋증권 M-STOCK",
-      "artist": "Mirae Asset Securities Co., Ltd.",
+      "title": "PDF Scanner Document Convert +",
+      "artist": "Premium Apps+",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-m-stock/id1248716281",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/ca/2a/7cca2af2-9daa-3991-903f-68e09cc041bb/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/pdf-scanner-document-convert/id6753771856",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/8c/e2/c78ce279-5f6e-6258-2855-187fcd3bf6bd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "국세청 홈택스 [손택스]",
-      "artist": "국세청",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B5%AD%EC%84%B8%EC%B2%AD-%ED%99%88%ED%83%9D%EC%8A%A4-%EC%86%90%ED%83%9D%EC%8A%A4/id495157796",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/92/24/ad922468-7df1-7d8d-a991-9aa228ed1183/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "대한민국 모바일 신분증",
       "artist": "행정안전부",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/d4/f6/ddd4f604-b14a-487c-7fb3-c9bb367c1aab/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/3b/0a/5b3b0a2b-7f47-0b66-8494-a154cdef8e62/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
