@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T23:22:20.800Z",
+  "updatedAt": "2026-02-02T23:26:37.845Z",
   "items": [
     {
       "rank": 1,
@@ -21,33 +21,15 @@
     },
     {
       "rank": 3,
-      "title": "LiveNote: 잠금화면에 기록하고, 잊지 않게",
-      "artist": "MIN JUN KOO",
+      "title": "컬처패스",
+      "artist": "Mybi Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/livenote-%EC%9E%A0%EA%B8%88%ED%99%94%EB%A9%B4%EC%97%90-%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B3%A0-%EC%9E%8A%EC%A7%80-%EC%95%8A%EA%B2%8C/id6756247075",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/b8/c8/91b8c89a-128a-9fe8-2bb9-25a7424c3e3b/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%BB%AC%EC%B2%98%ED%8C%A8%EC%8A%A4/id6748126066",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/3f/b8/703fb823-02e1-c3c4-5d6d-0f5d00f6ea7c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "DramaBox - 영화와 숏폼 드라마",
-      "artist": "STORYMATRIX PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0d/d7/5c0dd7bf-eb95-4b52-7778-78538a67f6ca/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "하나투어 – 특가 찬스부터 추천 일정까지",
-      "artist": "Hanatour Service Inc",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%ED%88%AC%EC%96%B4-%ED%8A%B9%EA%B0%80-%EC%B0%AC%EC%8A%A4%EB%B6%80%ED%84%B0-%EC%B6%94%EC%B2%9C-%EC%9D%BC%EC%A0%95%EA%B9%8C%EC%A7%80/id550971489",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/8d/ec/078dec9d-d053-123a-6066-552f2c38688e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "네이버페이",
       "artist": "Naver Financial Corporation",
       "category": "",
@@ -56,25 +38,16 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
+      "rank": 5,
+      "title": "DramaBox - 영화와 숏폼 드라마",
+      "artist": "STORYMATRIX PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/40/58/27405896-94b7-8a9b-604d-f91067769e9b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0d/d7/5c0dd7bf-eb95-4b52-7778-78538a67f6ca/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "투썸하트",
-      "artist": "A TWOSOME PLACE CO., LTD",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%88%AC%EC%8D%B8%ED%95%98%ED%8A%B8/id1225957208",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/02/6d/20026d82-de93-32c1-3e6d-2ebab13484e6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "Disney+",
       "artist": "Disney",
       "category": "",
@@ -83,12 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
+      "rank": 7,
+      "title": "LiveNote: 잠금화면에 기록하고, 잊지 않게",
+      "artist": "MIN JUN KOO",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/3b/0a/5b3b0a2b-7f47-0b66-8494-a154cdef8e62/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/livenote-%EC%9E%A0%EA%B8%88%ED%99%94%EB%A9%B4%EC%97%90-%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B3%A0-%EC%9E%8A%EC%A7%80-%EC%95%8A%EA%B2%8C/id6756247075",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/e2/da/02e2da4d-694b-6df7-63c0-c1062f481b98/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/40/58/27405896-94b7-8a9b-604d-f91067769e9b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "에브리타임",
+      "artist": "Vinu Labs Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%97%90%EB%B8%8C%EB%A6%AC%ED%83%80%EC%9E%84/id642416310",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/b7/29/7bb72962-2cfd-dc97-bf8e-a65b66ecd2cb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "투썸하트",
+      "artist": "A TWOSOME PLACE CO., LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%88%AC%EC%8D%B8%ED%95%98%ED%8A%B8/id1225957208",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/02/6d/20026d82-de93-32c1-3e6d-2ebab13484e6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
