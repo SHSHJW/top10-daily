@@ -1,26 +1,8 @@
 {
-  "updatedAt": "2026-02-02T23:26:37.845Z",
+  "updatedAt": "2026-02-03T23:26:31.063Z",
   "items": [
     {
       "rank": 1,
-      "title": "TikTok Lite",
-      "artist": "TikTok Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/88/05/788805f8-0967-6c5f-90dd-6e90ae275bf5/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/da/37/83da37a0-17a3-e11f-59b0-f5cbc37f1935/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "컬처패스",
       "artist": "Mybi Co., Ltd.",
       "category": "",
@@ -29,21 +11,39 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
+      "rank": 2,
+      "title": "TikTok Lite",
+      "artist": "TikTok Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/da/40/dada4029-e43b-e53e-130e-ba3b75fa9671/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/88/05/788805f8-0967-6c5f-90dd-6e90ae275bf5/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/da/37/83da37a0-17a3-e11f-59b0-f5cbc37f1935/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "제주항공",
+      "artist": "Jeju Air. co., Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%9C%EC%A3%BC%ED%95%AD%EA%B3%B5/id373053637",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/cc/6a/f9cc6a96-7acd-7b4f-3124-a97fa730d091/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "DramaBox - 영화와 숏폼 드라마",
-      "artist": "STORYMATRIX PTE. LTD.",
+      "title": "한국장학재단",
+      "artist": "Korea Student Aid Foundation",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0d/d7/5c0dd7bf-eb95-4b52-7778-78538a67f6ca/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B5%AD%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8/id1400580506",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/6f/9a/786f9a14-5f3f-c797-4bc5-309e09331110/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,38 +57,38 @@
     },
     {
       "rank": 7,
-      "title": "LiveNote: 잠금화면에 기록하고, 잊지 않게",
-      "artist": "MIN JUN KOO",
+      "title": "네이버페이",
+      "artist": "Naver Financial Corporation",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/livenote-%EC%9E%A0%EA%B8%88%ED%99%94%EB%A9%B4%EC%97%90-%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B3%A0-%EC%9E%8A%EC%A7%80-%EC%95%8A%EA%B2%8C/id6756247075",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/e2/da/02e2da4d-694b-6df7-63c0-c1062f481b98/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/da/40/dada4029-e43b-e53e-130e-ba3b75fa9671/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
+      "title": "라이엇 모바일",
+      "artist": "Riot Games",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/40/58/27405896-94b7-8a9b-604d-f91067769e9b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%9D%B4%EC%97%87-%EB%AA%A8%EB%B0%94%EC%9D%BC/id1077150310",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/54/bc/2c54bcd3-4f0a-ecb1-5592-fdfd5eb50a19/Prod_AppIcon-0-1x_U007ephone-0-1-0-sRGB-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "에브리타임",
-      "artist": "Vinu Labs Inc.",
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%97%90%EB%B8%8C%EB%A6%AC%ED%83%80%EC%9E%84/id642416310",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/b7/29/7bb72962-2cfd-dc97-bf8e-a65b66ecd2cb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/e7/6d/15e76db6-1414-40f4-57d7-d40e801c76d0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "투썸하트",
-      "artist": "A TWOSOME PLACE CO., LTD",
+      "title": "DramaBox - 영화와 숏폼 드라마",
+      "artist": "STORYMATRIX PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%88%AC%EC%8D%B8%ED%95%98%ED%8A%B8/id1225957208",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/02/6d/20026d82-de93-32c1-3e6d-2ebab13484e6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0d/d7/5c0dd7bf-eb95-4b52-7778-78538a67f6ca/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
