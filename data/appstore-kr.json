@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T23:25:30.068Z",
+  "updatedAt": "2026-02-05T23:21:29.126Z",
   "items": [
     {
       "rank": 1,
@@ -30,11 +30,11 @@
     },
     {
       "rank": 4,
-      "title": "제주항공",
-      "artist": "Jeju Air. co., Ltd",
+      "title": "Disney+",
+      "artist": "Disney",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%A0%9C%EC%A3%BC%ED%95%AD%EA%B3%B5/id373053637",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/cc/6a/f9cc6a96-7acd-7b4f-3124-a97fa730d091/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/disney/id1446075923",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/df/cb/b0dfcbb8-7937-7934-a7af-a1a6baa4921b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,15 +48,6 @@
     },
     {
       "rank": 6,
-      "title": "Disney+",
-      "artist": "Disney",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/disney/id1446075923",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/df/cb/b0dfcbb8-7937-7934-a7af-a1a6baa4921b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "디지털온누리",
       "artist": "한국조폐공사",
       "category": "",
@@ -65,12 +56,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "한국장학재단",
-      "artist": "Korea Student Aid Foundation",
+      "rank": 7,
+      "title": "제주항공",
+      "artist": "Jeju Air. co., Ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B5%AD%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8/id1400580506",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/6f/9a/786f9a14-5f3f-c797-4bc5-309e09331110/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%9C%EC%A3%BC%ED%95%AD%EA%B3%B5/id373053637",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/ca/05/22ca0508-32c5-b1cd-57a3-9762a09d9122/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "서울Pay+ (서울페이,서울페이플러스,서울사랑상품권)",
+      "artist": "비즈플레이(주)",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8pay-%EC%84%9C%EC%9A%B8%ED%8E%98%EC%9D%B4-%EC%84%9C%EC%9A%B8%ED%8E%98%EC%9D%B4%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%84%9C%EC%9A%B8%EC%82%AC%EB%9E%91%EC%83%81%ED%92%88%EA%B6%8C/id6479675842",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/99/51/dd995185-583a-855f-60b8-d0d799eb6f84/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "라이엇 모바일",
-      "artist": "Riot Games",
+      "title": "모바일티머니",
+      "artist": "Tmoney Co., Ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%9D%B4%EC%97%87-%EB%AA%A8%EB%B0%94%EC%9D%BC/id1077150310",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/54/bc/2c54bcd3-4f0a-ecb1-5592-fdfd5eb50a19/Prod_AppIcon-0-1x_U007ephone-0-1-0-sRGB-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/3f/c2/853fc25e-1e5b-05f8-df8a-a22a758e24f7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
