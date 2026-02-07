@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-06T23:23:38.594Z",
+  "updatedAt": "2026-02-07T23:27:35.593Z",
   "items": [
     {
       "rank": 1,
@@ -12,6 +12,15 @@
     },
     {
       "rank": 2,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/c8/d9/7fc8d950-157f-2ba7-57cd-6ac806e1a798/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
@@ -20,30 +29,21 @@
       "price": "무료"
     },
     {
-      "rank": 3,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/da/37/83da37a0-17a3-e11f-59b0-f5cbc37f1935/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 4,
-      "title": "디지털온누리",
-      "artist": "한국조폐공사",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/5d/26/325d26bf-c198-01fb-bc60-d3f34f8b157c/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "복똑방 (동행복권 공식 앱)",
       "artist": "동행복권",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%B3%B5%EB%98%91%EB%B0%A9-%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C-%EA%B3%B5%EC%8B%9D-%EC%95%B1/id6752271563",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/2d/1f/6e2d1f12-c988-4e4a-0257-db57f3d1b750/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/11/c2/e511c25c-e053-6aa3-e8d6-707ecd31781b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,38 +57,38 @@
     },
     {
       "rank": 7,
-      "title": "필라이즈 - 다이어트 AI 코치, 식단, 혈당, 운동",
-      "artist": "Pillyze Inc.",
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8-ai-%EC%BD%94%EC%B9%98-%EC%8B%9D%EB%8B%A8-%ED%98%88%EB%8B%B9-%EC%9A%B4%EB%8F%99/id1595472563",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/6d/44/926d440a-b1c3-1003-fd99-695899a58d60/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/e7/6d/15e76db6-1414-40f4-57d7-d40e801c76d0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
+      "title": "디지털온누리",
+      "artist": "한국조폐공사",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/11/c2/e511c25c-e053-6aa3-e8d6-707ecd31781b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/5d/26/325d26bf-c198-01fb-bc60-d3f34f8b157c/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/da/40/dada4029-e43b-e53e-130e-ba3b75fa9671/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/c0/5a/2ac05abf-9719-cd4e-1089-7a4dd9a96298/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "모바일티머니",
-      "artist": "Tmoney Co., Ltd",
+      "title": "Trace: 할일·일정·루틴·투두 - AI 캘린더",
+      "artist": "Corca, Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/3f/c2/853fc25e-1e5b-05f8-df8a-a22a758e24f7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/trace-%ED%95%A0%EC%9D%BC-%EC%9D%BC%EC%A0%95-%EB%A3%A8%ED%8B%B4-%ED%88%AC%EB%91%90-ai-%EC%BA%98%EB%A6%B0%EB%8D%94/id6503812022",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/e5/40/49e54095-53c1-5343-d434-315c7065ba30/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
