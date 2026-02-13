@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T23:27:10.553Z",
+  "updatedAt": "2026-02-13T23:28:39.473Z",
   "items": [
     {
       "rank": 1,
@@ -12,11 +12,11 @@
     },
     {
       "rank": 2,
-      "title": "컬처패스",
-      "artist": "Mybi Co., Ltd.",
+      "title": "Disney+",
+      "artist": "Disney",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BB%AC%EC%B2%98%ED%8C%A8%EC%8A%A4/id6748126066",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/3f/b8/703fb823-02e1-c3c4-5d6d-0f5d00f6ea7c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/disney/id1446075923",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/88/f9/cd88f9d8-32f9-8bda-079f-00daf0346e40/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -34,34 +34,34 @@
       "artist": "TikTok Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/72/0f/69720f3d-e3d5-4b51-f796-12c5f4b73be3/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/bf/3a/e8bf3aca-4426-84eb-f35c-3a6d6a44eda9/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "Disney+",
-      "artist": "Disney",
+      "title": "컬처패스",
+      "artist": "Mybi Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/disney/id1446075923",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/d1/40/7bd140c7-5b0b-dcbf-341e-e4bef4bc11c0/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%BB%AC%EC%B2%98%ED%8C%A8%EC%8A%A4/id6748126066",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/3f/b8/703fb823-02e1-c3c4-5d6d-0f5d00f6ea7c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
-      "title": "토스",
-      "artist": "Viva Republica",
+      "title": "멜론 티켓(Melon Ticket)",
+      "artist": "Kakao M Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%86%A0%EC%8A%A4/id839333328",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/07/7d/9f077dd8-3360-3569-0f6c-361c537a20f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%A9%9C%EB%A1%A0-%ED%8B%B0%EC%BC%93-melon-ticket/id1103635576",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/99/df/7e99df40-838d-e558-eacf-92edaada3e6e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/44/8d/b5448d43-066b-2a46-138f-7061c8c7e4b0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/56/59/3d565968-969b-a50e-cf4a-1910017c26a3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,11 +75,11 @@
     },
     {
       "rank": 9,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/56/59/3d565968-969b-a50e-cf4a-1910017c26a3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/44/8d/b5448d43-066b-2a46-138f-7061c8c7e4b0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
