@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T23:24:18.212Z",
+  "updatedAt": "2026-02-16T23:26:59.972Z",
   "items": [
     {
       "rank": 1,
@@ -12,24 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "Disney+",
-      "artist": "Disney",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/disney/id1446075923",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/88/f9/cd88f9d8-32f9-8bda-079f-00daf0346e40/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
-      "title": "치지직",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/a1/73/00a17378-d518-34c5-fba7-2a5ef4f8819a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -38,25 +20,16 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "此间-创意解压鱼缸·可爱天气·艺术日历·倒数日小组件摸鱼",
-      "artist": "开若图科技(上海)有限公司",
+      "rank": 3,
+      "title": "Disney+",
+      "artist": "Disney",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%E6%AD%A4%E9%97%B4-%E5%88%9B%E6%84%8F%E8%A7%A3%E5%8E%8B%E9%B1%BC%E7%BC%B8-%E5%8F%AF%E7%88%B1%E5%A4%A9%E6%B0%94-%E8%89%BA%E6%9C%AF%E6%97%A5%E5%8E%86-%E5%80%92%E6%95%B0%E6%97%A5%E5%B0%8F%E7%BB%84%E4%BB%B6%E6%91%B8%E9%B1%BC/id6751411153",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/97/2d/f0972d4a-4788-699d-acfa-56c669b9a01d/HEREIN-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/disney/id1446075923",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/88/f9/cd88f9d8-32f9-8bda-079f-00daf0346e40/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "세븐일레븐",
-      "artist": "Korea Seven Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90/id1253773772",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/96/c4/6996c44a-60ab-d804-7a5d-41601231b1c7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
@@ -65,30 +38,57 @@
       "price": "무료"
     },
     {
+      "rank": 5,
+      "title": "아이젠하워 매트릭스: 투두, 메모 우선순위 관리",
+      "artist": "DO YEON PARK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EC%A0%A0%ED%95%98%EC%9B%8C-%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4-%ED%88%AC%EB%91%90-%EB%A9%94%EB%AA%A8-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%EA%B4%80%EB%A6%AC/id6473735916",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/ed/72/2bed72b9-3888-09b1-6435-208d94d9f02d/matrixicon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "치지직",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/a1/73/00a17378-d518-34c5-fba7-2a5ef4f8819a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "LiveNote: 잠금화면에 기록하고, 잊지 않게",
+      "artist": "MIN JUN KOO",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/livenote-%EC%9E%A0%EA%B8%88%ED%99%94%EB%A9%B4%EC%97%90-%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B3%A0-%EC%9E%8A%EC%A7%80-%EC%95%8A%EA%B2%8C/id6756247075",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/c5/35/afc5352d-9b28-cd05-d76c-2bbd7e839a28/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 8,
-      "title": "복똑방 (동행복권 공식 앱)",
-      "artist": "동행복권",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%B3%B5%EB%98%91%EB%B0%A9-%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C-%EA%B3%B5%EC%8B%9D-%EC%95%B1/id6752271563",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/2d/1f/6e2d1f12-c988-4e4a-0257-db57f3d1b750/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "photoism - 포토이즘",
-      "artist": "Seobuk",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/37/a9/1137a9cd-63fc-c8f5-3c17-1fa69d72e7c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "TikTok Lite",
       "artist": "TikTok Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/tiktok-lite/id6447160980",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/bf/3a/e8bf3aca-4426-84eb-f35c-3a6d6a44eda9/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "코어태스크: 아이젠하워 매트릭스, 우선순위 투두리스트",
+      "artist": "Seongkyun Lim",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%BD%94%EC%96%B4%ED%83%9C%EC%8A%A4%ED%81%AC-%EC%95%84%EC%9D%B4%EC%A0%A0%ED%95%98%EC%9B%8C-%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%88%AC%EB%91%90%EB%A6%AC%EC%8A%A4%ED%8A%B8/id6478839577",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/d4/61/4fd461a7-9240-7ed2-d8c9-d2a7ad9a32fc/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "복똑방 (동행복권 공식 앱)",
+      "artist": "동행복권",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%B3%B5%EB%98%91%EB%B0%A9-%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C-%EA%B3%B5%EC%8B%9D-%EC%95%B1/id6752271563",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/2d/1f/6e2d1f12-c988-4e4a-0257-db57f3d1b750/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
