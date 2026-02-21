@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T23:26:47.197Z",
+  "updatedAt": "2026-02-21T23:22:13.188Z",
   "items": [
     {
       "rank": 1,
@@ -12,20 +12,20 @@
     },
     {
       "rank": 2,
+      "title": "복똑방 (동행복권 공식 앱)",
+      "artist": "동행복권",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%B3%B5%EB%98%91%EB%B0%A9-%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C-%EA%B3%B5%EC%8B%9D-%EC%95%B1/id6752271563",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/2d/1f/6e2d1f12-c988-4e4a-0257-db57f3d1b750/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/44/8d/b5448d43-066b-2a46-138f-7061c8c7e4b0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,6 +39,24 @@
     },
     {
       "rank": 5,
+      "title": "치지직",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/a1/73/00a17378-d518-34c5-fba7-2a5ef4f8819a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/44/8d/b5448d43-066b-2a46-138f-7061c8c7e4b0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "Disney+",
       "artist": "Disney",
       "category": "",
@@ -47,34 +65,7 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "복똑방 (동행복권 공식 앱)",
-      "artist": "동행복권",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%B3%B5%EB%98%91%EB%B0%A9-%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C-%EA%B3%B5%EC%8B%9D-%EC%95%B1/id6752271563",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/2d/1f/6e2d1f12-c988-4e4a-0257-db57f3d1b750/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "대한민국 모바일 신분증",
-      "artist": "행정안전부",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/d4/f6/ddd4f604-b14a-487c-7fb3-c9bb367c1aab/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 8,
-      "title": "삼성증권 mPOP",
-      "artist": "SAMSUNG SECURITIES Co., LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%84%B1%EC%A6%9D%EA%B6%8C-mpop/id1150231646",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/43/dc/6243dc4a-f696-444c-d02d-f33f6b1c3ed2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
@@ -83,12 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "치지직",
-      "artist": "NAVER Corp.",
+      "rank": 9,
+      "title": "캐치테이블",
+      "artist": "WADcorp",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/a1/73/00a17378-d518-34c5-fba7-2a5ef4f8819a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/73/3c/ca733c4f-b190-28b7-413e-32274471c6eb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "세계문학 일력",
+      "artist": "Minumsa Publishing Group",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EA%B3%84%EB%AC%B8%ED%95%99-%EC%9D%BC%EB%A0%A5/id6752370745",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/86/92/5d8692dc-6c5f-0a6a-31bd-7760d17b3905/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
