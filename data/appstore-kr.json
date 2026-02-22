@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T23:22:13.188Z",
+  "updatedAt": "2026-02-22T23:23:32.987Z",
   "items": [
     {
       "rank": 1,
@@ -12,15 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "복똑방 (동행복권 공식 앱)",
-      "artist": "동행복권",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%B3%B5%EB%98%91%EB%B0%A9-%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C-%EA%B3%B5%EC%8B%9D-%EC%95%B1/id6752271563",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/2d/1f/6e2d1f12-c988-4e4a-0257-db57f3d1b750/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -29,7 +20,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
@@ -38,7 +29,7 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "치지직",
       "artist": "NAVER Corp.",
       "category": "",
@@ -47,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -56,16 +47,16 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "Disney+",
-      "artist": "Disney",
+      "rank": 6,
+      "title": "복똑방 (동행복권 공식 앱)",
+      "artist": "동행복권",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/disney/id1446075923",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/b6/a2/bcb6a29c-66f8-2bba-d437-5e395d88860f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%B3%B5%EB%98%91%EB%B0%A9-%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C-%EA%B3%B5%EC%8B%9D-%EC%95%B1/id6752271563",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/2d/1f/6e2d1f12-c988-4e4a-0257-db57f3d1b750/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
@@ -74,21 +65,30 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "캐치테이블",
-      "artist": "WADcorp",
+      "rank": 8,
+      "title": "Disney+",
+      "artist": "Disney",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/73/3c/ca733c4f-b190-28b7-413e-32274471c6eb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/disney/id1446075923",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/b6/a2/bcb6a29c-66f8-2bba-d437-5e395d88860f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "DramaBox - 영화와 숏폼 드라마",
+      "artist": "STORYMATRIX PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/58/bd/9758bd0a-e1dc-4134-4075-1f493772f33a/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "세계문학 일력",
-      "artist": "Minumsa Publishing Group",
+      "title": "다이소몰",
+      "artist": "ASUNGDAISO, Co.,Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EA%B3%84%EB%AC%B8%ED%95%99-%EC%9D%BC%EB%A0%A5/id6752370745",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/86/92/5d8692dc-6c5f-0a6a-31bd-7760d17b3905/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%8B%A4%EC%9D%B4%EC%86%8C%EB%AA%B0/id1070715498",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/7a/53/bf7a53fc-5482-7abb-7ff4-12f0c86faa90/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
       "price": "무료"
     }
   ]
