@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-02-23T23:32:48.904Z",
+  "updatedAt": "2026-02-24T23:29:17.612Z",
   "items": [
     {
       "rank": 1,
+      "title": "레시피콩",
+      "artist": "Jubi Lim",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%A0%88%EC%8B%9C%ED%94%BC%EC%BD%A9/id6759213392",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/75/80/43758067-8aaf-e8a3-d1b2-3209a7e8cbd1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/38/34/6a38349f-c454-7abe-427b-822af16c459d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/44/8d/b5448d43-066b-2a46-138f-7061c8c7e4b0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,6 +30,15 @@
     },
     {
       "rank": 4,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/44/8d/b5448d43-066b-2a46-138f-7061c8c7e4b0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "미래에셋증권 M-STOCK",
       "artist": "Mirae Asset Securities Co., Ltd.",
       "category": "",
@@ -38,57 +47,48 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/99/5d/18995d23-afff-97ab-05f1-21153f852a78/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 6,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
+      "title": "하이클래스: 똑똑한 학급소통앱",
+      "artist": "i-Scream Media CO.,LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EC%9D%B4%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%98%91%EB%98%91%ED%95%9C-%ED%95%99%EA%B8%89%EC%86%8C%ED%86%B5%EC%95%B1/id1472488819",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/df/23/dddf231d-d1d8-23a4-59a0-e955d8f79df5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "Waitcle: 운세 프롬프트 생성기",
-      "artist": "Waitcle",
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/waitcle-%EC%9A%B4%EC%84%B8-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%83%9D%EC%84%B1%EA%B8%B0/id6748270348",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/c6/e6/96c6e617-a4b8-5384-06a5-aed58b9264f5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/2e/fc/8c2efc2c-1efc-50ea-a0b1-16ab54db9102/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
+      "title": "디비디비스쿨 – 학교 수강신청 앱",
+      "artist": "Xmecca",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/1a/2d/e41a2d45-a488-19db-f05c-8c5ccec48e7f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EB%B9%84%EB%94%94%EB%B9%84%EC%8A%A4%EC%BF%A8-%ED%95%99%EA%B5%90-%EC%88%98%EA%B0%95%EC%8B%A0%EC%B2%AD-%EC%95%B1/id1473222399",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/6e/00/4a6e0032-d902-9d69-ef2e-a9a6bc516574/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "대한민국 모바일 신분증",
-      "artist": "행정안전부",
+      "title": "Berriz 베리즈",
+      "artist": "Kakao Entertainment Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/d4/f6/ddd4f604-b14a-487c-7fb3-c9bb367c1aab/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/berriz-%EB%B2%A0%EB%A6%AC%EC%A6%88/id6737214694",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/34/14/ae341493-63c4-97c7-8a65-6ee1bd26df00/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "복똑방 (동행복권 공식 앱)",
-      "artist": "동행복권",
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%B3%B5%EB%98%91%EB%B0%A9-%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C-%EA%B3%B5%EC%8B%9D-%EC%95%B1/id6752271563",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/2d/1f/6e2d1f12-c988-4e4a-0257-db57f3d1b750/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/d2/6b/60d26b5d-3c6c-3c8a-b8ad-13f2ed9f8168/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
