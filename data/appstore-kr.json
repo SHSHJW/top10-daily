@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-25T23:25:59.881Z",
+  "updatedAt": "2026-02-26T23:27:19.035Z",
   "items": [
     {
       "rank": 1,
@@ -12,6 +12,24 @@
     },
     {
       "rank": 2,
+      "title": "NH올원뱅크(농협은행 대표 플랫폼)",
+      "artist": "NH농협은행",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/nh%EC%98%AC%EC%9B%90%EB%B1%85%ED%81%AC-%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89-%EB%8C%80%ED%91%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1641628055",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/1c/10/981c1015-6ad8-c998-25a1-121b1f0ad6cd/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "하이클래스: 똑똑한 학급소통앱",
+      "artist": "i-Scream Media CO.,LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EC%9D%B4%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%98%91%EB%98%91%ED%95%9C-%ED%95%99%EA%B8%89%EC%86%8C%ED%86%B5%EC%95%B1/id1472488819",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/64/e8/b364e81d-e06c-7645-de91-6212dc98d232/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "디비디비스쿨 – 학교 수강신청 앱",
       "artist": "Xmecca",
       "category": "",
@@ -20,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "레시피콩",
       "artist": "Jubi Lim",
       "category": "",
@@ -29,52 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "하이클래스: 똑똑한 학급소통앱",
-      "artist": "i-Scream Media CO.,LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EC%9D%B4%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%98%91%EB%98%91%ED%95%9C-%ED%95%99%EA%B8%89%EC%86%8C%ED%86%B5%EC%95%B1/id1472488819",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/df/23/dddf231d-d1d8-23a4-59a0-e955d8f79df5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/44/8d/b5448d43-066b-2a46-138f-7061c8c7e4b0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 6,
-      "title": "헤이영 캠퍼스 - 대학생활 필수 통합 앱",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EC%98%81-%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EB%8C%80%ED%95%99%EC%83%9D%ED%99%9C-%ED%95%84%EC%88%98-%ED%86%B5%ED%95%A9-%EC%95%B1/id1605688685",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/c1/80/ddc180ea-04bc-f695-3c49-49dbe052c09f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "스마트 공지시스템 e알리미",
-      "artist": "(c) E-WUT",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B3%B5%EC%A7%80%EC%8B%9C%EC%8A%A4%ED%85%9C-e%EC%95%8C%EB%A6%AC%EB%AF%B8/id899929551",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/2d/4f/192d4f69-97ae-569d-cf42-0b458aaf8075/ealimi-AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "미래에셋증권 M-STOCK",
       "artist": "Mirae Asset Securities Co., Ltd.",
       "category": "",
@@ -83,12 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
+      "rank": 7,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/2e/fc/8c2efc2c-1efc-50ea-a0b1-16ab54db9102/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/c6/14/56c614bb-a1b4-c372-a9e8-43da7c36676e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "헤이영 캠퍼스 - 대학생활 필수 통합 앱",
+      "artist": "SHINHAN BANK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EC%98%81-%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EB%8C%80%ED%95%99%EC%83%9D%ED%99%9C-%ED%95%84%EC%88%98-%ED%86%B5%ED%95%A9-%EC%95%B1/id1605688685",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/c1/80/ddc180ea-04bc-f695-3c49-49dbe052c09f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "스마트 공지시스템 e알리미",
+      "artist": "(c) E-WUT",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B3%B5%EC%A7%80%EC%8B%9C%EC%8A%A4%ED%85%9C-e%EC%95%8C%EB%A6%AC%EB%AF%B8/id899929551",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/2d/4f/192d4f69-97ae-569d-cf42-0b458aaf8075/ealimi-AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
