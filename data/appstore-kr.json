@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T23:27:19.035Z",
+  "updatedAt": "2026-02-27T23:22:39.862Z",
   "items": [
     {
       "rank": 1,
@@ -12,11 +12,11 @@
     },
     {
       "rank": 2,
-      "title": "NH올원뱅크(농협은행 대표 플랫폼)",
-      "artist": "NH농협은행",
+      "title": "키즈노트",
+      "artist": "Kidsnote, Inc",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nh%EC%98%AC%EC%9B%90%EB%B1%85%ED%81%AC-%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89-%EB%8C%80%ED%91%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1641628055",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/1c/10/981c1015-6ad8-c998-25a1-121b1f0ad6cd/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%82%A4%EC%A6%88%EB%85%B8%ED%8A%B8/id527574743",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/99/20/a1992020-6a26-f343-7206-c9ef8d84c948/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,38 +30,38 @@
     },
     {
       "rank": 4,
-      "title": "디비디비스쿨 – 학교 수강신청 앱",
-      "artist": "Xmecca",
+      "title": "제타(zeta) - 상상이 현실이 되는 AI 채팅",
+      "artist": "Scatter Lab, Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%94%94%EB%B9%84%EB%94%94%EB%B9%84%EC%8A%A4%EC%BF%A8-%ED%95%99%EA%B5%90-%EC%88%98%EA%B0%95%EC%8B%A0%EC%B2%AD-%EC%95%B1/id1473222399",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/6e/00/4a6e0032-d902-9d69-ef2e-a9a6bc516574/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%9C%ED%83%80-zeta-%EC%83%81%EC%83%81%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%98%EB%8A%94-ai-%EC%B1%84%ED%8C%85/id1619030760",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/58/2d/e6582d7e-0350-82de-b0ea-9dc24afe097a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "레시피콩",
-      "artist": "Jubi Lim",
+      "title": "스마트 공지시스템 e알리미",
+      "artist": "(c) E-WUT",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A0%88%EC%8B%9C%ED%94%BC%EC%BD%A9/id6759213392",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/73/39/fd733986-e8e6-4849-2f81-6d4037c6aa05/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B3%B5%EC%A7%80%EC%8B%9C%EC%8A%A4%ED%85%9C-e%EC%95%8C%EB%A6%AC%EB%AF%B8/id899929551",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/2d/4f/192d4f69-97ae-569d-cf42-0b458aaf8075/ealimi-AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
-      "title": "미래에셋증권 M-STOCK",
-      "artist": "Mirae Asset Securities Co., Ltd.",
+      "title": "컴시간알리미",
+      "artist": "컴시간",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-m-stock/id1248716281",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/ca/2a/7cca2af2-9daa-3991-903f-68e09cc041bb/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%BB%B4%EC%8B%9C%EA%B0%84%EC%95%8C%EB%A6%AC%EB%AF%B8/id6478664393",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/fa/3a/15fa3a4a-45bc-d913-461f-a461d5b52529/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/c6/14/56c614bb-a1b4-c372-a9e8-43da7c36676e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,20 +75,20 @@
     },
     {
       "rank": 9,
-      "title": "스마트 공지시스템 e알리미",
-      "artist": "(c) E-WUT",
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B3%B5%EC%A7%80%EC%8B%9C%EC%8A%A4%ED%85%9C-e%EC%95%8C%EB%A6%AC%EB%AF%B8/id899929551",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/2d/4f/192d4f69-97ae-569d-cf42-0b458aaf8075/ealimi-AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ed/95/f8ed9540-9df0-0ebe-8536-47f63b8366d7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/d4/f6/ddd4f604-b14a-487c-7fb3-c9bb367c1aab/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
