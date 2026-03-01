@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T23:19:19.595Z",
+  "updatedAt": "2026-03-01T23:21:30.684Z",
   "items": [
     {
       "rank": 1,
@@ -12,6 +12,24 @@
     },
     {
       "rank": 2,
+      "title": "나이스플러스(NEIS+)",
+      "artist": "한국교육학술정보원",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%82%98%EC%9D%B4%EC%8A%A4%ED%94%8C%EB%9F%AC%EC%8A%A4-neis/id1664015586",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/31/b2/9531b2ab-bf72-1920-d193-f83fc3338270/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "올리브영",
+      "artist": "CJ Olive Young Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/26/60/f42660cb-4da0-9649-e099-e39f82597644/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -20,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "NetShort - 인기 드라마 및 TV 프로그램",
       "artist": "NETSTORY PTE. LTD.",
       "category": "",
@@ -29,30 +47,12 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "photoism - 포토이즘",
       "artist": "Seobuk",
       "category": "",
       "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/37/a9/1137a9cd-63fc-c8f5-3c17-1fa69d72e7c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "키즈노트",
-      "artist": "Kidsnote, Inc",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%82%A4%EC%A6%88%EB%85%B8%ED%8A%B8/id527574743",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/99/20/a1992020-6a26-f343-7206-c9ef8d84c948/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "복똑방 (동행복권 공식 앱)",
-      "artist": "동행복권",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%B3%B5%EB%98%91%EB%B0%A9-%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C-%EA%B3%B5%EC%8B%9D-%EC%95%B1/id6752271563",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/2d/1f/6e2d1f12-c988-4e4a-0257-db57f3d1b750/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,6 +66,15 @@
     },
     {
       "rank": 8,
+      "title": "캐치테이블",
+      "artist": "WADcorp",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/73/3c/ca733c4f-b190-28b7-413e-32274471c6eb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
@@ -74,21 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "헤이영 캠퍼스 - 대학생활 필수 통합 앱",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EC%98%81-%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EB%8C%80%ED%95%99%EC%83%9D%ED%99%9C-%ED%95%84%EC%88%98-%ED%86%B5%ED%95%A9-%EC%95%B1/id1605688685",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/c1/80/ddc180ea-04bc-f695-3c49-49dbe052c09f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 10,
-      "title": "캐치테이블",
-      "artist": "WADcorp",
+      "title": "이멤버 (EMEMBER)",
+      "artist": "이랜드리테일",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/73/3c/ca733c4f-b190-28b7-413e-32274471c6eb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%9D%B4%EB%A9%A4%EB%B2%84-emember/id1561279070",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/e9/b5/94e9b52a-004e-a342-a9b0-b47815bfe588/prdAppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
