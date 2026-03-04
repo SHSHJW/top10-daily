@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-03-03T23:25:33.633Z",
+  "updatedAt": "2026-03-04T23:27:59.290Z",
   "items": [
     {
       "rank": 1,
-      "title": "하이클래스: 똑똑한 학급소통앱",
-      "artist": "i-Scream Media CO.,LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EC%9D%B4%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%98%91%EB%98%91%ED%95%9C-%ED%95%99%EA%B8%89%EC%86%8C%ED%86%B5%EC%95%B1/id1472488819",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/9f/17/d19f178f-702e-4c64-a59b-a23de794f840/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "리로스쿨",
       "artist": "rirosoft Inc",
       "category": "",
@@ -20,34 +11,34 @@
       "price": "무료"
     },
     {
+      "rank": 2,
+      "title": "하이클래스: 똑똑한 학급소통앱",
+      "artist": "i-Scream Media CO.,LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EC%9D%B4%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%98%91%EB%98%91%ED%95%9C-%ED%95%99%EA%B8%89%EC%86%8C%ED%86%B5%EC%95%B1/id1472488819",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/9f/17/d19f178f-702e-4c64-a59b-a23de794f840/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/43/cf/4143cfc1-1e84-8c68-776a-ab1bb06c6f31/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/69/c5/1a69c536-5ac2-3b6c-34f6-13736a990a13/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "키즈노트",
-      "artist": "Kidsnote, Inc",
+      "title": "아이알리미",
+      "artist": "Jung Tae Lee",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%82%A4%EC%A6%88%EB%85%B8%ED%8A%B8/id527574743",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/99/20/a1992020-6a26-f343-7206-c9ef8d84c948/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EC%95%8C%EB%A6%AC%EB%AF%B8/id1123278063",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/fc/62/ecfc622c-7fbc-bdf1-1a97-997e454e7c18/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "헤이영 캠퍼스 - 대학생활 필수 통합 앱",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EC%98%81-%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EB%8C%80%ED%95%99%EC%83%9D%ED%99%9C-%ED%95%84%EC%88%98-%ED%86%B5%ED%95%A9-%EC%95%B1/id1605688685",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/c1/80/ddc180ea-04bc-f695-3c49-49dbe052c09f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "스마트 공지시스템 e알리미",
       "artist": "(c) E-WUT",
       "category": "",
@@ -56,12 +47,21 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "코스모스",
-      "artist": "Ubion",
+      "rank": 6,
+      "title": "아이젠하워 매트릭스: 투두, 메모 우선순위 관리",
+      "artist": "DO YEON PARK",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BD%94%EC%8A%A4%EB%AA%A8%EC%8A%A4/id1142523906",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/6d/04/e06d0431-5ad0-f6c3-282b-20096e521446/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EC%A0%A0%ED%95%98%EC%9B%8C-%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4-%ED%88%AC%EB%91%90-%EB%A9%94%EB%AA%A8-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%EA%B4%80%EB%A6%AC/id6473735916",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/fe/c8/f9fec8d2-0d97-c6cc-ac6d-19723081373f/matrixicon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "헤이영 캠퍼스 - 대학생활 필수 통합 앱",
+      "artist": "SHINHAN BANK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EC%98%81-%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EB%8C%80%ED%95%99%EC%83%9D%ED%99%9C-%ED%95%84%EC%88%98-%ED%86%B5%ED%95%A9-%EC%95%B1/id1605688685",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/c1/80/ddc180ea-04bc-f695-3c49-49dbe052c09f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,20 +75,20 @@
     },
     {
       "rank": 9,
+      "title": "코스모스",
+      "artist": "Ubion",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%BD%94%EC%8A%A4%EB%AA%A8%EC%8A%A4/id1142523906",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/6d/04/e06d0431-5ad0-f6c3-282b-20096e521446/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
       "title": "컴시간알리미",
       "artist": "컴시간",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EC%BB%B4%EC%8B%9C%EA%B0%84%EC%95%8C%EB%A6%AC%EB%AF%B8/id6478664393",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/fa/3a/15fa3a4a-45bc-d913-461f-a461d5b52529/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "아이알리미",
-      "artist": "Jung Tae Lee",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EC%95%8C%EB%A6%AC%EB%AF%B8/id1123278063",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/2f/75/7d2f751c-89f4-f88b-58ea-4e4d58aa64df/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
