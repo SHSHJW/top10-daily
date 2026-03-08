@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T23:20:23.957Z",
+  "updatedAt": "2026-03-08T23:21:48.229Z",
   "items": [
     {
       "rank": 1,
@@ -12,15 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "올리브영",
-      "artist": "CJ Olive Young Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/26/60/f42660cb-4da0-9649-e099-e39f82597644/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -29,43 +20,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "PDF Office Pro, Acrobat Expert",
-      "artist": "heytopia",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/pdf-office-pro-acrobat-expert/id1519099937",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/84/3a/11/843a11e3-534e-91a4-1006-0b3c13e9a222/AppIcon_PDFiOS-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "Waitcle: 운세 프롬프트 생성기",
-      "artist": "Waitcle",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/waitcle-%EC%9A%B4%EC%84%B8-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%83%9D%EC%84%B1%EA%B8%B0/id6748270348",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/d3/4e/8ed34e2f-5838-0cc7-a75c-48cc9e1da75d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "리로스쿨",
-      "artist": "rirosoft Inc",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A6%AC%EB%A1%9C%EC%8A%A4%EC%BF%A8/id995221497",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/c8/53/96c85380-996f-5a02-f7b8-85db18fd535b/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/78/bb/a478bb5b-41bf-b3e6-ec1a-b1b2b1bfdc78/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
+      "rank": 3,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -74,7 +29,34 @@
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 4,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/78/bb/a478bb5b-41bf-b3e6-ec1a-b1b2b1bfdc78/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/a6/64/7ea66407-8865-d7eb-d529-2c69359da7e2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "아이젠하워 매트릭스: 투두, 메모 우선순위 관리",
+      "artist": "DO YEON PARK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EC%A0%A0%ED%95%98%EC%9B%8C-%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4-%ED%88%AC%EB%91%90-%EB%A9%94%EB%AA%A8-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%EA%B4%80%EB%A6%AC/id6473735916",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/56/9d/7a569d7d-ddb8-29eb-2994-41ba7fa69ada/matrixicon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
@@ -83,12 +65,30 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
+      "rank": 8,
+      "title": "Waitcle: 운세 프롬프트 생성기",
+      "artist": "Waitcle",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/a6/64/7ea66407-8865-d7eb-d529-2c69359da7e2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/waitcle-%EC%9A%B4%EC%84%B8-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%83%9D%EC%84%B1%EA%B8%B0/id6748270348",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/d3/4e/8ed34e2f-5838-0cc7-a75c-48cc9e1da75d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "컴시간알리미",
+      "artist": "컴시간",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%BB%B4%EC%8B%9C%EA%B0%84%EC%95%8C%EB%A6%AC%EB%AF%B8/id6478664393",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/fa/3a/15fa3a4a-45bc-d913-461f-a461d5b52529/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "올리브영",
+      "artist": "CJ Olive Young Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/26/60/f42660cb-4da0-9649-e099-e39f82597644/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
