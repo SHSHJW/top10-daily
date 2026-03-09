@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T23:21:48.229Z",
+  "updatedAt": "2026-03-09T23:26:20.534Z",
   "items": [
     {
       "rank": 1,
@@ -12,11 +12,11 @@
     },
     {
       "rank": 2,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
+      "title": "리로스쿨",
+      "artist": "rirosoft Inc",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%A6%AC%EB%A1%9C%EC%8A%A4%EC%BF%A8/id995221497",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/c8/53/96c85380-996f-5a02-f7b8-85db18fd535b/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,15 +39,6 @@
     },
     {
       "rank": 5,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/a6/64/7ea66407-8865-d7eb-d529-2c69359da7e2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "아이젠하워 매트릭스: 투두, 메모 우선순위 관리",
       "artist": "DO YEON PARK",
       "category": "",
@@ -56,7 +47,34 @@
       "price": "무료"
     },
     {
+      "rank": 6,
+      "title": "마이로그 - 우선순위 투두 플래너",
+      "artist": "Bon Sung Koo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%A7%88%EC%9D%B4%EB%A1%9C%EA%B7%B8-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%88%AC%EB%91%90-%ED%94%8C%EB%9E%98%EB%84%88/id6758015022",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/c2/08/63c2080c-22ee-8b98-9aa5-00dc342d6bcc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 7,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/a6/64/7ea66407-8865-d7eb-d529-2c69359da7e2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
@@ -65,30 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "Waitcle: 운세 프롬프트 생성기",
-      "artist": "Waitcle",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/waitcle-%EC%9A%B4%EC%84%B8-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%83%9D%EC%84%B1%EA%B8%B0/id6748270348",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/d3/4e/8ed34e2f-5838-0cc7-a75c-48cc9e1da75d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "컴시간알리미",
-      "artist": "컴시간",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BB%B4%EC%8B%9C%EA%B0%84%EC%95%8C%EB%A6%AC%EB%AF%B8/id6478664393",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/fa/3a/15fa3a4a-45bc-d913-461f-a461d5b52529/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 10,
-      "title": "올리브영",
-      "artist": "CJ Olive Young Corporation",
+      "title": "Google Sheets",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/26/60/f42660cb-4da0-9649-e099-e39f82597644/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-sheets/id842849113",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/13/81/e71381b3-afe7-4770-19ae-0f57ea85d0e6/sheets_2020q4-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
