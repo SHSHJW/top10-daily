@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-10T23:25:10.672Z",
+  "updatedAt": "2026-03-11T23:23:30.508Z",
   "items": [
     {
       "rank": 1,
@@ -7,16 +7,16 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/11/50/091150fe-29b6-2eae-c65f-86a81a3e772e/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/05/0f/44050f7a-498d-2e62-7410-383a1edaa2a2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 2,
-      "title": "Dazz - 필름카메라 & 사진 편집",
-      "artist": "DAZZ PTE. LTD.",
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/dazz-%ED%95%84%EB%A6%84%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%82%AC%EC%A7%84-%ED%8E%B8%EC%A7%91/id1422471180",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/22/4d/c7224daf-eb27-a597-6b67-d398c8767d65/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/57/b7/6357b736-20e1-f964-5ee0-3072c59a2bc8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,15 +30,6 @@
     },
     {
       "rank": 4,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/57/b7/6357b736-20e1-f964-5ee0-3072c59a2bc8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -47,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
@@ -56,21 +47,30 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
+      "rank": 6,
+      "title": "Dazz - 필름카메라 & 사진 편집",
+      "artist": "DAZZ PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/09/c7/1509c774-4ef6-9bfa-9542-6abeb5fa728a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/dazz-%ED%95%84%EB%A6%84%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%82%AC%EC%A7%84-%ED%8E%B8%EC%A7%91/id1422471180",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/22/4d/c7224daf-eb27-a597-6b67-d398c8767d65/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "The건강보험",
+      "artist": "국민건강보험공단",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/the%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98/id375279377",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/8c/c7/158cc7ed-4aa8-f696-6a83-b23551eaf0dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
+      "title": "한투-한국투자증권,MTS,투자,증권,해외주식,주식어플",
+      "artist": "Korea Investment & Securities Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/cc/3b/b2cc3b97-d05e-689d-ff3d-d8ea627d7791/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%9C%ED%88%AC-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-mts-%ED%88%AC%EC%9E%90-%EC%A6%9D%EA%B6%8C-%ED%95%B4%EC%99%B8%EC%A3%BC%EC%8B%9D-%EC%A3%BC%EC%8B%9D%EC%96%B4%ED%94%8C/id1621986905",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/ff/0b/dfff0bb7-a941-bdf1-d17a-4f8972659329/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/cc/3b/b2cc3b97-d05e-689d-ff3d-d8ea627d7791/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
