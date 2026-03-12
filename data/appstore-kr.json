@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T23:23:30.508Z",
+  "updatedAt": "2026-03-12T23:25:35.271Z",
   "items": [
     {
       "rank": 1,
@@ -21,11 +21,11 @@
     },
     {
       "rank": 3,
-      "title": "리로스쿨",
-      "artist": "rirosoft Inc",
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A6%AC%EB%A1%9C%EC%8A%A4%EC%BF%A8/id995221497",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/c8/53/96c85380-996f-5a02-f7b8-85db18fd535b/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/5e/89/7b5e89df-f936-1777-09ac-136994649e59/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,24 +39,15 @@
     },
     {
       "rank": 5,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
+      "title": "리로스쿨",
+      "artist": "rirosoft Inc",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/5e/89/7b5e89df-f936-1777-09ac-136994649e59/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%A6%AC%EB%A1%9C%EC%8A%A4%EC%BF%A8/id995221497",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/c8/53/96c85380-996f-5a02-f7b8-85db18fd535b/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
-      "title": "Dazz - 필름카메라 & 사진 편집",
-      "artist": "DAZZ PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/dazz-%ED%95%84%EB%A6%84%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%82%AC%EC%A7%84-%ED%8E%B8%EC%A7%91/id1422471180",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/22/4d/c7224daf-eb27-a597-6b67-d398c8767d65/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "The건강보험",
       "artist": "국민건강보험공단",
       "category": "",
@@ -65,7 +56,7 @@
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "한투-한국투자증권,MTS,투자,증권,해외주식,주식어플",
       "artist": "Korea Investment & Securities Co., Ltd.",
       "category": "",
@@ -74,21 +65,30 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "Google Sheets",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-sheets/id842849113",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/13/81/e71381b3-afe7-4770-19ae-0f57ea85d0e6/sheets_2020q4-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/cc/3b/b2cc3b97-d05e-689d-ff3d-d8ea627d7791/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "Google Sheets",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-sheets/id842849113",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/13/81/e71381b3-afe7-4770-19ae-0f57ea85d0e6/sheets_2020q4-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
