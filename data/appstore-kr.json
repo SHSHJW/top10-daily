@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T23:25:55.311Z",
+  "updatedAt": "2026-03-14T23:25:29.036Z",
   "items": [
     {
       "rank": 1,
@@ -12,6 +12,15 @@
     },
     {
       "rank": 2,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -20,21 +29,12 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/5e/89/7b5e89df-f936-1777-09ac-136994649e59/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/ed/68/b0ed687d-2321-88fe-1112-314290078663/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,33 +48,6 @@
     },
     {
       "rank": 6,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "리로스쿨",
-      "artist": "rirosoft Inc",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A6%AC%EB%A1%9C%EC%8A%A4%EC%BF%A8/id995221497",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/c8/53/96c85380-996f-5a02-f7b8-85db18fd535b/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "대한민국 모바일 신분증",
-      "artist": "행정안전부",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/45/15/1645154f-2c55-5ac1-1d3e-82d602e68671/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
@@ -83,12 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "Google Sheets",
-      "artist": "Google",
+      "rank": 7,
+      "title": "캐치테이블",
+      "artist": "WADcorp",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/google-sheets/id842849113",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/13/81/e71381b3-afe7-4770-19ae-0f57ea85d0e6/sheets_2020q4-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/73/3c/ca733c4f-b190-28b7-413e-32274471c6eb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "네이버페이",
+      "artist": "Naver Financial Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/ed/68/b0ed687d-2321-88fe-1112-314290078663/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "photoism - 포토이즘",
+      "artist": "Seobuk",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/37/a9/1137a9cd-63fc-c8f5-3c17-1fa69d72e7c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "Temu: 억만장자처럼 쇼핑하기",
+      "artist": "Temu",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/temu-%EC%96%B5%EB%A7%8C%EC%9E%A5%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%87%BC%ED%95%91%ED%95%98%EA%B8%B0/id1641486558",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/86/ea/ef86ea16-f168-6d81-6cfd-665742be0b88/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
