@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T23:25:29.036Z",
+  "updatedAt": "2026-03-15T23:27:08.977Z",
   "items": [
     {
       "rank": 1,
@@ -12,20 +12,20 @@
     },
     {
       "rank": 2,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/57/b7/6357b736-20e1-f964-5ee0-3072c59a2bc8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,38 +57,38 @@
     },
     {
       "rank": 7,
-      "title": "캐치테이블",
-      "artist": "WADcorp",
+      "title": "Temu: 억만장자처럼 쇼핑하기",
+      "artist": "Temu",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/73/3c/ca733c4f-b190-28b7-413e-32274471c6eb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/temu-%EC%96%B5%EB%A7%8C%EC%9E%A5%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%87%BC%ED%95%91%ED%95%98%EA%B8%B0/id1641486558",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/d6/53/44d6534e-98a8-f013-9f2d-409ff8f15d1d/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
+      "title": "Dazz - 필름카메라 & 사진 편집",
+      "artist": "DAZZ PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/ed/68/b0ed687d-2321-88fe-1112-314290078663/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/dazz-%ED%95%84%EB%A6%84%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%82%AC%EC%A7%84-%ED%8E%B8%EC%A7%91/id1422471180",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/22/4d/c7224daf-eb27-a597-6b67-d398c8767d65/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
+      "title": "CapCut: 사진 및 동영상 에디터",
+      "artist": "Bytedance Pte. Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/capcut-%EC%82%AC%EC%A7%84-%EB%B0%8F-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%90%EB%94%94%ED%84%B0/id1500855883",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/6e/75/9c6e75eb-5c0d-4df9-f619-00f420d49832/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
       "title": "photoism - 포토이즘",
       "artist": "Seobuk",
       "category": "",
       "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/37/a9/1137a9cd-63fc-c8f5-3c17-1fa69d72e7c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "Temu: 억만장자처럼 쇼핑하기",
-      "artist": "Temu",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/temu-%EC%96%B5%EB%A7%8C%EC%9E%A5%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%87%BC%ED%95%91%ED%95%98%EA%B8%B0/id1641486558",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/86/ea/ef86ea16-f168-6d81-6cfd-665742be0b88/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
