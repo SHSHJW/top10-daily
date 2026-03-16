@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T23:27:08.977Z",
+  "updatedAt": "2026-03-16T23:29:35.975Z",
   "items": [
     {
       "rank": 1,
@@ -16,20 +16,11 @@
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/57/b7/6357b736-20e1-f964-5ee0-3072c59a2bc8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/19/bd/0519bdf7-571f-085a-1974-dd295fcf164f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 3,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/da/a8/9fdaa8e0-26f1-b082-5b52-fa9956ff8ed6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
@@ -38,7 +29,7 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -47,48 +38,57 @@
       "price": "무료"
     },
     {
+      "rank": 5,
+      "title": "Alt - 오프라인 AI 음성 메모",
+      "artist": "Clap",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/alt-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-ai-%EC%9D%8C%EC%84%B1-%EB%A9%94%EB%AA%A8/id6759488047",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/48/d4/cf48d42f-24a2-1a81-7a8f-7131e9ec8bae/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 6,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/cc/3b/b2cc3b97-d05e-689d-ff3d-d8ea627d7791/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/fc/2c/9cfc2cce-87d7-3324-28bf-b4de6d78abb3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "Temu: 억만장자처럼 쇼핑하기",
-      "artist": "Temu",
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/temu-%EC%96%B5%EB%A7%8C%EC%9E%A5%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%87%BC%ED%95%91%ED%95%98%EA%B8%B0/id1641486558",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/d6/53/44d6534e-98a8-f013-9f2d-409ff8f15d1d/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "Dazz - 필름카메라 & 사진 편집",
-      "artist": "DAZZ PTE. LTD.",
+      "title": "신한 SOL증권 - 대표MTS",
+      "artist": "Shinhan Securities Co.,Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/dazz-%ED%95%84%EB%A6%84%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%82%AC%EC%A7%84-%ED%8E%B8%EC%A7%91/id1422471180",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/22/4d/c7224daf-eb27-a597-6b67-d398c8767d65/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-sol%EC%A6%9D%EA%B6%8C-%EB%8C%80%ED%91%9Cmts/id1168512940",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/6b/57/de6b57e4-9ad9-680c-b5ee-6acd5fe35adc/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "CapCut: 사진 및 동영상 에디터",
-      "artist": "Bytedance Pte. Ltd",
+      "title": "청약홈",
+      "artist": "한국부동산원",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/capcut-%EC%82%AC%EC%A7%84-%EB%B0%8F-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%90%EB%94%94%ED%84%B0/id1500855883",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/6e/75/9c6e75eb-5c0d-4df9-f619-00f420d49832/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%B2%AD%EC%95%BD%ED%99%88/id1492025423",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/fe/f0/2dfef00b-437e-697e-4cf9-90b61ae13fe4/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "photoism - 포토이즘",
-      "artist": "Seobuk",
+      "title": "실손24",
+      "artist": "Korean Insurance Development Institute Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/37/a9/1137a9cd-63fc-c8f5-3c17-1fa69d72e7c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/8b/5a/bb8b5a6c-84e5-21a2-d6a5-07ca5568c3fb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
