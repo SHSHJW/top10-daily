@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T23:29:35.975Z",
+  "updatedAt": "2026-03-17T23:30:24.327Z",
   "items": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "artist": "OpenAI OpCo, LLC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/5e/89/7b5e89df-f936-1777-09ac-136994649e59/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/c1/85/6dc185d1-e63c-3b62-f6b8-63c6b0e59629/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,11 +39,11 @@
     },
     {
       "rank": 5,
-      "title": "Alt - 오프라인 AI 음성 메모",
-      "artist": "Clap",
+      "title": "AnySchedule - 올인원 플래너 & 캘린더",
+      "artist": "ReleCompany",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/alt-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-ai-%EC%9D%8C%EC%84%B1-%EB%A9%94%EB%AA%A8/id6759488047",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/48/d4/cf48d42f-24a2-1a81-7a8f-7131e9ec8bae/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/anyschedule-%EC%98%AC%EC%9D%B8%EC%9B%90-%ED%94%8C%EB%9E%98%EB%84%88-%EC%BA%98%EB%A6%B0%EB%8D%94/id6759487521",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/93/90/86939025-9416-8fa3-6aee-303ae678d776/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -52,43 +52,43 @@
       "artist": "Duolingo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/fc/2c/9cfc2cce-87d7-3324-28bf-b4de6d78abb3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/82/40/9a8240fd-cdc1-98b8-6a89-98ce678b8118/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "신한 SOL증권 - 대표MTS",
-      "artist": "Shinhan Securities Co.,Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-sol%EC%A6%9D%EA%B6%8C-%EB%8C%80%ED%91%9Cmts/id1168512940",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/6b/57/de6b57e4-9ad9-680c-b5ee-6acd5fe35adc/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "청약홈",
-      "artist": "한국부동산원",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B2%AD%EC%95%BD%ED%99%88/id1492025423",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/fe/f0/2dfef00b-437e-697e-4cf9-90b61ae13fe4/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "실손24",
       "artist": "Korean Insurance Development Institute Inc.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/8b/5a/bb8b5a6c-84e5-21a2-d6a5-07ca5568c3fb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Alt - 오프라인 AI 음성 메모",
+      "artist": "Clap",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/alt-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-ai-%EC%9D%8C%EC%84%B1-%EB%A9%94%EB%AA%A8/id6759488047",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/62/a2/eb62a2cb-fa7b-d2a8-41d1-a242c21c0469/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/45/15/1645154f-2c55-5ac1-1d3e-82d602e68671/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "신한 SOL증권 - 대표MTS",
+      "artist": "Shinhan Securities Co.,Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-sol%EC%A6%9D%EA%B6%8C-%EB%8C%80%ED%91%9Cmts/id1168512940",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/6b/57/de6b57e4-9ad9-680c-b5ee-6acd5fe35adc/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
