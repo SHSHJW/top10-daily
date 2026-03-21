@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-20T23:26:41.305Z",
+  "updatedAt": "2026-03-21T23:22:43.706Z",
   "items": [
     {
       "rank": 1,
@@ -25,20 +25,11 @@
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/d4/36/92d436bb-45d1-e5e6-d119-9b70cbb09c89/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/2f/2c/632f2ced-d026-6ea9-f7bd-a4253835f88c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "포켓CU",
-      "artist": "BGFretail Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/a5/88/b3a5888d-fa26-9eab-1f78-88999ca2274d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -47,7 +38,34 @@
       "price": "무료"
     },
     {
+      "rank": 5,
+      "title": "photoism - 포토이즘",
+      "artist": "Seobuk",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/37/a9/1137a9cd-63fc-c8f5-3c17-1fa69d72e7c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 6,
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/82/40/9a8240fd-cdc1-98b8-6a89-98ce678b8118/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "Netflix",
+      "artist": "Netflix, Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/netflix/id363590051",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/da/09/69da0913-1e0f-1381-e915-7bb66d255262/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -56,39 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "title": "포켓CU",
+      "artist": "BGFretail Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/a5/88/b3a5888d-fa26-9eab-1f78-88999ca2274d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/c1/85/6dc185d1-e63c-3b62-f6b8-63c6b0e59629/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "타베로그 Tabelog - 일본 현지 맛집 찾기",
-      "artist": "Kakaku.com, Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%83%80%EB%B2%A0%EB%A1%9C%EA%B7%B8-tabelog-%EC%9D%BC%EB%B3%B8-%ED%98%84%EC%A7%80-%EB%A7%9B%EC%A7%91-%EC%B0%BE%EA%B8%B0/id6752922875",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/43/a0/4f43a070-2504-b748-d376-6e1b95d3d2d8/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "쿠팡이츠 - 와우회원 배달비 0원",
-      "artist": "Coupang Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%8C%A1%EC%9D%B4%EC%B8%A0-%EC%99%80%EC%9A%B0%ED%9A%8C%EC%9B%90-%EB%B0%B0%EB%8B%AC%EB%B9%84-0%EC%9B%90/id1445504255",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/e3/5a/e2e35a89-2aa1-c74b-c983-edb57a265fb7/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/82/40/9a8240fd-cdc1-98b8-6a89-98ce678b8118/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
