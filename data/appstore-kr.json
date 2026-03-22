@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T23:22:43.706Z",
+  "updatedAt": "2026-03-22T23:25:24.686Z",
   "items": [
     {
       "rank": 1,
@@ -30,24 +30,15 @@
     },
     {
       "rank": 4,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
+      "title": "급구 - 하루만 알바가 필요할 때",
+      "artist": "Needer Inc",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EA%B8%89%EA%B5%AC-%ED%95%98%EB%A3%A8%EB%A7%8C-%EC%95%8C%EB%B0%94%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%A0-%EB%95%8C/id1024369566",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/be/fc/8cbefc43-4a23-6d52-da49-d940bc5f4720/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "photoism - 포토이즘",
-      "artist": "Seobuk",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/37/a9/1137a9cd-63fc-c8f5-3c17-1fa69d72e7c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
@@ -56,16 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "Netflix",
-      "artist": "Netflix, Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/netflix/id363590051",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/da/09/69da0913-1e0f-1381-e915-7bb66d255262/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -74,21 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "포켓CU",
-      "artist": "BGFretail Co., Ltd.",
+      "rank": 7,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/a5/88/b3a5888d-fa26-9eab-1f78-88999ca2274d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "title": "photoism - 포토이즘",
+      "artist": "Seobuk",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/37/a9/1137a9cd-63fc-c8f5-3c17-1fa69d72e7c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/c1/85/6dc185d1-e63c-3b62-f6b8-63c6b0e59629/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "Temu: 억만장자처럼 쇼핑하기",
+      "artist": "Temu",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/temu-%EC%96%B5%EB%A7%8C%EC%9E%A5%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%87%BC%ED%95%91%ED%95%98%EA%B8%B0/id1641486558",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/84/62/fe8462c4-eb5a-bba6-e80f-4787afccfe74/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
