@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T23:25:24.686Z",
+  "updatedAt": "2026-03-23T23:30:10.990Z",
   "items": [
     {
       "rank": 1,
@@ -21,33 +21,24 @@
     },
     {
       "rank": 3,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
+      "title": "하루 1루",
+      "artist": "hyunseo kim",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/2f/2c/632f2ced-d026-6ea9-f7bd-a4253835f88c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%A3%A8-1%EB%A3%A8/id6760472941",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5e/70/9c5e70b4-80cb-6574-a7ea-bf3387f25294/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "급구 - 하루만 알바가 필요할 때",
-      "artist": "Needer Inc",
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B8%89%EA%B5%AC-%ED%95%98%EB%A3%A8%EB%A7%8C-%EC%95%8C%EB%B0%94%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%A0-%EB%95%8C/id1024369566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/be/fc/8cbefc43-4a23-6d52-da49-d940bc5f4720/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/71/f0/e571f032-bb11-c48f-9c89-40a2ecefe3d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/82/40/9a8240fd-cdc1-98b8-6a89-98ce678b8118/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -56,25 +47,25 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
+      "rank": 6,
+      "title": "Dazz - 필름카메라 & 사진 편집",
+      "artist": "DAZZ PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/dazz-%ED%95%84%EB%A6%84%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%82%AC%EC%A7%84-%ED%8E%B8%EC%A7%91/id1422471180",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/70/a8/fc70a86d-ea31-6ffb-6153-7685e883ddd7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/5d/4a/785d4a42-88aa-3c7c-5b2e-ba48816fdffe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "photoism - 포토이즘",
-      "artist": "Seobuk",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/37/a9/1137a9cd-63fc-c8f5-3c17-1fa69d72e7c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
@@ -83,12 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "Temu: 억만장자처럼 쇼핑하기",
-      "artist": "Temu",
+      "rank": 9,
+      "title": "급구 - 하루만 알바가 필요할 때",
+      "artist": "Needer Inc",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/temu-%EC%96%B5%EB%A7%8C%EC%9E%A5%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%87%BC%ED%95%91%ED%95%98%EA%B8%B0/id1641486558",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/84/62/fe8462c4-eb5a-bba6-e80f-4787afccfe74/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EA%B8%89%EA%B5%AC-%ED%95%98%EB%A3%A8%EB%A7%8C-%EC%95%8C%EB%B0%94%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%A0-%EB%95%8C/id1024369566",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/be/fc/8cbefc43-4a23-6d52-da49-d940bc5f4720/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
