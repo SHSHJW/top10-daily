@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-23T23:30:10.990Z",
+  "updatedAt": "2026-03-24T23:30:31.418Z",
   "items": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "artist": "hyunseo kim",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%A3%A8-1%EB%A3%A8/id6760472941",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5e/70/9c5e70b4-80cb-6574-a7ea-bf3387f25294/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/42/c8/4c42c8aa-a563-f8c6-2803-6975b1c97cfd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -34,7 +34,7 @@
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/71/f0/e571f032-bb11-c48f-9c89-40a2ecefe3d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/84/4c/30844c22-acd9-9591-1968-9224f895acdd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,11 +48,11 @@
     },
     {
       "rank": 6,
-      "title": "Dazz - 필름카메라 & 사진 편집",
-      "artist": "DAZZ PTE. LTD.",
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/dazz-%ED%95%84%EB%A6%84%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%82%AC%EC%A7%84-%ED%8E%B8%EC%A7%91/id1422471180",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/70/a8/fc70a86d-ea31-6ffb-6153-7685e883ddd7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/fb/2c/fffb2c28-d259-b4b4-4292-0cfe5087827d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,29 +66,29 @@
     },
     {
       "rank": 8,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/c1/85/6dc185d1-e63c-3b62-f6b8-63c6b0e59629/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "급구 - 하루만 알바가 필요할 때",
-      "artist": "Needer Inc",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B8%89%EA%B5%AC-%ED%95%98%EB%A3%A8%EB%A7%8C-%EC%95%8C%EB%B0%94%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%A0-%EB%95%8C/id1024369566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/be/fc/8cbefc43-4a23-6d52-da49-d940bc5f4720/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "CapCut: 사진 및 동영상 에디터",
+      "artist": "Bytedance Pte. Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/capcut-%EC%82%AC%EC%A7%84-%EB%B0%8F-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%90%EB%94%94%ED%84%B0/id1500855883",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/a4/76/9ca476d2-2826-41fc-5736-fe9e84f3bc95/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/45/15/1645154f-2c55-5ac1-1d3e-82d602e68671/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
