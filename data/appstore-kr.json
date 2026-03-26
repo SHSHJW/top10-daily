@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T23:32:50.203Z",
+  "updatedAt": "2026-03-26T23:30:16.884Z",
   "items": [
     {
       "rank": 1,
@@ -16,7 +16,7 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/18/b7/9618b784-5c6e-1235-1b6a-5e18c24c83fc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/9e/c6/669ec615-0d67-94de-870a-f2a0ad56f737/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -25,25 +25,25 @@
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/84/4c/30844c22-acd9-9591-1968-9224f895acdd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/80/26/fb802683-4a33-a1c3-017f-2fe51e26e35c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
+      "title": "NH올원뱅크(농협은행 대표 플랫폼)",
+      "artist": "NH농협은행",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/nh%EC%98%AC%EC%9B%90%EB%B1%85%ED%81%AC-%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89-%EB%8C%80%ED%91%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1641628055",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/26/07/6626076a-1fb2-eb96-941a-f225646bd485/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/89/59/2e8959a0-f3dd-245d-d855-adb5e6c86b2d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "하루 1루",
-      "artist": "hyunseo kim",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%A3%A8-1%EB%A3%A8/id6760472941",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/42/c8/4c42c8aa-a563-f8c6-2803-6975b1c97cfd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,11 +75,11 @@
     },
     {
       "rank": 9,
-      "title": "setlog",
-      "artist": "new chat",
+      "title": "건강보험25시",
+      "artist": "국민건강보험공단",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/29/c2/5729c24a-b958-dc90-af54-cf1315e5b8fe/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%9825%EC%8B%9C/id375279377",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/b5/c8/3fb5c8bb-968a-8609-6b52-65e10b7eb2fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
