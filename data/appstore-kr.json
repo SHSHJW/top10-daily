@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T23:30:07.613Z",
+  "updatedAt": "2026-03-30T23:32:46.566Z",
   "items": [
     {
       "rank": 1,
@@ -12,6 +12,15 @@
     },
     {
       "rank": 2,
+      "title": "setlog",
+      "artist": "new chat",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/29/c2/5729c24a-b958-dc90-af54-cf1315e5b8fe/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -20,7 +29,16 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/20/81/3320814c-c08e-7fdd-305d-fd0d72157321/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "아이젠하워 매트릭스: 투두, 메모 우선순위 관리",
       "artist": "DO YEON PARK",
       "category": "",
@@ -29,34 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/80/26/fb802683-4a33-a1c3-017f-2fe51e26e35c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "29CM",
-      "artist": "29CM",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/29cm/id789634744",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/f9/b6/9ff9b6ee-d0bc-4338-ee81-66637279c050/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 6,
-      "title": "photoism - 포토이즘",
-      "artist": "Seobuk",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/37/a9/1137a9cd-63fc-c8f5-3c17-1fa69d72e7c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -65,30 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/5d/4a/785d4a42-88aa-3c7c-5b2e-ba48816fdffe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f8/8d/22f88d97-0776-74fe-6769-1851540ae0c8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/9b/08/189b083e-a59e-aca2-f49d-26a371134520/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "photoism - 포토이즘",
+      "artist": "Seobuk",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/37/a9/1137a9cd-63fc-c8f5-3c17-1fa69d72e7c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/45/15/1645154f-2c55-5ac1-1d3e-82d602e68671/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
