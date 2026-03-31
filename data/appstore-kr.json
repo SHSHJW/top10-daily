@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T23:32:46.566Z",
+  "updatedAt": "2026-03-31T23:31:51.699Z",
   "items": [
     {
       "rank": 1,
@@ -34,20 +34,11 @@
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/20/81/3320814c-c08e-7fdd-305d-fd0d72157321/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/c7/10/3dc7102e-70c5-cdb5-cf19-9782fd2c6cde/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "아이젠하워 매트릭스: 투두, 메모 우선순위 관리",
-      "artist": "DO YEON PARK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EC%A0%A0%ED%95%98%EC%9B%8C-%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4-%ED%88%AC%EB%91%90-%EB%A9%94%EB%AA%A8-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%EA%B4%80%EB%A6%AC/id6473735916",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/12/6b/17126b80-ba18-57a4-9c22-eee72d39687d/matrixicon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -56,7 +47,25 @@
       "price": "무료"
     },
     {
+      "rank": 6,
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/43/89/9443890e-17d2-13a5-1170-d6f0e67b5fbb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 7,
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/fe/77/0cfe77ef-7801-2942-66a3-c8226e010f59/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
@@ -65,21 +74,12 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/9b/08/189b083e-a59e-aca2-f49d-26a371134520/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 9,
-      "title": "photoism - 포토이즘",
-      "artist": "Seobuk",
+      "title": "아이젠하워 매트릭스: 투두, 메모 우선순위 관리",
+      "artist": "DO YEON PARK",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/37/a9/1137a9cd-63fc-c8f5-3c17-1fa69d72e7c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EC%A0%A0%ED%95%98%EC%9B%8C-%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4-%ED%88%AC%EB%91%90-%EB%A9%94%EB%AA%A8-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%EA%B4%80%EB%A6%AC/id6473735916",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/12/6b/17126b80-ba18-57a4-9c22-eee72d39687d/matrixicon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
