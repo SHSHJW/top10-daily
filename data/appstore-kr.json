@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T23:33:48.675Z",
+  "updatedAt": "2026-04-02T23:32:34.921Z",
   "items": [
     {
       "rank": 1,
@@ -16,7 +16,7 @@
       "artist": "Hana Bank",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/99/2a/67992ac7-4386-74ae-55c4-ac8e5f658231/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/c7/9f/acc79f1c-a6fd-a6b8-27e3-334ddc3085b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,6 +30,15 @@
     },
     {
       "rank": 4,
+      "title": "Mnet Plus",
+      "artist": "CJ ENM Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/e0/ef/58e0efcd-c54d-b647-582f-98002f16bb35/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -38,39 +47,30 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "설빙",
-      "artist": "설빙",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%84%A4%EB%B9%99/id6754139782",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/18/5e/0b185edb-a918-7488-487c-567615a3a68d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 6,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/43/89/9443890e-17d2-13a5-1170-d6f0e67b5fbb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/76/42/ec764230-710a-8160-e40c-3a31208206ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
+      "title": "실손24",
+      "artist": "Korean Insurance Development Institute Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/8b/5a/bb8b5a6c-84e5-21a2-d6a5-07ca5568c3fb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "건강보험25시",
       "artist": "국민건강보험공단",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%9825%EC%8B%9C/id375279377",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/b5/c8/3fb5c8bb-968a-8609-6b52-65e10b7eb2fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/fe/77/0cfe77ef-7801-2942-66a3-c8226e010f59/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
