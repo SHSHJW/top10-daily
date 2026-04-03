@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T23:32:34.921Z",
+  "updatedAt": "2026-04-03T23:31:53.652Z",
   "items": [
     {
       "rank": 1,
@@ -7,20 +7,11 @@
       "artist": "new chat",
       "category": "",
       "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/29/c2/5729c24a-b958-dc90-af54-cf1315e5b8fe/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/8f/e7/528fe711-52ad-1329-34d8-1c7688578379/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 2,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/c7/9f/acc79f1c-a6fd-a6b8-27e3-334ddc3085b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -29,16 +20,16 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "Mnet Plus",
-      "artist": "CJ ENM Co., Ltd.",
+      "rank": 3,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/e0/ef/58e0efcd-c54d-b647-582f-98002f16bb35/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/c7/9f/acc79f1c-a6fd-a6b8-27e3-334ddc3085b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -47,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
@@ -56,30 +47,39 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "실손24",
-      "artist": "Korean Insurance Development Institute Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/8b/5a/bb8b5a6c-84e5-21a2-d6a5-07ca5568c3fb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "건강보험25시",
-      "artist": "국민건강보험공단",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%9825%EC%8B%9C/id375279377",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/b5/c8/3fb5c8bb-968a-8609-6b52-65e10b7eb2fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "대한민국 모바일 신분증",
       "artist": "행정안전부",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/45/15/1645154f-2c55-5ac1-1d3e-82d602e68671/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "CapCut: 사진 및 동영상 에디터",
+      "artist": "Bytedance Pte. Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/capcut-%EC%82%AC%EC%A7%84-%EB%B0%8F-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%90%EB%94%94%ED%84%B0/id1500855883",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/02/88/6a0288e2-c7b4-e769-6d49-5946815508e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Threads",
+      "artist": "Instagram, Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/threads/id6446901002",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/a5/a6/fca5a6cf-33af-33d0-e4d3-8480f72ca220/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "모바일티머니",
+      "artist": "Tmoney Co., Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/9a/0f/299a0f4f-5958-c878-6443-323ac19c055b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
