@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T23:33:44.802Z",
+  "updatedAt": "2026-04-07T23:34:58.910Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "new chat",
       "category": "",
       "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/ff/26/29ff2661-c5e7-478f-60a1-09e1af6f2b7a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/46/bd/3e46bd01-2066-e3d4-f29a-cf73f85bfc5b/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -34,7 +34,7 @@
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/c7/10/3dc7102e-70c5-cdb5-cf19-9782fd2c6cde/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/48/aa/c648aa08-dbb4-d209-209e-ad773e5a7643/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,11 +48,11 @@
     },
     {
       "rank": 6,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/fe/77/0cfe77ef-7801-2942-66a3-c8226e010f59/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/76/42/ec764230-710a-8160-e40c-3a31208206ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,20 +66,20 @@
     },
     {
       "rank": 8,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/76/42/ec764230-710a-8160-e40c-3a31208206ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "CapCut: 사진 및 동영상 에디터",
       "artist": "Bytedance Pte. Ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/capcut-%EC%82%AC%EC%A7%84-%EB%B0%8F-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%90%EB%94%94%ED%84%B0/id1500855883",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/02/88/6a0288e2-c7b4-e769-6d49-5946815508e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "Threads",
+      "artist": "Instagram, Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/threads/id6446901002",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/d4/63/aed46306-c76d-6e97-0ba9-aec6f115bc33/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
