@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T23:34:58.910Z",
+  "updatedAt": "2026-04-08T23:36:08.452Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "new chat",
       "category": "",
       "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/46/bd/3e46bd01-2066-e3d4-f29a-cf73f85bfc5b/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/46/7d/46467dfc-9580-61a8-5a8a-e7dd0dc007b6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -16,7 +16,7 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/05/4a/94054a5f-2b19-e4c0-417f-4ad683e7e758/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/d7/b2/19d7b2eb-8660-9851-8279-0be84fa2fd0f/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,6 +48,15 @@
     },
     {
       "rank": 6,
+      "title": "건강보험25시",
+      "artist": "국민건강보험공단",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%9825%EC%8B%9C/id375279377",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/b5/c8/3fb5c8bb-968a-8609-6b52-65e10b7eb2fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
@@ -56,7 +65,7 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "모바일티머니",
       "artist": "Tmoney Co., Ltd",
       "category": "",
@@ -65,7 +74,7 @@
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "CapCut: 사진 및 동영상 에디터",
       "artist": "Bytedance Pte. Ltd",
       "category": "",
@@ -74,21 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "Threads",
-      "artist": "Instagram, Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/threads/id6446901002",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/d4/63/aed46306-c76d-6e97-0ba9-aec6f115bc33/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 10,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f8/8d/22f88d97-0776-74fe-6769-1851540ae0c8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/45/15/1645154f-2c55-5ac1-1d3e-82d602e68671/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
