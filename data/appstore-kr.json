@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T23:35:44.912Z",
+  "updatedAt": "2026-04-10T23:33:08.315Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "new chat",
       "category": "",
       "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/46/7d/46467dfc-9580-61a8-5a8a-e7dd0dc007b6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/ed/8e/1eed8edd-db46-1386-1b09-c2a8b34e22c8/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -16,7 +16,7 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/d7/b2/19d7b2eb-8660-9851-8279-0be84fa2fd0f/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/4d/31/da4d3178-80ba-47bc-6e9d-555801c4562f/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,15 +39,6 @@
     },
     {
       "rank": 5,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/a6/e5/21a6e55c-a5ed-10bc-f79c-30fc0be3dca8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -56,25 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "건강보험25시",
-      "artist": "국민건강보험공단",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%9825%EC%8B%9C/id375279377",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/b5/c8/3fb5c8bb-968a-8609-6b52-65e10b7eb2fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/76/42/ec764230-710a-8160-e40c-3a31208206ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "리버스톡(Reversetok) - AI 인플루언서 채팅",
       "artist": "Himaroo Company Co,. Ltd",
       "category": "",
@@ -83,12 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "CapCut: 사진 및 동영상 에디터",
-      "artist": "Bytedance Pte. Ltd",
+      "rank": 7,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/capcut-%EC%82%AC%EC%A7%84-%EB%B0%8F-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%90%EB%94%94%ED%84%B0/id1500855883",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/7b/81/ae7b8149-a291-2deb-3fda-3bb6a0748008/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/fb/6c/c8fb6c87-9da9-55ba-f35b-6536e6bd4593/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "건강보험25시",
+      "artist": "국민건강보험공단",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%9825%EC%8B%9C/id375279377",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/b5/c8/3fb5c8bb-968a-8609-6b52-65e10b7eb2fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "대한민국 모바일 신분증",
+      "artist": "행정안전부",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/45/15/1645154f-2c55-5ac1-1d3e-82d602e68671/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "모바일티머니",
+      "artist": "Tmoney Co., Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8B%B0%EB%A8%B8%EB%8B%88/id1470361790",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/6b/55/386b559e-2cdb-d9e4-a7e2-a8734f153d91/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
