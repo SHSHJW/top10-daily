@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T23:32:38.868Z",
+  "updatedAt": "2026-04-13T23:40:18.908Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "new chat",
       "category": "",
       "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/ed/8e/1eed8edd-db46-1386-1b09-c2a8b34e22c8/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/87/35/a7873582-3fb3-0d01-e939-4712003b1462/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,24 +39,6 @@
     },
     {
       "rank": 5,
-      "title": "아이젠하워 매트릭스: 투두, 메모 우선순위 관리",
-      "artist": "DO YEON PARK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EC%A0%A0%ED%95%98%EC%9B%8C-%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4-%ED%88%AC%EB%91%90-%EB%A9%94%EB%AA%A8-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%EA%B4%80%EB%A6%AC/id6473735916",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/d2/ea/83d2ea35-06b6-ee0d-e3fe-67df3fba83f0/matrixicon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "유니클로 UNIQLO - 쇼핑",
-      "artist": "UNIQLO CO., LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/19/76/dc19763c-34df-f1eb-b1ca-d8544d5a137e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -65,30 +47,48 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
+      "rank": 6,
+      "title": "아이젠하워 매트릭스: 투두, 메모 우선순위 관리",
+      "artist": "DO YEON PARK",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EC%A0%A0%ED%95%98%EC%9B%8C-%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4-%ED%88%AC%EB%91%90-%EB%A9%94%EB%AA%A8-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%EA%B4%80%EB%A6%AC/id6473735916",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/d2/ea/83d2ea35-06b6-ee0d-e3fe-67df3fba83f0/matrixicon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "유니클로 UNIQLO - 쇼핑",
+      "artist": "UNIQLO CO., LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/19/76/dc19763c-34df-f1eb-b1ca-d8544d5a137e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "하삼동커피",
+      "artist": "HASAMDONG,Inc",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EC%82%BC%EB%8F%99%EC%BB%A4%ED%94%BC/id6760605739",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/af/f0/b6aff025-3c95-d50f-29d2-bd9d75fe047e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/fe/77/0cfe77ef-7801-2942-66a3-c8226e010f59/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/76/42/ec764230-710a-8160-e40c-3a31208206ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
+      "title": "CapCut: 사진 및 동영상 에디터",
+      "artist": "Bytedance Pte. Ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f8/8d/22f88d97-0776-74fe-6769-1851540ae0c8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/capcut-%EC%82%AC%EC%A7%84-%EB%B0%8F-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%90%EB%94%94%ED%84%B0/id1500855883",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/10/31/2d103171-2703-e98f-d3ed-b35810b17f01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
