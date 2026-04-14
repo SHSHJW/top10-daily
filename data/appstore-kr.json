@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T23:40:18.908Z",
+  "updatedAt": "2026-04-14T23:39:58.553Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "new chat",
       "category": "",
       "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/87/35/a7873582-3fb3-0d01-e939-4712003b1462/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/37/47/5237471a-2728-ad9a-c02d-e7c7a63febc9/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -25,7 +25,7 @@
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/9a/02/829a027f-3afc-0b36-a50a-d58dfc38d49b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/67/a4/9e67a4f3-3462-107a-153e-7cbf33e3d217/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,29 +39,29 @@
     },
     {
       "rank": 5,
+      "title": "ACDSee Pro",
+      "artist": "ACD Systems International Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/acdsee-pro/id968591710",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/c3/7e/f5c37ea9-042d-455a-3636-d22966b00fa2/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "거지맵",
+      "artist": "Sungsu Choi",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EA%B1%B0%EC%A7%80%EB%A7%B5/id6761657166",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/c9/04/68c904c9-d4b2-9bde-3f7a-956b7aebabd8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/fb/6c/c8fb6c87-9da9-55ba-f35b-6536e6bd4593/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "아이젠하워 매트릭스: 투두, 메모 우선순위 관리",
-      "artist": "DO YEON PARK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EC%A0%A0%ED%95%98%EC%9B%8C-%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4-%ED%88%AC%EB%91%90-%EB%A9%94%EB%AA%A8-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%EA%B4%80%EB%A6%AC/id6473735916",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/d2/ea/83d2ea35-06b6-ee0d-e3fe-67df3fba83f0/matrixicon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "유니클로 UNIQLO - 쇼핑",
-      "artist": "UNIQLO CO., LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/19/76/dc19763c-34df-f1eb-b1ca-d8544d5a137e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,11 +75,11 @@
     },
     {
       "rank": 9,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
+      "title": "튼튼머니",
+      "artist": "한국체육산업개발(주)",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/76/42/ec764230-710a-8160-e40c-3a31208206ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%8A%BC%ED%8A%BC%EB%A8%B8%EB%8B%88/id6759998621",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/36/56/ed3656b0-8603-645e-2de9-b85118b068fd/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
