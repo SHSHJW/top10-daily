@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T23:39:32.022Z",
+  "updatedAt": "2026-04-16T23:38:04.361Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "new chat",
       "category": "",
       "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/37/47/5237471a-2728-ad9a-c02d-e7c7a63febc9/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/91/c5/2391c565-68e5-e72c-ff48-38682cea384d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,24 +48,15 @@
     },
     {
       "rank": 6,
-      "title": "거지맵",
-      "artist": "Sungsu Choi",
+      "title": "호식이두마리치킨",
+      "artist": "WMPO Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B1%B0%EC%A7%80%EB%A7%B5/id6761657166",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/c9/04/68c904c9-d4b2-9bde-3f7a-956b7aebabd8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%98%B8%EC%8B%9D%EC%9D%B4%EB%91%90%EB%A7%88%EB%A6%AC%EC%B9%98%ED%82%A8/id6754001698",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/99/81/b9998102-9f67-d86f-3fb4-b6ac6ed3c104/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/fb/6c/c8fb6c87-9da9-55ba-f35b-6536e6bd4593/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "대한민국 모바일 신분증",
       "artist": "행정안전부",
       "category": "",
@@ -74,21 +65,30 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
+      "rank": 8,
+      "title": "유니클로 UNIQLO - 쇼핑",
+      "artist": "UNIQLO CO., LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/f1/83/26f18317-779a-5035-91e5-0f22dee98012/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/19/76/dc19763c-34df-f1eb-b1ca-d8544d5a137e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/fb/6c/c8fb6c87-9da9-55ba-f35b-6536e6bd4593/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "CapCut: 사진 및 동영상 에디터",
-      "artist": "Bytedance Pte. Ltd",
+      "title": "LH청약플러스",
+      "artist": "한국토지주택공사",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/capcut-%EC%82%AC%EC%A7%84-%EB%B0%8F-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%90%EB%94%94%ED%84%B0/id1500855883",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/10/31/2d103171-2703-e98f-d3ed-b35810b17f01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/lh%EC%B2%AD%EC%95%BD%ED%94%8C%EB%9F%AC%EC%8A%A4/id6462396737",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/cf/ff/89cfff8f-3ed8-0bea-47bc-df8ee4010cbd/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
