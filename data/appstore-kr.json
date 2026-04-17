@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T23:38:04.361Z",
+  "updatedAt": "2026-04-17T23:36:50.904Z",
   "items": [
     {
       "rank": 1,
@@ -7,11 +7,20 @@
       "artist": "new chat",
       "category": "",
       "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/91/c5/2391c565-68e5-e72c-ff48-38682cea384d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/0f/36/c50f36a4-b298-30b5-9c37-6cd0bfd2954a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 2,
+      "title": "네이버페이",
+      "artist": "Naver Financial Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/ed/68/b0ed687d-2321-88fe-1112-314290078663/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -20,7 +29,7 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -29,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -38,7 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "배스킨라빈스-배라를 배라앱으로!",
       "artist": "BR Korea Co., Ltd.",
       "category": "",
@@ -47,30 +56,21 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "호식이두마리치킨",
-      "artist": "WMPO Inc.",
+      "rank": 7,
+      "title": "거지맵",
+      "artist": "Sungsu Choi",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%98%B8%EC%8B%9D%EC%9D%B4%EB%91%90%EB%A7%88%EB%A6%AC%EC%B9%98%ED%82%A8/id6754001698",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/99/81/b9998102-9f67-d86f-3fb4-b6ac6ed3c104/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EA%B1%B0%EC%A7%80%EB%A7%B5/id6761657166",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/c9/04/68c904c9-d4b2-9bde-3f7a-956b7aebabd8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "대한민국 모바일 신분증",
       "artist": "행정안전부",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/45/15/1645154f-2c55-5ac1-1d3e-82d602e68671/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "유니클로 UNIQLO - 쇼핑",
-      "artist": "UNIQLO CO., LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/19/76/dc19763c-34df-f1eb-b1ca-d8544d5a137e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "LH청약플러스",
-      "artist": "한국토지주택공사",
+      "title": "CapCut: 사진 및 동영상 에디터",
+      "artist": "Bytedance Pte. Ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/lh%EC%B2%AD%EC%95%BD%ED%94%8C%EB%9F%AC%EC%8A%A4/id6462396737",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/cf/ff/89cfff8f-3ed8-0bea-47bc-df8ee4010cbd/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/capcut-%EC%82%AC%EC%A7%84-%EB%B0%8F-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%90%EB%94%94%ED%84%B0/id1500855883",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/10/31/2d103171-2703-e98f-d3ed-b35810b17f01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
