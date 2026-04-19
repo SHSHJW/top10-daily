@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T23:32:40.054Z",
+  "updatedAt": "2026-04-19T23:34:12.638Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "new chat",
       "category": "",
       "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/6d/e4/176de45f-9a5b-ccfa-095c-7b5f7e0e97c5/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/24/1b/ba241bc2-f322-682b-d983-ae55531b5e08/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,15 +30,6 @@
     },
     {
       "rank": 4,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/ed/68/b0ed687d-2321-88fe-1112-314290078663/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -47,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "배스킨라빈스-배라를 배라앱으로!",
       "artist": "BR Korea Co., Ltd.",
       "category": "",
@@ -56,12 +47,21 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "OurDay - 우리의 캐릭터를 위젯 디데이로 만나기",
-      "artist": "Gaeun Lee",
+      "rank": 6,
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/ourday-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%BA%90%EB%A6%AD%ED%84%B0%EB%A5%BC-%EC%9C%84%EC%A0%AF-%EB%94%94%EB%8D%B0%EC%9D%B4%EB%A1%9C-%EB%A7%8C%EB%82%98%EA%B8%B0/id6737263796",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/22/a9/ac22a9e5-f488-5dd6-366f-fb1a4c586f2c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/8c/8d/048c8df4-65e6-8bfb-2888-3d7cc5cb9032/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "네이버페이",
+      "artist": "Naver Financial Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/ed/68/b0ed687d-2321-88fe-1112-314290078663/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,20 +75,20 @@
     },
     {
       "rank": 9,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
+      "title": "OurDay - 우리의 캐릭터를 위젯 디데이로 만나기",
+      "artist": "Gaeun Lee",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/8c/8d/048c8df4-65e6-8bfb-2888-3d7cc5cb9032/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/ourday-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%BA%90%EB%A6%AD%ED%84%B0%EB%A5%BC-%EC%9C%84%EC%A0%AF-%EB%94%94%EB%8D%B0%EC%9D%B4%EB%A1%9C-%EB%A7%8C%EB%82%98%EA%B8%B0/id6737263796",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/22/a9/ac22a9e5-f488-5dd6-366f-fb1a4c586f2c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
+      "title": "Temu: 억만장자처럼 쇼핑하기",
+      "artist": "Temu",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/temu-%EC%96%B5%EB%A7%8C%EC%9E%A5%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%87%BC%ED%95%91%ED%95%98%EA%B8%B0/id1641486558",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ef/2b/f2ef2be6-2d92-3452-0506-9274759c31f0/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
