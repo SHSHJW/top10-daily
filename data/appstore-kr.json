@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T23:34:12.638Z",
+  "updatedAt": "2026-04-20T23:40:03.478Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "new chat",
       "category": "",
       "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/24/1b/ba241bc2-f322-682b-d983-ae55531b5e08/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/bb/89/1abb89b5-af4e-e37f-bdcc-e90ae79f3525/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -21,15 +21,24 @@
     },
     {
       "rank": 3,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
+      "title": "컬처패스",
+      "artist": "Mybi Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/67/a4/9e67a4f3-3462-107a-153e-7cbf33e3d217/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%BB%AC%EC%B2%98%ED%8C%A8%EC%8A%A4/id6748126066",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/e3/16/58e3167f-f128-440c-c32a-7ea2c8fa0630/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/d9/0f/5bd90fa7-4b86-ac7d-35bd-4915484b39d1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -38,7 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "배스킨라빈스-배라를 배라앱으로!",
       "artist": "BR Korea Co., Ltd.",
       "category": "",
@@ -47,48 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/8c/8d/048c8df4-65e6-8bfb-2888-3d7cc5cb9032/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 7,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
+      "title": "데일리",
+      "artist": "Pacifiq",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/ed/68/b0ed687d-2321-88fe-1112-314290078663/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%8D%B0%EC%9D%BC%EB%A6%AC/id6737768320",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/65/6c/ee656c62-00d9-7cea-56c1-d2350873af05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "photoism - 포토이즘",
-      "artist": "Seobuk",
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/73/fc/1b73fc0c-7b21-19cf-6b21-dd5af149f5bc/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/b7/bc/a2b7bc32-c87f-b09b-6df1-0787bf4a58fc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "OurDay - 우리의 캐릭터를 위젯 디데이로 만나기",
-      "artist": "Gaeun Lee",
+      "title": "Q-Net 큐넷 (국가자격/디지털배지/전자지갑)",
+      "artist": "한국산업인력공단",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/ourday-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%BA%90%EB%A6%AD%ED%84%B0%EB%A5%BC-%EC%9C%84%EC%A0%AF-%EB%94%94%EB%8D%B0%EC%9D%B4%EB%A1%9C-%EB%A7%8C%EB%82%98%EA%B8%B0/id6737263796",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/22/a9/ac22a9e5-f488-5dd6-366f-fb1a4c586f2c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/q-net-%ED%81%90%EB%84%B7-%EA%B5%AD%EA%B0%80%EC%9E%90%EA%B2%A9-%EB%94%94%EC%A7%80%ED%84%B8%EB%B0%B0%EC%A7%80-%EC%A0%84%EC%9E%90%EC%A7%80%EA%B0%91/id6478648383",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/52/9a/c6529a5f-ae0a-01b9-f89e-b51b5b7d173d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "Temu: 억만장자처럼 쇼핑하기",
-      "artist": "Temu",
+      "title": "거지맵",
+      "artist": "Sungsu Choi",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/temu-%EC%96%B5%EB%A7%8C%EC%9E%A5%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%87%BC%ED%95%91%ED%95%98%EA%B8%B0/id1641486558",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ef/2b/f2ef2be6-2d92-3452-0506-9274759c31f0/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EA%B1%B0%EC%A7%80%EB%A7%B5/id6761657166",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/74/89/487489a0-fd05-2fd0-5cc2-bff0a0207ceb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
