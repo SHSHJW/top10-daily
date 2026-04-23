@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T23:42:57.548Z",
+  "updatedAt": "2026-04-23T23:42:19.106Z",
   "items": [
     {
       "rank": 1,
@@ -52,7 +52,7 @@
       "artist": "Mybi Co., Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EC%BB%AC%EC%B2%98%ED%8C%A8%EC%8A%A4/id6748126066",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/e3/16/58e3167f-f128-440c-c32a-7ea2c8fa0630/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/d7/b2/f7d7b25c-255b-1ff3-6f71-21c5f74e4519/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,29 +66,29 @@
     },
     {
       "rank": 8,
-      "title": "데일리",
-      "artist": "Pacifiq",
+      "title": "MUJI KR",
+      "artist": "MUJI KOREA CO.,LTD",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8D%B0%EC%9D%BC%EB%A6%AC/id6737768320",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/65/6c/ee656c62-00d9-7cea-56c1-d2350873af05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/a2/7e/fca27e12-148d-6e90-21ae-62bbf6b92b1f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
+      "title": "NH올원뱅크(농협은행 대표 플랫폼)",
+      "artist": "NH농협은행",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/45/d6/1b45d659-d8bf-94b0-dfa6-0449fc565333/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nh%EC%98%AC%EC%9B%90%EB%B1%85%ED%81%AC-%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89-%EB%8C%80%ED%91%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1641628055",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/a2/ec/bca2ec62-1c7f-072b-bcf4-0d06234df5d1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "CapCut: 사진 및 동영상 에디터",
-      "artist": "Bytedance Pte. Ltd",
+      "title": "건강보험25시",
+      "artist": "국민건강보험공단",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/capcut-%EC%82%AC%EC%A7%84-%EB%B0%8F-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%90%EB%94%94%ED%84%B0/id1500855883",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/53/a6/e453a62c-295b-64d0-f8a7-8775b95ca238/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%9825%EC%8B%9C/id375279377",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/9a/35/4a9a355b-d0ae-a5bd-dd43-4463172d3199/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
