@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T23:40:13.082Z",
+  "updatedAt": "2026-05-03T23:42:01.072Z",
   "items": [
     {
       "rank": 1,
@@ -12,33 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/ad/25/c0ad25f5-c5f8-75a3-dcab-3849654e09f8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
-      "title": "MUJI KR",
-      "artist": "MUJI KOREA CO.,LTD",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/a2/7e/fca27e12-148d-6e90-21ae-62bbf6b92b1f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "기리고",
-      "artist": "KWONSIWON",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B8%B0%EB%A6%AC%EA%B3%A0/id6749406672",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/4e/9c/ef4e9c32-a212-ea44-d1d6-dcad43f453b4/PremiereAppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "국세청 홈택스 [손택스]",
       "artist": "국세청",
       "category": "",
@@ -47,16 +20,34 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
+      "rank": 3,
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/ad/25/c0ad25f5-c5f8-75a3-dcab-3849654e09f8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "title": "MUJI KR",
+      "artist": "MUJI KOREA CO.,LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/a2/7e/fca27e12-148d-6e90-21ae-62bbf6b92b1f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "기리고",
+      "artist": "KWONSIWON",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EA%B8%B0%EB%A6%AC%EA%B3%A0/id6749406672",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/4e/9c/ef4e9c32-a212-ea44-d1d6-dcad43f453b4/PremiereAppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -65,12 +56,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "캐치테이블",
-      "artist": "WADcorp",
+      "rank": 7,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/c4/08/76c40845-4371-9af3-adb6-cd49dbdc8136/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/45/d6/1b45d659-d8bf-94b0-dfa6-0449fc565333/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "CHAGEE",
-      "artist": "TEA EXPLORER PTE. LTD.",
+      "title": "세븐일레븐",
+      "artist": "Korea Seven Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chagee/id6502439682",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/df/62/0adf62ca-108a-0b44-8fe4-77bf45beb87f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90/id1253773772",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/b7/7f/4ab77fd0-b04a-15dc-7300-117166721749/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
