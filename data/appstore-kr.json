@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T23:50:29.981Z",
+  "updatedAt": "2026-05-11T23:55:52.084Z",
   "items": [
     {
       "rank": 1,
@@ -7,11 +7,20 @@
       "artist": "new chat",
       "category": "",
       "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/58/b2/5e58b25b-d379-1cee-7ffd-05f8697d068d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/66/44/ed66446b-5f02-f66d-3a8a-8a32432b96a8/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 2,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/09/d2/4409d24e-1a48-2cb9-0444-d93f4189c15f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -20,16 +29,25 @@
       "price": "무료"
     },
     {
-      "rank": 3,
-      "title": "Vigloo - 숏폼드라마",
-      "artist": "Spoonlabs, Inc.",
+      "rank": 4,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/bc/2b/99bc2b39-8de9-a674-1b97-39049be4ab96/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/80/30/6f8030ce-acbe-033e-1498-2e83db6c5359/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "미래에셋증권 M-STOCK",
+      "artist": "Mirae Asset Securities Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-m-stock/id1248716281",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/45/0f/e5450fc5-770c-1f9c-4050-07f23ebe6d78/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
       "title": "기리고",
       "artist": "KWONSIWON",
       "category": "",
@@ -38,57 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "겸사겸사",
-      "artist": "PINCRUX",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B2%B8%EC%82%AC%EA%B2%B8%EC%82%AC/id6751875525",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/3d/ae/dd3daed0-e1fd-d204-abc9-110d2f6dfb75/AppIconGlass-bokyemtv-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/34/36/233436d0-d6f0-a99e-2a89-ac41dbe26baa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 7,
-      "title": "Kling AI: AI Image&Video Maker",
-      "artist": "LOHAS GAMES PTE.LTD.",
+      "title": "Vigloo - 숏폼드라마",
+      "artist": "Spoonlabs, Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/kling-ai-ai-image-video-maker/id6738049229",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/80/33/3580335b-fef6-48c7-0f83-ac40ce3c8f3c/AppIconKlingabroad-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/bc/2b/99bc2b39-8de9-a674-1b97-39049be4ab96/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "Hailuo AI: 이미지·영상 생성",
-      "artist": "NANONOBLE PTE. LTD.",
+      "title": "KD헬스케어",
+      "artist": "KDhealthcare Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/hailuo-ai-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%98%81%EC%83%81-%EC%83%9D%EC%84%B1/id6741675037",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/90/76/2f9076c1-9915-69fe-f068-284c07456d25/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/kd%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4/id6749523533",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/e3/e3/abe3e3d2-5960-8550-b91c-0dc57d2d0179/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "title": "네이버페이",
+      "artist": "Naver Financial Corporation",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/0f/39/cf0f3930-2451-b15d-4bb4-94759dad5ce8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/dc/6d/4cdc6de4-2561-a7fd-7f8a-20e75f413223/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
+      "title": "나의건강기록",
+      "artist": "MINISTRY OF HEALTH & WELFARE",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/09/d2/4409d24e-1a48-2cb9-0444-d93f4189c15f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%82%98%EC%9D%98%EA%B1%B4%EA%B0%95%EA%B8%B0%EB%A1%9D/id1580017428",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e5/22/82e522ed-baba-5c20-6cb4-add81e96d463/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
