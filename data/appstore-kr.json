@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T23:57:35.990Z",
+  "updatedAt": "2026-05-13T23:55:33.906Z",
   "items": [
     {
       "rank": 1,
@@ -16,7 +16,7 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/81/23/dc81230b-2631-6abd-bbd4-c40cab5c4eb8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/6e/68/426e682c-f090-bec6-0a6e-f9fb3b3f9540/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,15 +30,6 @@
     },
     {
       "rank": 4,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/dc/6d/4cdc6de4-2561-a7fd-7f8a-20e75f413223/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -47,7 +38,25 @@
       "price": "무료"
     },
     {
+      "rank": 5,
+      "title": "네이버페이",
+      "artist": "Naver Financial Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/dc/6d/4cdc6de4-2561-a7fd-7f8a-20e75f413223/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 6,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "미래에셋증권 M-STOCK",
       "artist": "Mirae Asset Securities Co., Ltd.",
       "category": "",
@@ -56,7 +65,7 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "국세청 홈택스 [손택스]",
       "artist": "국세청",
       "category": "",
@@ -65,30 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "기리고",
-      "artist": "KWONSIWON",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B8%B0%EB%A6%AC%EA%B3%A0/id6749406672",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/4e/9c/ef4e9c32-a212-ea44-d1d6-dcad43f453b4/PremiereAppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 9,
-      "title": "Vigloo - 숏폼드라마",
-      "artist": "Spoonlabs, Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/bc/2b/99bc2b39-8de9-a674-1b97-39049be4ab96/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/0f/39/cf0f3930-2451-b15d-4bb4-94759dad5ce8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "기리고",
+      "artist": "KWONSIWON",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EA%B8%B0%EB%A6%AC%EA%B3%A0/id6749406672",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/4e/9c/ef4e9c32-a212-ea44-d1d6-dcad43f453b4/PremiereAppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
