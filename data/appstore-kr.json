@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-05-20T00:02:54.451Z",
+  "updatedAt": "2026-05-21T00:05:03.979Z",
   "items": [
     {
       "rank": 1,
+      "title": "Apple Sports",
+      "artist": "Apple",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/apple-sports/id6446788829",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/2a/ca/252aca24-e060-957d-b13c-4e3e9d348c70/AppIcon-0-1x_U007ephone-0-0-0-1-0-P3-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
       "title": "setlog",
       "artist": "new chat",
       "category": "",
@@ -11,7 +20,7 @@
       "price": "무료"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -20,34 +29,34 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "핑퐁 Pingpong",
       "artist": "YOUNKYUM JIN",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%95%91%ED%90%81-pingpong/id6761013824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/f6/b1/1cf6b18f-1e00-430d-8c37-8bc514856c50/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "N x N: 당신이 사랑한 순간들",
-      "artist": "Pepper Factory",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/n-x-n-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%88%9C%EA%B0%84%EB%93%A4/id6765649669",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/6f/43/c56f4324-52eb-a79e-3a2b-c41f78d5539b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/d9/71/0fd97151-5f5b-6d42-a01f-02fed564c90f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
+      "title": "Vigloo - 숏폼드라마",
+      "artist": "Spoonlabs, Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/27/25/6227259f-86e5-27aa-1a27-d944a140b757/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/bc/2b/99bc2b39-8de9-a674-1b97-39049be4ab96/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
+      "title": "N x N: 당신이 사랑한 순간들",
+      "artist": "Pepper Factory",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/n-x-n-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%88%9C%EA%B0%84%EB%93%A4/id6765649669",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d6/53/05d653d6-428b-558a-1a19-decb4aa7516b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -56,7 +65,16 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/27/25/6227259f-86e5-27aa-1a27-d944a140b757/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "건강보험25시",
       "artist": "국민건강보험공단",
       "category": "",
@@ -65,30 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "Ralph Lauren- 랄프 로렌 앱",
-      "artist": "Ralph Lauren Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/ralph-lauren-%EB%9E%84%ED%94%84-%EB%A1%9C%EB%A0%8C-%EC%95%B1/id6761515266",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/7b/89/797b8966-d828-2645-f1c6-7c6f4097d3fa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "패스오더 - 카페 가는 길, 미리주문",
       "artist": "Paytalab",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%8C%A8%EC%8A%A4%EC%98%A4%EB%8D%94-%EC%B9%B4%ED%8E%98-%EA%B0%80%EB%8A%94-%EA%B8%B8-%EB%AF%B8%EB%A6%AC%EC%A3%BC%EB%AC%B8/id1350702018",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/86/43/e0864373-e81f-12b3-05d5-1505044be755/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "국세청 홈택스 [손택스]",
-      "artist": "국세청",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B5%AD%EC%84%B8%EC%B2%AD-%ED%99%88%ED%83%9D%EC%8A%A4-%EC%86%90%ED%83%9D%EC%8A%A4/id495157796",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/cd/d2/6bcdd251-6dd1-796f-7184-21aa3e8be695/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/0b/8a/f00b8a81-3552-f145-a156-054e7444f1e0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
