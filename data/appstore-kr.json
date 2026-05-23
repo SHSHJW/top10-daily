@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T00:05:00.402Z",
+  "updatedAt": "2026-05-23T23:55:02.690Z",
   "items": [
     {
       "rank": 1,
@@ -12,33 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/36/59/45365963-8663-7bca-d951-6532e59d2d24/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
-      "title": "K-패스",
-      "artist": "교통안전공단",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/k-%ED%8C%A8%EC%8A%A4/id1538531939",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1f/13/221f137a-2c68-e7d7-41cf-d0425830a9ce/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/46/09/db46098d-4679-79e2-b6f1-646fcd949c00/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "Vigloo - 숏폼드라마",
       "artist": "Spoonlabs, Inc.",
       "category": "",
@@ -47,25 +20,25 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "Apple Sports",
-      "artist": "Apple",
+      "rank": 3,
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/apple-sports/id6446788829",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/2a/ca/252aca24-e060-957d-b13c-4e3e9d348c70/AppIcon-0-1x_U007ephone-0-0-0-1-0-P3-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/36/59/45365963-8663-7bca-d951-6532e59d2d24/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "monimo (모니모, 삼성금융네트웍스)",
-      "artist": "Samsungcard Co., Ltd.",
+      "rank": 4,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/monimo-%EB%AA%A8%EB%8B%88%EB%AA%A8-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4/id379577046",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/48/35/3948356c-4f0e-3e02-0df2-6cc614cd862f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -74,21 +47,48 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "빽다방",
-      "artist": "더본코리아",
+      "rank": 6,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%B9%BD%EB%8B%A4%EB%B0%A9/id1423434541",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/99/96/3e999606-39ed-12dd-0702-c7fe2873ac3d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/46/09/db46098d-4679-79e2-b6f1-646fcd949c00/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "title": "Apple Sports",
+      "artist": "Apple",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/apple-sports/id6446788829",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/2a/ca/252aca24-e060-957d-b13c-4e3e9d348c70/AppIcon-0-1x_U007ephone-0-0-0-1-0-P3-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "패스오더 - 카페 가는 길, 미리주문",
       "artist": "Paytalab",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%8C%A8%EC%8A%A4%EC%98%A4%EB%8D%94-%EC%B9%B4%ED%8E%98-%EA%B0%80%EB%8A%94-%EA%B8%B8-%EB%AF%B8%EB%A6%AC%EC%A3%BC%EB%AC%B8/id1350702018",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/0b/8a/f00b8a81-3552-f145-a156-054e7444f1e0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "monimo (모니모, 삼성금융네트웍스)",
+      "artist": "Samsungcard Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/monimo-%EB%AA%A8%EB%8B%88%EB%AA%A8-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4/id379577046",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/48/35/3948356c-4f0e-3e02-0df2-6cc614cd862f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "photoism - 포토이즘",
+      "artist": "Seobuk",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/ca/0f/bbca0f38-1057-daeb-da84-a8895d0d0bce/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
