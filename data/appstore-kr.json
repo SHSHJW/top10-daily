@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T23:58:05.214Z",
+  "updatedAt": "2026-05-26T00:03:32.530Z",
   "items": [
     {
       "rank": 1,
@@ -12,20 +12,20 @@
     },
     {
       "rank": 2,
-      "title": "Vigloo - 숏폼드라마",
-      "artist": "Spoonlabs, Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/ca/dc/d5cadc7b-95ee-a6e6-1d27-a721bdb802db/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/36/59/45365963-8663-7bca-d951-6532e59d2d24/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "Vigloo - 숏폼드라마",
+      "artist": "Spoonlabs, Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/ca/dc/d5cadc7b-95ee-a6e6-1d27-a721bdb802db/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,20 +75,20 @@
     },
     {
       "rank": 9,
-      "title": "캐치테이블",
-      "artist": "WADcorp",
+      "title": "유니클로 UNIQLO - 쇼핑",
+      "artist": "UNIQLO CO., LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/81/82/43818271-76ce-2d0c-2d81-9d62d15f6592/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/0d/f5/fb0df5d2-1fb9-4e3a-b8f8-dc6d8316cf3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
+      "title": "Temu: 억만장자처럼 쇼핑하기",
+      "artist": "Temu",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/46/09/db46098d-4679-79e2-b6f1-646fcd949c00/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/temu-%EC%96%B5%EB%A7%8C%EC%9E%A5%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%87%BC%ED%95%91%ED%95%98%EA%B8%B0/id1641486558",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/81/11/c481117d-0adf-2d34-2c2f-06b14bd71564/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
