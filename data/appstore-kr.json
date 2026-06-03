@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T00:11:45.510Z",
+  "updatedAt": "2026-06-03T00:25:32.672Z",
   "items": [
     {
       "rank": 1,
@@ -12,6 +12,15 @@
     },
     {
       "rank": 2,
+      "title": "오렌즈",
+      "artist": "STARVISION CO., LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%98%A4%EB%A0%8C%EC%A6%88/id1071031131",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/8c/93/928c93ab-d2bf-3c31-3de6-260343833225/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -20,34 +29,7 @@
       "price": "무료"
     },
     {
-      "rank": 3,
-      "title": "setlog",
-      "artist": "new chat",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/0b/c5/af0bc5a8-990d-2108-3c68-cdd607d04843/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 4,
-      "title": "올리브영",
-      "artist": "CJ Olive Young Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/1f/c2/661fc2c6-0c52-a871-cb19-1033da5d0943/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "유니클로 UNIQLO - 쇼핑",
-      "artist": "UNIQLO CO., LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/0d/f5/fb0df5d2-1fb9-4e3a-b8f8-dc6d8316cf3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -56,25 +38,16 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "MindBridge 마인드브릿지 - 마음 질문 다이어리",
-      "artist": "PREST",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/mindbridge-%EB%A7%88%EC%9D%B8%EB%93%9C%EB%B8%8C%EB%A6%BF%EC%A7%80-%EB%A7%88%EC%9D%8C-%EC%A7%88%EB%AC%B8-%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/id6478144221",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/de/41/acde4177-9cce-a564-97b0-db935572b6c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/27/4b/3d274bc1-165f-0613-ed3a-26585b712f7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/6d/22/bd6d2240-8ddf-6cd4-f55a-fc74122c96a4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "K-패스",
       "artist": "교통안전공단",
       "category": "",
@@ -83,12 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "title": "올리브영",
+      "artist": "CJ Olive Young Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/1f/c2/661fc2c6-0c52-a871-cb19-1033da5d0943/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "패스오더 - 카페 가는 길, 미리주문",
       "artist": "Paytalab",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%8C%A8%EC%8A%A4%EC%98%A4%EB%8D%94-%EC%B9%B4%ED%8E%98-%EA%B0%80%EB%8A%94-%EA%B8%B8-%EB%AF%B8%EB%A6%AC%EC%A3%BC%EB%AC%B8/id1350702018",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/e9/dc/a3e9dc8c-426f-3623-4e63-d8d985c80f9d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "유니클로 UNIQLO - 쇼핑",
+      "artist": "UNIQLO CO., LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/0d/f5/fb0df5d2-1fb9-4e3a-b8f8-dc6d8316cf3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "헤이딜러 – 인증중고차, 내차팔기, 시세",
+      "artist": "PRND Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EC%9D%B8%EC%A6%9D%EC%A4%91%EA%B3%A0%EC%B0%A8-%EB%82%B4%EC%B0%A8%ED%8C%94%EA%B8%B0-%EC%8B%9C%EC%84%B8/id980166975",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/2e/30/b42e30f7-a4da-34a5-0662-d5462c78aff3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
