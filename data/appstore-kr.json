@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-04T00:28:28.180Z",
+  "updatedAt": "2026-06-05T00:04:41.763Z",
   "items": [
     {
       "rank": 1,
-      "title": "KBO",
-      "artist": "Sports2i Co., Ltd.",
+      "title": "NOL 티켓",
+      "artist": "Interpark INT",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/kbo/id1453364248",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/52/fd/1852fd7e-3526-908c-3bda-2191eeda88e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nol-%ED%8B%B0%EC%BC%93/id440487844",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/15/67/0815678e-969b-58fa-6918-c4f6aace3b29/appIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -16,7 +16,7 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/35/31/493531dc-c989-b4ff-712f-19b372e1565b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/4b/23/554b2385-4db1-39b8-7756-b1d4ab1f8bc1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,29 +30,29 @@
     },
     {
       "rank": 4,
-      "title": "헤이딜러 – 인증중고차, 내차팔기, 시세",
-      "artist": "PRND Corp.",
+      "title": "KBO",
+      "artist": "Sports2i Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EC%9D%B8%EC%A6%9D%EC%A4%91%EA%B3%A0%EC%B0%A8-%EB%82%B4%EC%B0%A8%ED%8C%94%EA%B8%B0-%EC%8B%9C%EC%84%B8/id980166975",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/2e/30/b42e30f7-a4da-34a5-0662-d5462c78aff3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/kbo/id1453364248",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/52/fd/1852fd7e-3526-908c-3bda-2191eeda88e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/96/18/d59618dd-3cb2-dd94-9156-b4ca2bcc06fc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/6d/22/bd6d2240-8ddf-6cd4-f55a-fc74122c96a4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "올리브영",
-      "artist": "CJ Olive Young Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/1f/c2/661fc2c6-0c52-a871-cb19-1033da5d0943/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,29 +66,29 @@
     },
     {
       "rank": 8,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/40/aa/d640aa99-18f0-f345-8bce-f482d2eb7970/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "오렌즈",
-      "artist": "STARVISION CO., LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%98%A4%EB%A0%8C%EC%A6%88/id1071031131",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/8c/93/928c93ab-d2bf-3c31-3de6-260343833225/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "패스오더 - 카페 가는 길, 미리주문",
       "artist": "Paytalab",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%8C%A8%EC%8A%A4%EC%98%A4%EB%8D%94-%EC%B9%B4%ED%8E%98-%EA%B0%80%EB%8A%94-%EA%B8%B8-%EB%AF%B8%EB%A6%AC%EC%A3%BC%EB%AC%B8/id1350702018",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/e9/dc/a3e9dc8c-426f-3623-4e63-d8d985c80f9d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "올리브영",
+      "artist": "CJ Olive Young Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/1f/c2/661fc2c6-0c52-a871-cb19-1033da5d0943/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "U+tv모바일",
+      "artist": "LG Uplus",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/u-tv%EB%AA%A8%EB%B0%94%EC%9D%BC/id1637815745",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/a0/29/73a029f8-234d-909c-f409-48399c846f2e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
