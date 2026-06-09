@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-06-08T00:04:39.548Z",
+  "updatedAt": "2026-06-09T00:03:37.965Z",
   "items": [
     {
       "rank": 1,
+      "title": "런데이:즐겁게 달리기, 만보기, 계단, 등산 코칭 PT",
+      "artist": "TTAM",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%B0%EB%8D%B0%EC%9D%B4-%EC%A6%90%EA%B2%81%EA%B2%8C-%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EB%A7%8C%EB%B3%B4%EA%B8%B0-%EA%B3%84%EB%8B%A8-%EB%93%B1%EC%82%B0-%EC%BD%94%EC%B9%AD-pt/id1042937618",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/d8/14/30d81417-543d-1975-49e0-ed15eebe0369/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -11,16 +20,16 @@
       "price": "무료"
     },
     {
-      "rank": 2,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
+      "rank": 3,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/3e/4e/3c3e4e82-dde7-ca80-f5b3-daf25d68e235/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/96/18/d59618dd-3cb2-dd94-9156-b4ca2bcc06fc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -29,7 +38,25 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "플로우 가계부 AI",
+      "artist": "Yeonwoo Lee",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B0%80%EA%B3%84%EB%B6%80-ai/id6740095566",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/62/fa/fb62fa03-e0d9-f2b9-5add-5d2b716fbb65/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/9f/52/899f5206-e79a-9e76-fda5-a5f714853a6b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "패스오더 - 카페 가는 길, 미리주문",
       "artist": "Paytalab",
       "category": "",
@@ -38,57 +65,30 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "Threads",
-      "artist": "Instagram, Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/threads/id6446901002",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/8d/03/828d0384-e59f-86a9-6d60-7d9d99ce7a82/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "Vigloo - 숏폼드라마",
-      "artist": "Spoonlabs, Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/b2/d4/46b2d446-489d-113e-e01b-32b563a34b3d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "알라미 - 무조건 깨워주는 알람 시계",
-      "artist": "Delight Room Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%95%8C%EB%9D%BC%EB%AF%B8-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EA%B9%A8%EC%9B%8C%EC%A3%BC%EB%8A%94-%EC%95%8C%EB%9E%8C-%EC%8B%9C%EA%B3%84/id1163786766",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/76/d6/1176d6d6-1811-7f27-16fe-3c8d78e0d7d6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 8,
-      "title": "29CM",
-      "artist": "29CM",
+      "title": "K-패스",
+      "artist": "교통안전공단",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/29cm/id789634744",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/39/63/2139639b-8279-5a72-b0ef-a687b4b66875/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/k-%ED%8C%A8%EC%8A%A4/id1538531939",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1f/13/221f137a-2c68-e7d7-41cf-d0425830a9ce/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "올리브영",
-      "artist": "CJ Olive Young Corporation",
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/1c/8d/781c8d74-049a-fc8a-c031-00d81cb25c70/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/3f/ca/7c3fca2b-2352-9cca-bfc7-aa23a06a30e6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
+      "title": "Threads",
+      "artist": "Instagram, Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/fb/ae/a6fbaeb0-63bd-e3cb-1863-76cb677321d2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/threads/id6446901002",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/24/a0/9a24a041-cd76-09cc-c1f4-c2d9da14a483/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
