@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-06-09T00:03:37.965Z",
+  "updatedAt": "2026-06-10T00:10:54.599Z",
   "items": [
     {
       "rank": 1,
-      "title": "런데이:즐겁게 달리기, 만보기, 계단, 등산 코칭 PT",
-      "artist": "TTAM",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%9F%B0%EB%8D%B0%EC%9D%B4-%EC%A6%90%EA%B2%81%EA%B2%8C-%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EB%A7%8C%EB%B3%B4%EA%B8%B0-%EA%B3%84%EB%8B%A8-%EB%93%B1%EC%82%B0-%EC%BD%94%EC%B9%AD-pt/id1042937618",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/d8/14/30d81417-543d-1975-49e0-ed15eebe0369/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -20,7 +11,7 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -29,7 +20,25 @@
       "price": "무료"
     },
     {
+      "rank": 3,
+      "title": "핑퐁 Pingpong",
+      "artist": "YOUNKYUM JIN",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%91%ED%90%81-pingpong/id6761013824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/88/17/50881707-2ef5-b3e2-3028-c66dbad46a38/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 4,
+      "title": "런데이:즐겁게 달리기, 만보기, 계단, 등산 코칭 PT",
+      "artist": "TTAM",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%B0%EB%8D%B0%EC%9D%B4-%EC%A6%90%EA%B2%81%EA%B2%8C-%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EB%A7%8C%EB%B3%B4%EA%B8%B0-%EA%B3%84%EB%8B%A8-%EB%93%B1%EC%82%B0-%EC%BD%94%EC%B9%AD-pt/id1042937618",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/d8/14/30d81417-543d-1975-49e0-ed15eebe0369/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -38,34 +47,34 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "플로우 가계부 AI",
-      "artist": "Yeonwoo Lee",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B0%80%EA%B3%84%EB%B6%80-ai/id6740095566",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/62/fa/fb62fa03-e0d9-f2b9-5add-5d2b716fbb65/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 6,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
+      "title": "맘스터치",
+      "artist": "Haimarrow Food Service",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/9f/52/899f5206-e79a-9e76-fda5-a5f714853a6b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%A7%98%EC%8A%A4%ED%84%B0%EC%B9%98/id6475806498",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/72/87/6372870a-a48a-95e4-7368-3e775242f81d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "패스오더 - 카페 가는 길, 미리주문",
-      "artist": "Paytalab",
+      "title": "Focus Town: Study With Friends",
+      "artist": "Second Round Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%8C%A8%EC%8A%A4%EC%98%A4%EB%8D%94-%EC%B9%B4%ED%8E%98-%EA%B0%80%EB%8A%94-%EA%B8%B8-%EB%AF%B8%EB%A6%AC%EC%A3%BC%EB%AC%B8/id1350702018",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/e9/dc/a3e9dc8c-426f-3623-4e63-d8d985c80f9d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/focus-town-study-with-friends/id6758457625",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/79/8d/a7798d1f-61d5-a144-9ff4-cac40f755c2c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
+      "title": "패스오더 - 카페 가는 길, 미리주문",
+      "artist": "Paytalab",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%8C%A8%EC%8A%A4%EC%98%A4%EB%8D%94-%EC%B9%B4%ED%8E%98-%EA%B0%80%EB%8A%94-%EA%B8%B8-%EB%AF%B8%EB%A6%AC%EC%A3%BC%EB%AC%B8/id1350702018",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/21/dd/5721dd21-185f-7b6d-5529-e2156d258c7c/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "K-패스",
       "artist": "교통안전공단",
       "category": "",
@@ -74,21 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/3f/ca/7c3fca2b-2352-9cca-bfc7-aa23a06a30e6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 10,
-      "title": "Threads",
-      "artist": "Instagram, Inc.",
+      "title": "monimo(삼성금융통합앱)생명 화재 카드 증권 모니모",
+      "artist": "Samsungcard Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/threads/id6446901002",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/24/a0/9a24a041-cd76-09cc-c1f4-c2d9da14a483/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/monimo-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%ED%86%B5%ED%95%A9%EC%95%B1-%EC%83%9D%EB%AA%85-%ED%99%94%EC%9E%AC-%EC%B9%B4%EB%93%9C-%EC%A6%9D%EA%B6%8C-%EB%AA%A8%EB%8B%88%EB%AA%A8/id379577046",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a1/66/b4a16682-ce9d-18f8-b9f1-dbd74a109af0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
