@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T00:18:17.744Z",
+  "updatedAt": "2026-06-14T00:03:55.362Z",
   "items": [
     {
       "rank": 1,
@@ -12,15 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "JTBC NOW",
-      "artist": "JTBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/jtbc-now/id535074178",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/59/1e/86591e77-0b44-57ab-0126-70cfc5c5c396/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -29,16 +20,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/0c/6b/fb0c6b29-ff76-1151-8870-3f5ff0d39b8b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -47,48 +29,66 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "지금하는공구 - 인스타 공동구매 검색기",
-      "artist": "YECHAN KIM",
+      "rank": 4,
+      "title": "Radio Garden Live",
+      "artist": "Radio Garden B.V.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%A7%80%EA%B8%88%ED%95%98%EB%8A%94%EA%B3%B5%EA%B5%AC-%EC%9D%B8%EC%8A%A4%ED%83%80-%EA%B3%B5%EB%8F%99%EA%B5%AC%EB%A7%A4-%EA%B2%80%EC%83%89%EA%B8%B0/id6761933137",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/a3/07/cda3073b-08da-2de7-9a12-216e3193bad5/app-icon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/radio-garden-live/id1339670993",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/d8/9f/3dd89f28-9baa-a7ca-f326-d8a51e29ec76/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/9f/52/899f5206-e79a-9e76-fda5-a5f714853a6b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/0c/6b/fb0c6b29-ff76-1151-8870-3f5ff0d39b8b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "KBS+",
-      "artist": "KBS Media Co.",
+      "title": "JTBC NOW",
+      "artist": "JTBC",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/kbs/id462725252",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/76/e8/7076e8a2-105b-5988-4868-927540ffc27f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/jtbc-now/id535074178",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/59/1e/86591e77-0b44-57ab-0126-70cfc5c5c396/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "U+tv모바일",
-      "artist": "LG Uplus",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/u-tv%EB%AA%A8%EB%B0%94%EC%9D%BC/id1637815745",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/a0/29/73a029f8-234d-909c-f409-48399c846f2e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "맘스터치",
-      "artist": "Haimarrow Food Service",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%A7%98%EC%8A%A4%ED%84%B0%EC%B9%98/id6475806498",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/72/87/6372870a-a48a-95e4-7368-3e775242f81d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "네이버페이",
       "artist": "Naver Financial Corporation",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/fb/41/fcfb4192-1bf1-e0ec-7754-b0969a0f1540/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "Threads",
+      "artist": "Instagram, Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/threads/id6446901002",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/24/a0/9a24a041-cd76-09cc-c1f4-c2d9da14a483/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "photoism - 포토이즘",
+      "artist": "Seobuk",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/21/9f/cd219f05-ce64-d9de-78a0-5ec600fa367f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
