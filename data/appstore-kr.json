@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T00:05:57.148Z",
+  "updatedAt": "2026-06-16T00:28:06.313Z",
   "items": [
     {
       "rank": 1,
@@ -12,11 +12,11 @@
     },
     {
       "rank": 2,
-      "title": "ReFrame: Multi-Angle Recorder",
-      "artist": "DAMIEN, NATHANAEL ELLEDGE",
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/reframe-multi-angle-recorder/id6761393678",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/fb/eb/51fbeb3a-c1b7-2863-3f3d-5aa8e1fa303e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/c6/a3/a9c6a3d3-da87-9c4a-5264-9ca6e9a57e63/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,33 +30,24 @@
     },
     {
       "rank": 4,
-      "title": "Radio Garden Live",
-      "artist": "Radio Garden B.V.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/radio-garden-live/id1339670993",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/d8/9f/3dd89f28-9baa-a7ca-f326-d8a51e29ec76/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/c6/a3/a9c6a3d3-da87-9c4a-5264-9ca6e9a57e63/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/3a/d1/2e3ad179-9b94-5349-c0ac-a7cb14d60082/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/08/65/480865cc-bab6-af9c-5618-6c8c76e71677/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/0c/6b/fb0c6b29-ff76-1151-8870-3f5ff0d39b8b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
       "title": "NetShort - 인기 드라마 및 TV 프로그램",
       "artist": "NETSTORY PTE. LTD.",
       "category": "",
@@ -65,21 +56,30 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
+      "rank": 7,
+      "title": "ReFrame: Multi-Angle Recorder",
+      "artist": "DAMIEN, NATHANAEL ELLEDGE",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/fb/41/fcfb4192-1bf1-e0ec-7754-b0969a0f1540/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/reframe-multi-angle-recorder/id6761393678",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/fb/eb/51fbeb3a-c1b7-2863-3f3d-5aa8e1fa303e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Radio Garden Live",
+      "artist": "Radio Garden B.V.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/radio-garden-live/id1339670993",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/d8/9f/3dd89f28-9baa-a7ca-f326-d8a51e29ec76/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "Threads",
-      "artist": "Instagram, Inc.",
+      "title": "NOL(야놀자)",
+      "artist": "YANOLJA CO.,LTD",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/threads/id6446901002",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/24/a0/9a24a041-cd76-09cc-c1f4-c2d9da14a483/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90/id436731843",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/85/ca/2e85ca53-1243-faac-ea3d-7c03c2ca9200/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
