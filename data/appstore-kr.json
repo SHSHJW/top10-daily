@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T00:13:55.518Z",
+  "updatedAt": "2026-06-18T00:13:56.774Z",
   "items": [
     {
       "rank": 1,
@@ -21,6 +21,15 @@
     },
     {
       "rank": 3,
+      "title": "Shardee 샤디 | mini vlog camera",
+      "artist": "DIARO",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/shardee-%EC%83%A4%EB%94%94-mini-vlog-camera/id6739505769",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/2d/a6/3d2da61d-b735-376d-02c2-e5f4df593662/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -29,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -38,7 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "알라미 - 무조건 깨워주는 알람 시계",
       "artist": "Delight Room Co., Ltd.",
       "category": "",
@@ -47,34 +56,7 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/9f/52/899f5206-e79a-9e76-fda5-a5f714853a6b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 7,
-      "title": "빅이닝 - 야구 실시간 스코어",
-      "artist": "hyung jun park",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%B9%85%EC%9D%B4%EB%8B%9D-%EC%95%BC%EA%B5%AC-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%EC%BD%94%EC%96%B4/id6767420774",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/fa/8b/cbfa8b5a-abf6-16d6-714f-98a13301ff11/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "PDF보내요",
-      "artist": "se hwan cha",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/pdf%EB%B3%B4%EB%82%B4%EC%9A%94/id6780136280",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/3d/d9/2e3dd9d6-5610-08a3-cd36-6e79f9788147/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -83,12 +65,30 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "monimo(삼성금융통합앱)생명 화재 카드 증권 모니모",
-      "artist": "Samsungcard Co., Ltd.",
+      "rank": 8,
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/monimo-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%ED%86%B5%ED%95%A9%EC%95%B1-%EC%83%9D%EB%AA%85-%ED%99%94%EC%9E%AC-%EC%B9%B4%EB%93%9C-%EC%A6%9D%EA%B6%8C-%EB%AA%A8%EB%8B%88%EB%AA%A8/id379577046",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a1/66/b4a16682-ce9d-18f8-b9f1-dbd74a109af0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/9f/52/899f5206-e79a-9e76-fda5-a5f714853a6b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "PDF보내요",
+      "artist": "se hwan cha",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/pdf%EB%B3%B4%EB%82%B4%EC%9A%94/id6780136280",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/e6/e2/09e6e2f2-b38b-4dd4-dc3d-1f40d8f75c58/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "한눈에 야구 - 실시간 야구 중계",
+      "artist": "Geonwoo Lee",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%9C%EB%88%88%EC%97%90-%EC%95%BC%EA%B5%AC-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%95%BC%EA%B5%AC-%EC%A4%91%EA%B3%84/id6766181505",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/2a/b0/062ab06e-1daa-9074-2a2f-220d703642c5/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
       "price": "무료"
     }
   ]
