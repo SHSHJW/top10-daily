@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T00:13:56.774Z",
+  "updatedAt": "2026-06-19T00:24:26.730Z",
   "items": [
     {
       "rank": 1,
@@ -21,24 +21,15 @@
     },
     {
       "rank": 3,
-      "title": "Shardee 샤디 | mini vlog camera",
-      "artist": "DIARO",
+      "title": "Ralph Lauren- 랄프 로렌 앱",
+      "artist": "Ralph Lauren Corporation",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/shardee-%EC%83%A4%EB%94%94-mini-vlog-camera/id6739505769",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/2d/a6/3d2da61d-b735-376d-02c2-e5f4df593662/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/ralph-lauren-%EB%9E%84%ED%94%84-%EB%A1%9C%EB%A0%8C-%EC%95%B1/id6761515266",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/7b/89/797b8966-d828-2645-f1c6-7c6f4097d3fa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/0c/6b/fb0c6b29-ff76-1151-8870-3f5ff0d39b8b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -47,21 +38,30 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "알라미 - 무조건 깨워주는 알람 시계",
-      "artist": "Delight Room Co., Ltd.",
+      "rank": 5,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%95%8C%EB%9D%BC%EB%AF%B8-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EA%B9%A8%EC%9B%8C%EC%A3%BC%EB%8A%94-%EC%95%8C%EB%9E%8C-%EC%8B%9C%EA%B3%84/id1163786766",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/50/2c/b8502c93-2333-72c4-e968-b91c1a2e3736/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/0c/6b/fb0c6b29-ff76-1151-8870-3f5ff0d39b8b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/3f/ca/7c3fca2b-2352-9cca-bfc7-aa23a06a30e6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "알라미 - 무조건 깨워주는 알람 시계",
+      "artist": "Delight Room Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%95%8C%EB%9D%BC%EB%AF%B8-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EA%B9%A8%EC%9B%8C%EC%A3%BC%EB%8A%94-%EC%95%8C%EB%9E%8C-%EC%8B%9C%EA%B3%84/id1163786766",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/50/2c/b8502c93-2333-72c4-e968-b91c1a2e3736/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,20 +75,20 @@
     },
     {
       "rank": 9,
-      "title": "PDF보내요",
-      "artist": "se hwan cha",
+      "title": "Shardee 샤디 | mini vlog camera",
+      "artist": "DIARO",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/pdf%EB%B3%B4%EB%82%B4%EC%9A%94/id6780136280",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/e6/e2/09e6e2f2-b38b-4dd4-dc3d-1f40d8f75c58/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/shardee-%EC%83%A4%EB%94%94-mini-vlog-camera/id6739505769",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/2d/a6/3d2da61d-b735-376d-02c2-e5f4df593662/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "한눈에 야구 - 실시간 야구 중계",
-      "artist": "Geonwoo Lee",
+      "title": "monimo(삼성금융통합앱)생명 화재 카드 증권 모니모",
+      "artist": "Samsungcard Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%9C%EB%88%88%EC%97%90-%EC%95%BC%EA%B5%AC-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%95%BC%EA%B5%AC-%EC%A4%91%EA%B3%84/id6766181505",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/2a/b0/062ab06e-1daa-9074-2a2f-220d703642c5/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/monimo-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%ED%86%B5%ED%95%A9%EC%95%B1-%EC%83%9D%EB%AA%85-%ED%99%94%EC%9E%AC-%EC%B9%B4%EB%93%9C-%EC%A6%9D%EA%B6%8C-%EB%AA%A8%EB%8B%88%EB%AA%A8/id379577046",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a1/66/b4a16682-ce9d-18f8-b9f1-dbd74a109af0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
