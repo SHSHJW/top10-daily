@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T00:24:26.730Z",
+  "updatedAt": "2026-06-20T00:07:20.416Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/8b/06/ed8b0600-7581-ab52-ec26-7e8371d7579b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/af/6f/5caf6ffa-33cb-6d0b-85cb-2319eef125f9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -21,24 +21,15 @@
     },
     {
       "rank": 3,
-      "title": "Ralph Lauren- 랄프 로렌 앱",
-      "artist": "Ralph Lauren Corporation",
+      "title": "monimo(삼성금융통합앱)생명 화재 카드 증권 모니모",
+      "artist": "Samsungcard Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/ralph-lauren-%EB%9E%84%ED%94%84-%EB%A1%9C%EB%A0%8C-%EC%95%B1/id6761515266",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/7b/89/797b8966-d828-2645-f1c6-7c6f4097d3fa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/monimo-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%ED%86%B5%ED%95%A9%EC%95%B1-%EC%83%9D%EB%AA%85-%ED%99%94%EC%9E%AC-%EC%B9%B4%EB%93%9C-%EC%A6%9D%EA%B6%8C-%EB%AA%A8%EB%8B%88%EB%AA%A8/id379577046",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a1/66/b4a16682-ce9d-18f8-b9f1-dbd74a109af0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/59/49/06594946-0b1b-f865-9c98-3d1629184eec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -47,25 +38,16 @@
       "price": "무료"
     },
     {
+      "rank": 5,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/59/49/06594946-0b1b-f865-9c98-3d1629184eec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 6,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/3f/ca/7c3fca2b-2352-9cca-bfc7-aa23a06a30e6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "알라미 - 무조건 깨워주는 알람 시계",
-      "artist": "Delight Room Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%95%8C%EB%9D%BC%EB%AF%B8-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EA%B9%A8%EC%9B%8C%EC%A3%BC%EB%8A%94-%EC%95%8C%EB%9E%8C-%EC%8B%9C%EA%B3%84/id1163786766",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/50/2c/b8502c93-2333-72c4-e968-b91c1a2e3736/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "NetShort - 인기 드라마 및 TV 프로그램",
       "artist": "NETSTORY PTE. LTD.",
       "category": "",
@@ -74,21 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "Shardee 샤디 | mini vlog camera",
-      "artist": "DIARO",
+      "rank": 7,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/shardee-%EC%83%A4%EB%94%94-mini-vlog-camera/id6739505769",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/2d/a6/3d2da61d-b735-376d-02c2-e5f4df593662/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/8e/dc/1b8edc50-1979-ab30-7dbe-63fe336ad22c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Ralph Lauren- 랄프 로렌 앱",
+      "artist": "Ralph Lauren Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/ralph-lauren-%EB%9E%84%ED%94%84-%EB%A1%9C%EB%A0%8C-%EC%95%B1/id6761515266",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/7b/89/797b8966-d828-2645-f1c6-7c6f4097d3fa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "알라미 - 무조건 깨워주는 알람 시계",
+      "artist": "Delight Room Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%95%8C%EB%9D%BC%EB%AF%B8-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EA%B9%A8%EC%9B%8C%EC%A3%BC%EB%8A%94-%EC%95%8C%EB%9E%8C-%EC%8B%9C%EA%B3%84/id1163786766",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/50/2c/b8502c93-2333-72c4-e968-b91c1a2e3736/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "monimo(삼성금융통합앱)생명 화재 카드 증권 모니모",
-      "artist": "Samsungcard Co., Ltd.",
+      "title": "1.1.1.1: Faster Internet",
+      "artist": "Cloudflare",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/monimo-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%ED%86%B5%ED%95%A9%EC%95%B1-%EC%83%9D%EB%AA%85-%ED%99%94%EC%9E%AC-%EC%B9%B4%EB%93%9C-%EC%A6%9D%EA%B6%8C-%EB%AA%A8%EB%8B%88%EB%AA%A8/id379577046",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a1/66/b4a16682-ce9d-18f8-b9f1-dbd74a109af0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/1-1-1-1-faster-internet/id1423538627",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/76/3f/6b763ff5-c448-a372-3fb8-a68680be777c/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
