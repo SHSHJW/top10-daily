@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T00:06:26.513Z",
+  "updatedAt": "2026-06-27T00:04:58.489Z",
   "items": [
     {
       "rank": 1,
@@ -30,15 +30,6 @@
     },
     {
       "rank": 4,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/fb/41/fcfb4192-1bf1-e0ec-7754-b0969a0f1540/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -47,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -56,16 +47,16 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "NH올원뱅크(농협은행 대표 플랫폼)",
-      "artist": "NH농협은행",
+      "rank": 6,
+      "title": "네이버페이",
+      "artist": "Naver Financial Corporation",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nh%EC%98%AC%EC%9B%90%EB%B1%85%ED%81%AC-%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89-%EB%8C%80%ED%91%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1641628055",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/f1/15/48f11591-c7c1-e163-e49d-bc85a28295f0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/fb/41/fcfb4192-1bf1-e0ec-7754-b0969a0f1540/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "setlog",
       "artist": "new chat",
       "category": "",
@@ -74,21 +65,30 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "쿠팡플레이",
-      "artist": "Coupang Corp.",
+      "rank": 8,
+      "title": "NH올원뱅크(농협은행 대표 플랫폼)",
+      "artist": "NH농협은행",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%8C%A1%ED%94%8C%EB%A0%88%EC%9D%B4/id1536885649",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/17/96/7717966c-9e6c-4401-7e4d-047859134dd8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nh%EC%98%AC%EC%9B%90%EB%B1%85%ED%81%AC-%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89-%EB%8C%80%ED%91%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1641628055",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/f1/15/48f11591-c7c1-e163-e49d-bc85a28295f0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/9f/52/899f5206-e79a-9e76-fda5-a5f714853a6b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "ZARA",
-      "artist": "Industria de Diseno Textil, S.A.",
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/zara/id547951480",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/75/b3/c275b36c-d306-0963-5156-ba3ef147ed0d/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/3b/c6/173bc63c-c1fb-3695-9a55-5bc1cc582abd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
