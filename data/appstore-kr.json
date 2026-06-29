@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T23:59:49.787Z",
+  "updatedAt": "2026-06-29T00:06:11.589Z",
   "items": [
     {
       "rank": 1,
@@ -21,15 +21,6 @@
     },
     {
       "rank": 3,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/28/3e/d7283e3c-51fc-476c-2f78-78863894d01c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -38,12 +29,21 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "NetShort - 인기 드라마 및 TV 프로그램",
       "artist": "NETSTORY PTE. LTD.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/9f/52/899f5206-e79a-9e76-fda5-a5f714853a6b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/28/3e/d7283e3c-51fc-476c-2f78-78863894d01c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,24 +57,15 @@
     },
     {
       "rank": 7,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
+      "title": "Lovio - 커플 앱 & 위젯",
+      "artist": "FOURPLEX SIA",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/77/ba/5077ba2f-7c32-6f5d-f6e4-126f1c741a98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/lovio-%EC%BB%A4%ED%94%8C-%EC%95%B1-%EC%9C%84%EC%A0%AF/id6743631737",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/c5/59/5fc55936-4355-b532-a3cf-61a28e7be0ea/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "Toca Boca Hair Salon 4 NETFLIX",
-      "artist": "Netflix, Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/toca-boca-hair-salon-4-netflix/id6746275731",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/d9/a0/0ad9a0fd-4be8-7038-ab86-9a5354b5bd97/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
@@ -83,12 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
+      "rank": 9,
+      "title": "모니모(삼성금융통합앱) 생명 화재 카드 증권",
+      "artist": "Samsungcard Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/fb/41/fcfb4192-1bf1-e0ec-7754-b0969a0f1540/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%8B%88%EB%AA%A8-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%ED%86%B5%ED%95%A9%EC%95%B1-%EC%83%9D%EB%AA%85-%ED%99%94%EC%9E%AC-%EC%B9%B4%EB%93%9C-%EC%A6%9D%EA%B6%8C/id379577046",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/b3/2d/fdb32d73-60bb-815c-1a70-59dfb1bb1f2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/77/ba/5077ba2f-7c32-6f5d-f6e4-126f1c741a98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
