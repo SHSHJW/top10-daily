@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-07-04T00:02:19.831Z",
+  "updatedAt": "2026-07-04T23:59:21.765Z",
   "items": [
     {
       "rank": 1,
+      "title": "왁뿌볼 | 왁스 뿌시기 볼",
+      "artist": "Seonwook Kim",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%99%81%EB%BF%8C%EB%B3%BC-%EC%99%81%EC%8A%A4-%EB%BF%8C%EC%8B%9C%EA%B8%B0-%EB%B3%BC/id6780200289",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/83/19/16831908-e83c-781c-fd71-7df84e37abad/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -11,7 +20,7 @@
       "price": "무료"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -20,30 +29,21 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "치지직",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/23/b9/db23b978-e6da-30ef-d5f0-df315adc8004/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "장병e음",
       "artist": "Ministry of National Defense - Republic of Korea",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EC%9E%A5%EB%B3%91e%EC%9D%8C/id6744992032",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/08/27/8e082701-a534-8883-7377-cd5bec6838f4/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/48/35/bb483516-334d-5095-1939-6bd54fa9fd40/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "NH올원뱅크(농협은행 대표 플랫폼)",
-      "artist": "NH농협은행",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/nh%EC%98%AC%EC%9B%90%EB%B1%85%ED%81%AC-%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89-%EB%8C%80%ED%91%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1641628055",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/f1/15/48f11591-c7c1-e163-e49d-bc85a28295f0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,38 +57,38 @@
     },
     {
       "rank": 7,
-      "title": "모니모(삼성금융통합앱) 생명 화재 카드 증권",
-      "artist": "Samsungcard Co., Ltd.",
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%8B%88%EB%AA%A8-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%ED%86%B5%ED%95%A9%EC%95%B1-%EC%83%9D%EB%AA%85-%ED%99%94%EC%9E%AC-%EC%B9%B4%EB%93%9C-%EC%A6%9D%EA%B6%8C/id379577046",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/b3/2d/fdb32d73-60bb-815c-1a70-59dfb1bb1f2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/99/c7/0099c7b0-b697-f955-078d-c455311d88eb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "대한민국 모바일 신분증",
-      "artist": "행정안전부",
+      "title": "삼성닷컴",
+      "artist": "Samsung Electronics Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/6a/2d/8f6a2daa-5af2-f600-3e7f-6a54dab280d7/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%84%B1%EB%8B%B7%EC%BB%B4/id6472879198",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/21/e2/fb21e287-e404-b285-601f-1660254bc44b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
+      "artist": "SKYWORK AI PTE LTD",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/de/1e/9ade1e7c-a201-0acb-0d78-909ce3d6f014/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/34/35/cb343554-912b-362c-fc4b-c94adef17fa0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "title": "setlog",
+      "artist": "new chat",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/70/c4/0e70c4ef-2004-4577-8441-8019e8e68963/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/setlog/id6587576438",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/4f/ef/c24fef57-7c1e-708f-97cd-a4acebae8797/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
