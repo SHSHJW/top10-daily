@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-07-07T00:05:59.698Z",
+  "updatedAt": "2026-07-07T23:55:29.345Z",
   "items": [
     {
       "rank": 1,
-      "title": "왁뿌볼 | 왁스 뿌시기 볼",
-      "artist": "Seonwook Kim",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%99%81%EB%BF%8C%EB%B3%BC-%EC%99%81%EC%8A%A4-%EB%BF%8C%EC%8B%9C%EA%B8%B0-%EB%B3%BC/id6780200289",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/b4/18/9fb41872-596c-1f6b-5d75-d59075d116d1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -20,25 +11,25 @@
       "price": "무료"
     },
     {
+      "rank": 2,
+      "title": "땡겨요",
+      "artist": "SHINHAN BANK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/72/cc/9b72ccf8-e5d9-35f8-c8ec-83af06a29b73/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/9e/a0/709ea03e-1096-f8bc-f83e-748733113732/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/43/20/cc432087-bfbd-3ac2-c53e-7246a3e14f6b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "치지직",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/23/b9/db23b978-e6da-30ef-d5f0-df315adc8004/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "Trip.com 트립닷컴 - 여행 할인 예약",
       "artist": "Trip.com Travel Singapore Pte. Ltd.",
       "category": "",
@@ -47,12 +38,21 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
+      "rank": 5,
+      "title": "왁뿌볼 | 왁스 뿌시기 볼",
+      "artist": "Seonwook Kim",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/99/c7/0099c7b0-b697-f955-078d-c455311d88eb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%99%81%EB%BF%8C%EB%B3%BC-%EC%99%81%EC%8A%A4-%EB%BF%8C%EC%8B%9C%EA%B8%B0-%EB%B3%BC/id6780200289",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/b4/18/9fb41872-596c-1f6b-5d75-d59075d116d1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "치지직",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/23/b9/db23b978-e6da-30ef-d5f0-df315adc8004/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -61,34 +61,34 @@
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/9b/c2/a09bc2ca-6442-5568-ccd3-28bbe2c8293a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/6a/83/e96a8310-10b2-a514-1ca5-62777fbfc30a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "모니모(삼성금융통합앱) 생명 화재 카드 증권",
-      "artist": "Samsungcard Co., Ltd.",
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%8B%88%EB%AA%A8-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%ED%86%B5%ED%95%A9%EC%95%B1-%EC%83%9D%EB%AA%85-%ED%99%94%EC%9E%AC-%EC%B9%B4%EB%93%9C-%EC%A6%9D%EA%B6%8C/id379577046",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/b3/2d/fdb32d73-60bb-815c-1a70-59dfb1bb1f2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/99/c7/0099c7b0-b697-f955-078d-c455311d88eb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "CJ ONE",
-      "artist": "CJ OliveNetworks Co., Ltd.",
+      "title": "제주항공",
+      "artist": "Jeju Air. co., Ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/cj-one/id387363739",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/34/73/ab3473db-a538-88da-eac2-9999929475f0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%9C%EC%A3%BC%ED%95%AD%EA%B3%B5/id373053637",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/2e/e2/312ee20e-e24c-17a6-aaa0-daf38f2b7dfd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "LH청약플러스",
-      "artist": "한국토지주택공사",
+      "title": "K-패스",
+      "artist": "교통안전공단",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/lh%EC%B2%AD%EC%95%BD%ED%94%8C%EB%9F%AC%EC%8A%A4/id6462396737",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/74/92/92749209-a09e-2923-a2fd-4bdb824a9456/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/k-%ED%8C%A8%EC%8A%A4/id1538531939",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1f/13/221f137a-2c68-e7d7-41cf-d0425830a9ce/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
