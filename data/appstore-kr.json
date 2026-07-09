@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T23:55:29.345Z",
+  "updatedAt": "2026-07-09T00:06:40.320Z",
   "items": [
     {
       "rank": 1,
@@ -12,15 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "땡겨요",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/72/cc/9b72ccf8-e5d9-35f8-c8ec-83af06a29b73/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -29,52 +20,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/de/1e/9ade1e7c-a201-0acb-0d78-909ce3d6f014/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "왁뿌볼 | 왁스 뿌시기 볼",
-      "artist": "Seonwook Kim",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%99%81%EB%BF%8C%EB%B3%BC-%EC%99%81%EC%8A%A4-%EB%BF%8C%EC%8B%9C%EA%B8%B0-%EB%B3%BC/id6780200289",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/b4/18/9fb41872-596c-1f6b-5d75-d59075d116d1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "치지직",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/23/b9/db23b978-e6da-30ef-d5f0-df315adc8004/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/6a/83/e96a8310-10b2-a514-1ca5-62777fbfc30a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/99/c7/0099c7b0-b697-f955-078d-c455311d88eb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
+      "rank": 3,
       "title": "제주항공",
       "artist": "Jeju Air. co., Ltd",
       "category": "",
@@ -83,12 +29,66 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "K-패스",
-      "artist": "교통안전공단",
+      "rank": 4,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/k-%ED%8C%A8%EC%8A%A4/id1538531939",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1f/13/221f137a-2c68-e7d7-41cf-d0425830a9ce/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/30/4c/ac304c9c-f65b-4689-0b3d-3978c5cbefc5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/6a/83/e96a8310-10b2-a514-1ca5-62777fbfc30a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/de/1e/9ade1e7c-a201-0acb-0d78-909ce3d6f014/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "스타벅스",
+      "artist": "스타벅스 코리아",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4/id466682252",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/5d/21/df5d21e7-e774-198b-62bd-c63efaa48313/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "왁뿌볼 | 왁스 뿌시기 볼",
+      "artist": "Seonwook Kim",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%99%81%EB%BF%8C%EB%B3%BC-%EC%99%81%EC%8A%A4-%EB%BF%8C%EC%8B%9C%EA%B8%B0-%EB%B3%BC/id6780200289",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/e4/67/e9e467b2-25ca-92d4-6dc7-43502d43e814/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
+      "artist": "SHINHAN BANK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/48/35/bb483516-334d-5095-1939-6bd54fa9fd40/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "땡겨요",
+      "artist": "SHINHAN BANK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/72/cc/9b72ccf8-e5d9-35f8-c8ec-83af06a29b73/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
