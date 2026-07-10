@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-07-10T00:02:05.842Z",
+  "updatedAt": "2026-07-10T23:55:14.194Z",
   "items": [
     {
       "rank": 1,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/c7/93/41c793a9-a689-bdb9-e0c8-d663b0b9a4fb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -20,16 +11,16 @@
       "price": "무료"
     },
     {
-      "rank": 3,
-      "title": "왁뿌볼 | 왁스 뿌시기 볼",
-      "artist": "Seonwook Kim",
+      "rank": 2,
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%99%81%EB%BF%8C%EB%B3%BC-%EC%99%81%EC%8A%A4-%EB%BF%8C%EC%8B%9C%EA%B8%B0-%EB%B3%BC/id6780200289",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/bb/a5/bdbba554-afb2-4aca-8207-36ca21586635/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/c7/93/41c793a9-a689-bdb9-e0c8-d663b0b9a4fb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -38,7 +29,25 @@
       "price": "무료"
     },
     {
+      "rank": 4,
+      "title": "왁뿌볼 | 왁스 뿌시기 볼",
+      "artist": "Seonwook Kim",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%99%81%EB%BF%8C%EB%B3%BC-%EC%99%81%EC%8A%A4-%EB%BF%8C%EC%8B%9C%EA%B8%B0-%EB%B3%BC/id6780200289",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/04/8d/1f048d45-6777-002b-2d66-7ad1ab381d67/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 5,
+      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/cb/41/f6cb412c-76b1-6fbb-32a5-f5b31a6cd101/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
       "title": "스타벅스",
       "artist": "스타벅스 코리아",
       "category": "",
@@ -47,16 +56,16 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "rank": 7,
+      "title": "Dazz - 필름카메라 & 사진 편집",
+      "artist": "DAZZ PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/de/1e/9ade1e7c-a201-0acb-0d78-909ce3d6f014/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/dazz-%ED%95%84%EB%A6%84%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%82%AC%EC%A7%84-%ED%8E%B8%EC%A7%91/id1422471180",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/cb/53/a1cb5311-94a1-d93e-a15c-d1e514188ec4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -65,7 +74,7 @@
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
       "artist": "SHINHAN BANK",
       "category": "",
@@ -74,21 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
-      "artist": "FLEXTECH INC.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/46/34/55463473-d0c5-9dd7-cd68-2eef2246f5eb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 10,
-      "title": "모니모(삼성금융통합앱) 생명 화재 카드 증권",
-      "artist": "Samsungcard Co., Ltd.",
+      "title": "K-패스",
+      "artist": "교통안전공단",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%8B%88%EB%AA%A8-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%ED%86%B5%ED%95%A9%EC%95%B1-%EC%83%9D%EB%AA%85-%ED%99%94%EC%9E%AC-%EC%B9%B4%EB%93%9C-%EC%A6%9D%EA%B6%8C/id379577046",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/b3/2d/fdb32d73-60bb-815c-1a70-59dfb1bb1f2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/k-%ED%8C%A8%EC%8A%A4/id1538531939",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1f/13/221f137a-2c68-e7d7-41cf-d0425830a9ce/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
