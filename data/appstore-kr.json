@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-07-11T23:52:32.757Z",
+  "updatedAt": "2026-07-12T23:51:23.744Z",
   "items": [
     {
       "rank": 1,
+      "title": "치지직",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/23/b9/db23b978-e6da-30ef-d5f0-df315adc8004/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
+      "title": "bhc 치킨 - Tasty, Crispy, Juicy!",
+      "artist": "Dining Brands Group Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/bhc-%EC%B9%98%ED%82%A8-tasty-crispy-juicy/id6740256361",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/53/33/7b5333b0-b805-e551-335d-82d3807b5cb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -11,7 +29,7 @@
       "price": "무료"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "NetShort - 인기 드라마 및 TV 프로그램",
       "artist": "NETSTORY PTE. LTD.",
       "category": "",
@@ -20,16 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 3,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/30/4c/ac304c9c-f65b-4689-0b3d-3978c5cbefc5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -38,34 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/c1/ae/bbc1aeb6-2af0-de6d-a33f-1866e6a5746b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 6,
-      "title": "왁뿌볼 | 왁스 뿌시기 볼",
-      "artist": "Seonwook Kim",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%99%81%EB%BF%8C%EB%B3%BC-%EC%99%81%EC%8A%A4-%EB%BF%8C%EC%8B%9C%EA%B8%B0-%EB%B3%BC/id6780200289",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/e2/01/85e20133-3e2f-4a62-9029-5fcf37a79333/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "Dazz - 필름카메라 & 사진 편집",
-      "artist": "DAZZ PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/dazz-%ED%95%84%EB%A6%84%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%82%AC%EC%A7%84-%ED%8E%B8%EC%A7%91/id1422471180",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/cb/53/a1cb5311-94a1-d93e-a15c-d1e514188ec4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
       "artist": "SKYWORK AI PTE LTD",
       "category": "",
@@ -74,7 +56,7 @@
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Trip.com 트립닷컴 - 여행 할인 예약",
       "artist": "Trip.com Travel Singapore Pte. Ltd.",
       "category": "",
@@ -83,12 +65,30 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "스타벅스",
-      "artist": "스타벅스 코리아",
+      "rank": 8,
+      "title": "Higher 하이어",
+      "artist": "Vision Bridge Partners Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4/id466682252",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/5d/21/df5d21e7-e774-198b-62bd-c63efaa48313/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/higher-%ED%95%98%EC%9D%B4%EC%96%B4/id1672001935",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/7e/14/707e141f-b0ce-bebc-6d1f-ddf64c2affc3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/30/4c/ac304c9c-f65b-4689-0b3d-3978c5cbefc5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/c1/ae/bbc1aeb6-2af0-de6d-a33f-1866e6a5746b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
