@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T23:56:13.322Z",
+  "updatedAt": "2026-07-16T23:56:49.812Z",
   "items": [
     {
       "rank": 1,
@@ -21,33 +21,15 @@
     },
     {
       "rank": 3,
-      "title": "치지직",
-      "artist": "NAVER Corp.",
+      "title": "배스킨라빈스-배라를 배라앱으로!",
+      "artist": "BR Korea Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/23/b9/db23b978-e6da-30ef-d5f0-df315adc8004/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%B0%B0%EC%8A%A4%ED%82%A8%EB%9D%BC%EB%B9%88%EC%8A%A4-%EB%B0%B0%EB%9D%BC%EB%A5%BC-%EB%B0%B0%EB%9D%BC%EC%95%B1%EC%9C%BC%EB%A1%9C/id6742874436",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/6a/2d/876a2d40-2a6d-d3b2-9046-3eb7ac6220ef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "bhc 치킨 - Tasty, Crispy, Juicy!",
-      "artist": "Dining Brands Group Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/bhc-%EC%B9%98%ED%82%A8-tasty-crispy-juicy/id6740256361",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/53/33/7b5333b0-b805-e551-335d-82d3807b5cb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/03/7c/e7037c06-1470-8849-44a2-252eb3be612e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -56,7 +38,34 @@
       "price": "무료"
     },
     {
+      "rank": 5,
+      "title": "오렌즈",
+      "artist": "STARVISION CO., LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%98%A4%EB%A0%8C%EC%A6%88/id1071031131",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/8d/35/9a8d35b1-e909-3034-19ee-2071b16afb97/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/03/7c/e7037c06-1470-8849-44a2-252eb3be612e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 7,
+      "title": "치지직",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/74/14/63741416-5830-e25f-0447-efc60662e35b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "NetShort - 인기 드라마 및 TV 프로그램",
       "artist": "NETSTORY PTE. LTD.",
       "category": "",
@@ -65,7 +74,7 @@
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Trip.com 트립닷컴 - 여행 할인 예약",
       "artist": "Trip.com Travel Singapore Pte. Ltd.",
       "category": "",
@@ -74,21 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/1c/f1/e61cf132-3cd7-14a0-8a0d-5182fee81872/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 10,
-      "title": "모니모(삼성금융통합앱) 생명 화재 카드 증권",
-      "artist": "Samsungcard Co., Ltd.",
+      "title": "bhc 치킨 - Tasty, Crispy, Juicy!",
+      "artist": "Dining Brands Group Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%8B%88%EB%AA%A8-%EC%82%BC%EC%84%B1%EA%B8%88%EC%9C%B5%ED%86%B5%ED%95%A9%EC%95%B1-%EC%83%9D%EB%AA%85-%ED%99%94%EC%9E%AC-%EC%B9%B4%EB%93%9C-%EC%A6%9D%EA%B6%8C/id379577046",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/b3/2d/fdb32d73-60bb-815c-1a70-59dfb1bb1f2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/bhc-%EC%B9%98%ED%82%A8-tasty-crispy-juicy/id6740256361",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/53/33/7b5333b0-b805-e551-335d-82d3807b5cb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
