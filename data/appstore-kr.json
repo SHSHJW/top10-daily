@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T23:59:20.760Z",
+  "updatedAt": "2026-08-05T23:57:49.807Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "Minjun Yoo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EA%B7%B8%EB%8A%98%EB%A1%9C-%EB%9A%9C%EB%B2%85%EC%9D%98-%EC%97%AC%EB%A6%84%EA%B8%B8/id6791194669",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/f2/3d/a6f23d01-68af-7bdf-1991-a55e1bf46a84/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/80/8b/1c808b93-d1bc-75b1-e9e1-e55776f94a38/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,20 +30,20 @@
     },
     {
       "rank": 4,
-      "title": "Google Gemini",
-      "artist": "Google",
+      "title": "발자취 - 세상에 나를 남기다",
+      "artist": "Dongnyeok Shin",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/ca/a1/0bcaa148-9669-0a11-ff26-9a1945c785fe/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%B0%9C%EC%9E%90%EC%B7%A8-%EC%84%B8%EC%83%81%EC%97%90-%EB%82%98%EB%A5%BC-%EB%82%A8%EA%B8%B0%EB%8B%A4/id6792431474",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/05/7e/7b057ee7-6e77-588b-63b3-a4c480a40cc7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "Samsung Smart Switch Mobile",
-      "artist": "Samsung Electronics Co., Ltd.",
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/samsung-smart-switch-mobile/id1571429529",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/19/58/7319586c-ba58-6f53-4815-a1ed9d0bc5d5/AppIcon-1-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/8b/0f/478b0fdc-c6b5-6103-ee35-13385fcce290/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,15 +66,6 @@
     },
     {
       "rank": 8,
-      "title": "PLUS 트라이브",
-      "artist": "HANWHALIFE CORPORATION",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/plus-%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%B8%8C/id1631958069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/6c/fd/716cfdc0-8e74-5f0d-fe1f-d803e1833d2b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -83,12 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
-      "artist": "SKYWORK AI PTE LTD",
+      "rank": 9,
+      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
+      "artist": "SHINHAN BANK",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/d5/1d/78d51d98-5e71-11f3-97fc-d913dae4a6cd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/de/83/ddde83f0-d71d-6550-fa81-4e2db9c9d182/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "Shardee 샤디 | mini vlog camera",
+      "artist": "DIARO",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/shardee-%EC%83%A4%EB%94%94-mini-vlog-camera/id6739505769",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/ad/cd/beadcd04-53db-93ee-1315-d8d7282e5bab/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
