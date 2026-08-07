@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-08-05T23:57:49.807Z",
+  "updatedAt": "2026-08-07T01:40:31.010Z",
   "items": [
     {
       "rank": 1,
-      "title": "그늘로: 뚜벅의 여름길",
-      "artist": "Minjun Yoo",
+      "title": "발자취 - 세상에 나를 남기다",
+      "artist": "Dongnyeok Shin",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B7%B8%EB%8A%98%EB%A1%9C-%EB%9A%9C%EB%B2%85%EC%9D%98-%EC%97%AC%EB%A6%84%EA%B8%B8/id6791194669",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/80/8b/1c808b93-d1bc-75b1-e9e1-e55776f94a38/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%B0%9C%EC%9E%90%EC%B7%A8-%EC%84%B8%EC%83%81%EC%97%90-%EB%82%98%EB%A5%BC-%EB%82%A8%EA%B8%B0%EB%8B%A4/id6792431474",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/05/7e/7b057ee7-6e77-588b-63b3-a4c480a40cc7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 2,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
+      "title": "그늘로: 뚜벅의 여름길",
+      "artist": "Minjun Yoo",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/19/7e/16197e04-9f36-b669-0c7c-7da928f06a42/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EA%B7%B8%EB%8A%98%EB%A1%9C-%EB%9A%9C%EB%B2%85%EC%9D%98-%EC%97%AC%EB%A6%84%EA%B8%B8/id6791194669",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/e4/66/dae46613-8952-31a7-8d0e-61af9c3c644e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,11 +30,11 @@
     },
     {
       "rank": 4,
-      "title": "발자취 - 세상에 나를 남기다",
-      "artist": "Dongnyeok Shin",
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%B0%9C%EC%9E%90%EC%B7%A8-%EC%84%B8%EC%83%81%EC%97%90-%EB%82%98%EB%A5%BC-%EB%82%A8%EA%B8%B0%EB%8B%A4/id6792431474",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/05/7e/7b057ee7-6e77-588b-63b3-a4c480a40cc7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/19/7e/16197e04-9f36-b669-0c7c-7da928f06a42/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,33 +48,6 @@
     },
     {
       "rank": 6,
-      "title": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
-      "artist": "FLEXTECH INC.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/98/37/cd983711-0da1-bd2e-7854-d7789e629755/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/35/2b/fb352b58-c735-89d9-fde5-3f0b4770e3d0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/25/7b/29257bef-ef63-11b5-f30c-1ee806165851/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
       "artist": "SHINHAN BANK",
       "category": "",
@@ -83,12 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "Shardee 샤디 | mini vlog camera",
-      "artist": "DIARO",
+      "rank": 7,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/shardee-%EC%83%A4%EB%94%94-mini-vlog-camera/id6739505769",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/ad/cd/beadcd04-53db-93ee-1315-d8d7282e5bab/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/25/7b/29257bef-ef63-11b5-f30c-1ee806165851/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/35/2b/fb352b58-c735-89d9-fde5-3f0b4770e3d0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
+      "artist": "FLEXTECH INC.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/98/37/cd983711-0da1-bd2e-7854-d7789e629755/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "삼첩분식",
+      "artist": "WMPO Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%B2%A9%EB%B6%84%EC%8B%9D/id1667708740",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/7d/66/277d6644-e53f-a51f-f6e3-e4e4b5d9f7f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
