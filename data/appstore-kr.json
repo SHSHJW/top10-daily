@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T01:40:31.010Z",
+  "updatedAt": "2026-08-07T23:30:40.387Z",
   "items": [
     {
       "rank": 1,
@@ -12,20 +12,20 @@
     },
     {
       "rank": 2,
-      "title": "그늘로: 뚜벅의 여름길",
-      "artist": "Minjun Yoo",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B7%B8%EB%8A%98%EB%A1%9C-%EB%9A%9C%EB%B2%85%EC%9D%98-%EC%97%AC%EB%A6%84%EA%B8%B8/id6791194669",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/e4/66/dae46613-8952-31a7-8d0e-61af9c3c644e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/b8/f8/1cb8f869-50a2-1141-5177-b0607e43490a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "그늘로: 뚜벅의 여름길",
+      "artist": "Minjun Yoo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EA%B7%B8%EB%8A%98%EB%A1%9C-%EB%9A%9C%EB%B2%85%EC%9D%98-%EC%97%AC%EB%A6%84%EA%B8%B8/id6791194669",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/db/3e/27db3e22-0aeb-ab85-430d-c693138cc7ad/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,6 +57,15 @@
     },
     {
       "rank": 7,
+      "title": "롯데ON",
+      "artist": "Lotte.com",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%A1%AF%EB%8D%B0on/id376622474",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/84/ff/de84ff10-ba9a-5a45-3ce5-45e4668130e1/AppIcon_260304-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -65,30 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/35/2b/fb352b58-c735-89d9-fde5-3f0b4770e3d0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 9,
-      "title": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
-      "artist": "FLEXTECH INC.",
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/98/37/cd983711-0da1-bd2e-7854-d7789e629755/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/b2/08/d6b20859-b86e-5b7c-4ebc-8258c0f9b754/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "삼첩분식",
-      "artist": "WMPO Inc.",
+      "title": "지하섬 - 다이나믹 아일랜드 지하철 하차 알림",
+      "artist": "CHANYOUNG PARK",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%B2%A9%EB%B6%84%EC%8B%9D/id1667708740",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/7d/66/277d6644-e53f-a51f-f6e3-e4e4b5d9f7f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%A7%80%ED%95%98%EC%84%AC-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C-%EC%A7%80%ED%95%98%EC%B2%A0-%ED%95%98%EC%B0%A8-%EC%95%8C%EB%A6%BC/id6792708146",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/d7/ba/07d7ba19-294c-49c4-392c-751a56110556/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
