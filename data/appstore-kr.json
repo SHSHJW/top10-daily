@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T23:24:55.432Z",
+  "updatedAt": "2026-08-09T23:28:43.646Z",
   "items": [
     {
       "rank": 1,
@@ -12,20 +12,20 @@
     },
     {
       "rank": 2,
-      "title": "발자취 - 세상에 나를 남기다",
-      "artist": "Dongnyeok Shin",
+      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
+      "artist": "SKYWORK AI PTE LTD",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%B0%9C%EC%9E%90%EC%B7%A8-%EC%84%B8%EC%83%81%EC%97%90-%EB%82%98%EB%A5%BC-%EB%82%A8%EA%B8%B0%EB%8B%A4/id6792431474",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/fb/3f/3bfb3f3a-cfea-3e5a-0d9c-9f902132428c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/d5/1d/78d51d98-5e71-11f3-97fc-d913dae4a6cd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 3,
-      "title": "MD Vinyl - Music Player Widget",
-      "artist": "MD Studio",
+      "title": "DramaBox - 영화와 숏폼 드라마",
+      "artist": "STORYMATRIX PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/md-vinyl-music-player-widget/id1606306441",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/ba/b8/b8bab885-c249-4cfe-806f-ab48ee42be46/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ef/46/15ef46e0-5fe2-f6a1-57a0-610a1883389e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,15 +39,6 @@
     },
     {
       "rank": 5,
-      "title": "그늘로: 뚜벅의 여름길",
-      "artist": "Minjun Yoo",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B7%B8%EB%8A%98%EB%A1%9C-%EB%9A%9C%EB%B2%85%EC%9D%98-%EC%97%AC%EB%A6%84%EA%B8%B8/id6791194669",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/db/3e/27db3e22-0aeb-ab85-430d-c693138cc7ad/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -56,30 +47,39 @@
       "price": "무료"
     },
     {
+      "rank": 6,
+      "title": "발자취 - 세상에 나를 남기다",
+      "artist": "Dongnyeok Shin",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%B0%9C%EC%9E%90%EC%B7%A8-%EC%84%B8%EC%83%81%EC%97%90-%EB%82%98%EB%A5%BC-%EB%82%A8%EA%B8%B0%EB%8B%A4/id6792431474",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/fb/3f/3bfb3f3a-cfea-3e5a-0d9c-9f902132428c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 7,
-      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
-      "artist": "SKYWORK AI PTE LTD",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/d5/1d/78d51d98-5e71-11f3-97fc-d913dae4a6cd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "DramaBox - 영화와 숏폼 드라마",
-      "artist": "STORYMATRIX PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ef/46/15ef46e0-5fe2-f6a1-57a0-610a1883389e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/b2/08/d6b20859-b86e-5b7c-4ebc-8258c0f9b754/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "쿠팡플레이",
+      "artist": "Coupang Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%8C%A1%ED%94%8C%EB%A0%88%EC%9D%B4/id1536885649",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/f4/5c/bcf45c35-8f71-caf6-ce0c-ce2169e5810c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "MD Vinyl - Music Player Widget",
+      "artist": "MD Studio",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/md-vinyl-music-player-widget/id1606306441",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/ba/b8/b8bab885-c249-4cfe-806f-ab48ee42be46/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
