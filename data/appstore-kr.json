@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T23:38:15.182Z",
+  "updatedAt": "2026-08-14T23:18:35.073Z",
   "items": [
     {
       "rank": 1,
@@ -25,29 +25,11 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/e9/2c/15e92c43-b521-c059-6b1a-cc55ccacc5db/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/af/44/16af4490-5928-e166-a715-c93fb1d71685/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/89/77/6489778a-e782-746c-034e-a9941e42f077/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "초정확: PiP 서버 시간 타이머, 티켓팅, 수강신청",
-      "artist": "Minjun Kim",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B4%88%EC%A0%95%ED%99%95-pip-%EC%84%9C%EB%B2%84-%EC%8B%9C%EA%B0%84-%ED%83%80%EC%9D%B4%EB%A8%B8-%ED%8B%B0%EC%BC%93%ED%8C%85-%EC%88%98%EA%B0%95%EC%8B%A0%EC%B2%AD/id6752860014",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/d8/41/43d84137-fbf6-84cb-3170-b304a9693247/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
       "artist": "SHINHAN BANK",
       "category": "",
@@ -56,7 +38,34 @@
       "price": "무료"
     },
     {
+      "rank": 5,
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/ae/c2/4daec21d-a3e0-965c-d83d-1717694c0865/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "bhc 치킨 - Tasty, Crispy, Juicy!",
+      "artist": "Dining Brands Group Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/bhc-%EC%B9%98%ED%82%A8-tasty-crispy-juicy/id6740256361",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/ac/7c/84ac7ce6-0bfb-e11b-c191-4ce9b8b29b4b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 7,
+      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
+      "artist": "SKYWORK AI PTE LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/e8/c2/31e8c2bf-7545-4dec-010e-85265bfedf2c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -65,30 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "토스",
-      "artist": "Viva Republica",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%86%A0%EC%8A%A4/id839333328",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/ea/d5/5fead5dc-cc84-57db-16b8-4373df533e3d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 9,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "title": "초정확: PiP 서버 시간 타이머, 티켓팅, 수강신청",
+      "artist": "Minjun Kim",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/10/7e/75107e17-bd97-b018-ded1-2cbe418dad6c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%B4%88%EC%A0%95%ED%99%95-pip-%EC%84%9C%EB%B2%84-%EC%8B%9C%EA%B0%84-%ED%83%80%EC%9D%B4%EB%A8%B8-%ED%8B%B0%EC%BC%93%ED%8C%85-%EC%88%98%EA%B0%95%EC%8B%A0%EC%B2%AD/id6752860014",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/f0/f8/66f0f8fb-d8b1-9032-f49b-54fcd3ac37ab/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "Vigloo - 숏폼드라마",
-      "artist": "Spoonlabs, Inc.",
+      "title": "Akinator",
+      "artist": "Elokence",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/92/f3/8292f3b7-38fa-1c91-b2e9-0290960cafc6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/akinator/id933135994",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/95/f0/4095f089-3c1b-678c-96f9-3fa09485ab1a/AppIcon-Free-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
