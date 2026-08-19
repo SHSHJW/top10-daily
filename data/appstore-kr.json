@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T23:18:37.031Z",
+  "updatedAt": "2026-08-19T23:19:32.441Z",
   "items": [
     {
       "rank": 1,
@@ -30,24 +30,6 @@
     },
     {
       "rank": 4,
-      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
-      "artist": "SKYWORK AI PTE LTD",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/ea/4c/caea4cce-14fd-438b-77d2-4d2ce8e9b2dd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/d7/6a/cbd76a29-25e6-91df-b5f1-2bf7cdad2784/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
       "artist": "FLEXTECH INC.",
       "category": "",
@@ -56,7 +38,16 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "오늘관리",
+      "artist": "hanna lee",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EA%B4%80%EB%A6%AC/id6796975151",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/01/cd/7101cd35-c2a1-3f80-af51-bc104ab4e748/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -65,30 +56,39 @@
       "price": "무료"
     },
     {
+      "rank": 7,
+      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
+      "artist": "SHINHAN BANK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/de/83/ddde83f0-d71d-6550-fa81-4e2db9c9d182/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 8,
+      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
+      "artist": "SKYWORK AI PTE LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/ea/4c/caea4cce-14fd-438b-77d2-4d2ce8e9b2dd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "디지털온누리",
+      "artist": "한국조폐공사",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/36/e3/7436e3fb-c013-3529-04f3-fc4039fd136f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/d2/5f/69d25f66-3b5a-6148-d7a1-c2341d7966eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "정부24(구 민원24)",
-      "artist": "행정안전부",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c5/6c/3ac56c61-e8a4-48b2-a0e3-3613946e6af7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/66/3f/bd663f9c-b266-88ab-6e38-9830abad0a47/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
