@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:22:30.115Z",
+  "updatedAt": "2026-08-21T23:19:56.310Z",
   "items": [
     {
       "rank": 1,
@@ -21,6 +21,15 @@
     },
     {
       "rank": 3,
+      "title": "네이버페이",
+      "artist": "Naver Financial Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/8d/a0/5e8da0c5-cc86-537c-2c81-6520d13dfb29/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -29,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -38,16 +47,34 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "디지털온누리",
+      "artist": "한국조폐공사",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/36/e3/7436e3fb-c013-3529-04f3-fc4039fd136f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "BIGBANG OFFICIAL LIGHT STICK",
+      "artist": "TIX Incorporated",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/bigbang-official-light-stick/id6778739404",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/27/5a/54275a6a-2a3c-3016-6cf2-64bf3070c3ab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/a7/f3/48a7f369-5aea-6448-2c86-546716b7290b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/9e/5f/949e5f96-e5ab-b1c2-8291-1d6c2b831f15/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
       "artist": "SHINHAN BANK",
       "category": "",
@@ -56,39 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 7,
-      "title": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
-      "artist": "FLEXTECH INC.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/22/f9/4b22f99d-d8a3-d781-2b03-f3efb9e20b9a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "정부24(구 민원24)",
-      "artist": "행정안전부",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c5/6c/3ac56c61-e8a4-48b2-a0e3-3613946e6af7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c1/ae/5bc1ae30-3fc6-6102-ab66-d1102ce40083/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "K-패스",
-      "artist": "교통안전공단",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/k-%ED%8C%A8%EC%8A%A4/id1538531939",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1f/13/221f137a-2c68-e7d7-41cf-d0425830a9ce/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/fc/0f/53fc0fea-62c2-fc97-646d-122e0bf38bb4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
