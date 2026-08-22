@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T23:19:56.310Z",
+  "updatedAt": "2026-08-22T23:17:47.217Z",
   "items": [
     {
       "rank": 1,
@@ -7,29 +7,11 @@
       "artist": "WooHyoung Lee",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%B0%B0%EB%8B%AC%EC%95%88%EC%99%80%EC%9A%94/id6778663553",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/d6/34/5cd634cc-4dea-77c1-a5ee-19dcbc2713b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/fc/de/6ffcdead-e201-e9a1-d66e-07fac37663a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 2,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/e9/6e/2ce96e40-6eac-c54e-1e02-87749da5a9fe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/8d/a0/5e8da0c5-cc86-537c-2c81-6520d13dfb29/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "CGV",
       "artist": "CJ CGV Co.ltd",
       "category": "",
@@ -38,7 +20,16 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/e9/6e/2ce96e40-6eac-c54e-1e02-87749da5a9fe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -47,12 +38,21 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "디지털온누리",
-      "artist": "한국조폐공사",
+      "rank": 5,
+      "title": "네이버페이",
+      "artist": "Naver Financial Corporation",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/36/e3/7436e3fb-c013-3529-04f3-fc4039fd136f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/5d/30/825d30c7-331c-0fe5-057f-1483f5291564/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/d7/6a/cbd76a29-25e6-91df-b5f1-2bf7cdad2784/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -61,34 +61,34 @@
       "artist": "TIX Incorporated",
       "category": "",
       "url": "https://apps.apple.com/kr/app/bigbang-official-light-stick/id6778739404",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/27/5a/54275a6a-2a3c-3016-6cf2-64bf3070c3ab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/0c/77/090c777d-1fe7-0297-716e-bf8b37b2e4a3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/9e/5f/949e5f96-e5ab-b1c2-8291-1d6c2b831f15/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/de/83/ddde83f0-d71d-6550-fa81-4e2db9c9d182/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/fc/0f/53fc0fea-62c2-fc97-646d-122e0bf38bb4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "우리동네GS (GS25, GS더프레시, 와인25플러스)",
+      "artist": "GS Retail Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4gs-gs25-gs%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C-%EC%99%80%EC%9D%B825%ED%94%8C%EB%9F%AC%EC%8A%A4/id426644449",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/f9/23/daf92356-392e-c061-85a1-ad3dae7e2e09/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
+      "artist": "SKYWORK AI PTE LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/ea/4c/caea4cce-14fd-438b-77d2-4d2ce8e9b2dd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
