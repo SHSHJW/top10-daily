@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T06:44:59.729Z",
+  "updatedAt": "2026-08-29T04:00:27.388Z",
   "items": [
     {
       "rank": 1,
@@ -12,15 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "Google Maps",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-maps/id585027354",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "디지털온누리",
       "artist": "한국조폐공사",
       "category": "",
@@ -29,16 +20,16 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "rank": 3,
+      "title": "101cam - 필름 & 디지털 카메라",
+      "artist": "SNOW Corporation",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/cc/31/c6cc3135-194b-b813-0986-0d8a441736c7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/52/33/5352337f-9ec5-91fb-486e-ae6fe1abd462/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -47,25 +38,16 @@
       "price": "무료"
     },
     {
+      "rank": 5,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/c0/c8/ecc0c8f2-3c03-de55-2d61-e3ea4a22ff31/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 6,
-      "title": "한국경공사",
-      "artist": "Korea gyeonggongsa Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B5%AD%EA%B2%BD%EA%B3%B5%EC%82%AC/id6511219297",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/6c/15/426c1561-a504-b00a-d228-34bf7b3082f7/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "국세청 홈택스 [손택스]",
-      "artist": "국세청",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B5%AD%EC%84%B8%EC%B2%AD-%ED%99%88%ED%83%9D%EC%8A%A4-%EC%86%90%ED%83%9D%EC%8A%A4/id495157796",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/fa/b9/91fab99a-e59a-4185-aab6-e025d9c382a4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "정부24(구 민원24)",
       "artist": "행정안전부",
       "category": "",
@@ -74,21 +56,39 @@
       "price": "무료"
     },
     {
+      "rank": 7,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/cc/31/c6cc3135-194b-b813-0986-0d8a441736c7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Google Maps",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-maps/id585027354",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 9,
+      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
+      "artist": "SKYWORK AI PTE LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/19/2e/8b192ed7-7808-d040-a6d5-4d70dc047643/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
       "title": "우리동네GS (GS25, GS더프레시, 와인25플러스)",
       "artist": "GS Retail Co., Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4gs-gs25-gs%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C-%EC%99%80%EC%9D%B825%ED%94%8C%EB%9F%AC%EC%8A%A4/id426644449",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/c4/38/fbc438d0-2492-2e7f-4c19-2cc8c4fca3d5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "CGV",
-      "artist": "CJ CGV Co.ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/c0/c8/ecc0c8f2-3c03-de55-2d61-e3ea4a22ff31/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
