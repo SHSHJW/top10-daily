@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T00:55:48.250Z",
+  "updatedAt": "2026-09-04T00:45:50.723Z",
   "items": [
     {
       "rank": 1,
@@ -21,6 +21,24 @@
     },
     {
       "rank": 3,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/8c/0a/118c0af9-62cc-4198-051c-3cdcbb4c2ebb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "만세력 천을귀인",
+      "artist": "PyoungKi Jun",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%A7%8C%EC%84%B8%EB%A0%A5-%EC%B2%9C%EC%9D%84%EA%B7%80%EC%9D%B8/id1506536946",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/63/6a/9e636a9e-f63c-03cc-62c3-a3b1d9a3d523/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "네이버 캘린더 - Naver Calendar",
       "artist": "NAVER Corp.",
       "category": "",
@@ -29,16 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/f8/8b/04f88b07-5a24-f640-4bbc-9a5edf220240/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "101cam - 필름 & 디지털 카메라",
       "artist": "SNOW Corporation",
       "category": "",
@@ -47,25 +56,25 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/db/55/fedb5542-d8b9-9f88-be27-3a581bb4e169/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 7,
       "title": "모두의카드",
       "artist": "교통안전공단",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%91%90%EC%9D%98%EC%B9%B4%EB%93%9C/id1538531939",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/35/42/4635426e-8154-0ca2-3b9c-86dfe4c9816f/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/65/38/4c653833-d24c-47fa-d3b5-3ade79d2772b/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/f8/8b/04f88b07-5a24-f640-4bbc-9a5edf220240/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "정부24(구 민원24)",
       "artist": "행정안전부",
       "category": "",
@@ -74,21 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/34/98/003498a5-7371-cbaa-f640-f1a1d2e64699/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/af/32/0daf3277-ec2f-58cd-a0e8-d2d4abc557dd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/3d/8f/b83d8fb9-195a-768f-5132-c65017e33ff3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
