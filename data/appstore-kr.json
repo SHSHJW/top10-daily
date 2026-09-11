@@ -1,35 +1,26 @@
 {
-  "updatedAt": "2026-09-10T00:49:42.131Z",
+  "updatedAt": "2026-09-11T00:48:55.412Z",
   "items": [
     {
       "rank": 1,
-      "title": "쿠우쿠우 멤버십",
-      "artist": "Waldlust Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%EC%9A%B0%EC%BF%A0%EC%9A%B0-%EB%A9%A4%EB%B2%84%EC%8B%AD/id6465872138",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d6/1a/05d61a23-c91b-f5d5-5ab4-56320f050c58/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/8e/27/848e278f-da36-d4de-4664-7b15cbe0bcf9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/8e/12/c38e12d0-6277-24e6-285d-434f66183eb3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
+      "title": "NOL(야놀자)",
+      "artist": "YANOLJA CO.,LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90/id436731843",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/e5/18/c2e518c6-ccb6-93cf-2cfd-19402b6d0ac6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 3,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/06/c7/2a06c758-ca7c-8bd5-03c7-c3026fc8ebbb/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "하나증권V-대표MTS(NEW)",
       "artist": "Hana Securities Co., Ltd.",
       "category": "",
@@ -38,12 +29,21 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "NOL(야놀자)",
-      "artist": "YANOLJA CO.,LTD",
+      "rank": 4,
+      "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
+      "artist": "ironpig Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90/id436731843",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/e5/18/c2e518c6-ccb6-93cf-2cfd-19402b6d0ac6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%82%B4%EA%B0%80-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%82%AC%EB%9E%91%ED%95%A0-%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%88%9C%EA%B0%84%EB%93%A4-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%95%B1/id6783366739",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/b6/8e/ceb68efb-6be6-2d2a-97ad-e286f40b00f6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/f8/8b/04f88b07-5a24-f640-4bbc-9a5edf220240/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,6 +57,15 @@
     },
     {
       "rank": 7,
+      "title": "쿠우쿠우 멤버십",
+      "artist": "Waldlust Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%EC%9A%B0%EC%BF%A0%EC%9A%B0-%EB%A9%A4%EB%B2%84%EC%8B%AD/id6465872138",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d6/1a/05d61a23-c91b-f5d5-5ab4-56320f050c58/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
@@ -65,21 +74,12 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
-      "artist": "ironpig Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%82%B4%EA%B0%80-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%82%AC%EB%9E%91%ED%95%A0-%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%88%9C%EA%B0%84%EB%93%A4-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%95%B1/id6783366739",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/b6/8e/ceb68efb-6be6-2d2a-97ad-e286f40b00f6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 9,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "title": "101cam - 필름 & 디지털 카메라",
+      "artist": "SNOW Corporation",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/f8/8b/04f88b07-5a24-f640-4bbc-9a5edf220240/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/6e/1e196e44-c5ee-38ee-a2f6-9569859b6b60/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
