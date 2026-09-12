@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T00:48:55.412Z",
+  "updatedAt": "2026-09-12T00:54:22.885Z",
   "items": [
     {
       "rank": 1,
@@ -21,15 +21,6 @@
     },
     {
       "rank": 3,
-      "title": "하나증권V-대표MTS(NEW)",
-      "artist": "Hana Securities Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8Cv-%EB%8C%80%ED%91%9Cmts-new/id6755097570",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/4a/65/964a652e-e7d8-92e9-8864-be989309c611/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
       "artist": "ironpig Inc.",
       "category": "",
@@ -38,12 +29,21 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "rank": 4,
+      "title": "하나증권V-대표MTS(NEW)",
+      "artist": "Hana Securities Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/f8/8b/04f88b07-5a24-f640-4bbc-9a5edf220240/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8Cv-%EB%8C%80%ED%91%9Cmts-new/id6755097570",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/c4/cf/8ec4cf24-bfe6-f8df-ba06-d3e8c44b9461/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "101cam - 필름 & 디지털 카메라",
+      "artist": "SNOW Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/6e/1e196e44-c5ee-38ee-a2f6-9569859b6b60/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,38 +57,38 @@
     },
     {
       "rank": 7,
-      "title": "쿠우쿠우 멤버십",
-      "artist": "Waldlust Co., Ltd.",
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%EC%9A%B0%EC%BF%A0%EC%9A%B0-%EB%A9%A4%EB%B2%84%EC%8B%AD/id6465872138",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d6/1a/05d61a23-c91b-f5d5-5ab4-56320f050c58/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/f8/8b/04f88b07-5a24-f640-4bbc-9a5edf220240/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/19/70/1c19704d-b48e-5c5d-78d5-d1d5ed601474/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/8b/ed/798bed8d-5c2b-6f05-4cac-72b611c5c122/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/d2/2c/1ed22c36-78c3-54c9-7b35-b6837a28c0e3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "101cam - 필름 & 디지털 카메라",
-      "artist": "SNOW Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/6e/1e196e44-c5ee-38ee-a2f6-9569859b6b60/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/af/32/0daf3277-ec2f-58cd-a0e8-d2d4abc557dd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
