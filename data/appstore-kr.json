@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T01:04:43.576Z",
+  "updatedAt": "2026-09-17T01:04:33.735Z",
   "items": [
     {
       "rank": 1,
@@ -21,11 +21,11 @@
     },
     {
       "rank": 3,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
+      "title": "설빙",
+      "artist": "설빙",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/f8/8b/04f88b07-5a24-f640-4bbc-9a5edf220240/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%84%A4%EB%B9%99/id6754139782",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/18/5e/0b185edb-a918-7488-487c-567615a3a68d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,33 +39,6 @@
     },
     {
       "rank": 5,
-      "title": "카카오페이",
-      "artist": "kakaopay corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4/id1464496236",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/7d/24/437d2497-1c88-ce15-18d9-9de98797a0cf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "Clutter - 스크린샷 정리",
-      "artist": "hayoung jin",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/clutter-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7-%EC%A0%95%EB%A6%AC/id6799858360",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/3c/cb/b73ccb9d-e251-963a-381d-bd1a44534a08/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/8f/b4/988fb4a7-5e80-b5ca-fc39-a3c44e9f2bfa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "NOL : 야놀자와 인터파크의 새로운 이름",
       "artist": "YANOLJA CO.,LTD",
       "category": "",
@@ -74,21 +47,48 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
-      "artist": "SHINHAN BANK",
+      "rank": 6,
+      "title": "디지털온누리",
+      "artist": "한국조폐공사",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/ac/65/5fac6503-b5fc-8cd4-924b-62bf1005f585/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/d6/68/47d668fa-de5d-43cd-39de-d4aec375a2b8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "101cam - 필름 & 디지털 카메라",
       "artist": "SNOW Corporation",
       "category": "",
       "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/6e/1e196e44-c5ee-38ee-a2f6-9569859b6b60/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/24/75/6424752a-af65-db93-99bf-c2bfa225814e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/a7/5f/04a75ff9-c075-e3b9-0e61-f7bcf62ad335/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
+      "artist": "SHINHAN BANK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/ac/65/5fac6503-b5fc-8cd4-924b-62bf1005f585/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
