@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T01:00:21.237Z",
+  "updatedAt": "2026-09-19T00:57:26.651Z",
   "items": [
     {
       "rank": 1,
@@ -21,11 +21,11 @@
     },
     {
       "rank": 3,
-      "title": "석가머니 - 운 모으는 부처",
-      "artist": "(주)버그홀",
+      "title": "이게내연봉",
+      "artist": "JooWon Koh",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%84%9D%EA%B0%80%EB%A8%B8%EB%8B%88-%EC%9A%B4-%EB%AA%A8%EC%9C%BC%EB%8A%94-%EB%B6%80%EC%B2%98/id6778568911",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/d7/b7/72d7b74d-0f4c-402b-6e1f-9e15d42b1d95/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%9D%B4%EA%B2%8C%EB%82%B4%EC%97%B0%EB%B4%89/id6795989020",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/ed/bc/24edbca9-342c-b3dd-74dc-43a8d19f9348/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,6 +48,15 @@
     },
     {
       "rank": 6,
+      "title": "석가머니 - 운 모으는 부처",
+      "artist": "(주)버그홀",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%84%9D%EA%B0%80%EB%A8%B8%EB%8B%88-%EC%9A%B4-%EB%AA%A8%EC%9C%BC%EB%8A%94-%EB%B6%80%EC%B2%98/id6778568911",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/d7/b7/72d7b74d-0f4c-402b-6e1f-9e15d42b1d95/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
       "title": "101cam - 필름 & 디지털 카메라",
       "artist": "SNOW Corporation",
       "category": "",
@@ -56,7 +65,16 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "하나증권V-대표MTS(NEW)",
+      "artist": "Hana Securities Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8Cv-%EB%8C%80%ED%91%9Cmts-new/id6755097570",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/3b/2c/193b2c90-cae6-7451-5a9b-f2da9e338f1a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -65,30 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "디지털온누리",
-      "artist": "한국조폐공사",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/d6/68/47d668fa-de5d-43cd-39de-d4aec375a2b8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
       "artist": "SHINHAN BANK",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/ac/65/5fac6503-b5fc-8cd4-924b-62bf1005f585/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "NOL : 야놀자와 인터파크의 새로운 이름",
-      "artist": "YANOLJA CO.,LTD",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/71/21/4b712154-672a-09a7-3fbf-e978949edbe0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
