@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T01:25:13.832Z",
+  "updatedAt": "2026-09-23T01:14:15.484Z",
   "items": [
     {
       "rank": 1,
@@ -39,24 +39,15 @@
     },
     {
       "rank": 5,
-      "title": "Google Gemini",
-      "artist": "Google",
+      "title": "Meta AI",
+      "artist": "Meta Platforms, Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/24/75/6424752a-af65-db93-99bf-c2bfa225814e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/meta-ai/id1558240027",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/60/4b/ed604be3-8e57-4050-fc7c-7085de72117e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
-      "title": "하나증권V-대표MTS(NEW)",
-      "artist": "Hana Securities Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8Cv-%EB%8C%80%ED%91%9Cmts-new/id6755097570",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/3b/2c/193b2c90-cae6-7451-5a9b-f2da9e338f1a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -65,16 +56,16 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
+      "rank": 7,
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/ee/1d/c7ee1d8c-9928-98bf-318a-0713e0351998/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/24/75/6424752a-af65-db93-99bf-c2bfa225814e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
@@ -83,12 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "101cam - 필름 & 디지털 카메라",
       "artist": "SNOW Corporation",
       "category": "",
       "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/9c/db/079cdbc7-b3c5-f7d3-cbbc-41df9c631ad3/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/b1/66/e3b1662d-4c02-dab2-47d9-dc6eea91e8d1/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "실손24",
+      "artist": "Korean Insurance Development Institute Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/3c/c0/083cc090-457a-dcc4-fb33-6e74a576378c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
