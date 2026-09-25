@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-09-24T01:03:22.418Z",
+  "updatedAt": "2026-09-25T01:07:57.134Z",
   "items": [
     {
       "rank": 1,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/8e/12/c38e12d0-6277-24e6-285d-434f66183eb3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "NetShort - 인기 드라마 및 TV 프로그램",
       "artist": "NETSTORY PTE. LTD.",
       "category": "",
@@ -20,7 +11,7 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
       "artist": "ironpig Inc.",
       "category": "",
@@ -29,25 +20,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "치지직",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/34/fe/5f34fe86-49fd-de6a-0764-00250ef56f5f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "Meta AI",
-      "artist": "Meta Platforms, Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/meta-ai/id1558240027",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/54/82/1a548250-edaa-2b04-0ead-58f045d87f0a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "title": "101cam - 필름 & 디지털 카메라",
       "artist": "SNOW Corporation",
       "category": "",
@@ -56,7 +29,16 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/8e/12/c38e12d0-6277-24e6-285d-434f66183eb3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -65,7 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -74,21 +56,39 @@
       "price": "무료"
     },
     {
+      "rank": 7,
+      "title": "CGV",
+      "artist": "CJ CGV Co.ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/b9/11/73b91175-285f-5078-95b3-e096c0faedd1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/2b/7f/7d2b7f89-437a-4283-55e5-c7c180f9d79f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 9,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/3b/42/f93b4263-8c78-7bd1-44fd-f137e3fe5f54/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
       "title": "ChatGPT",
       "artist": "OpenAI OpCo, LLC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/9a/0e/e69a0e54-a15f-4b2a-cb42-84788edb896e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/40/3a/a9403a63-cb4d-517c-2f12-44ebe9175936/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
