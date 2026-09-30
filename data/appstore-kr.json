@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T02:28:16.127Z",
+  "updatedAt": "2026-09-30T01:49:41.333Z",
   "items": [
     {
       "rank": 1,
@@ -12,11 +12,11 @@
     },
     {
       "rank": 2,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
+      "title": "집지켜: 행복주택을 가장 쉽게",
+      "artist": "플다 주식회사",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/fe/ba/65feba87-9bf1-e1a6-112c-2415452033ad/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%A7%91%EC%A7%80%EC%BC%9C-%ED%96%89%EB%B3%B5%EC%A3%BC%ED%83%9D%EC%9D%84-%EA%B0%80%EC%9E%A5-%EC%89%BD%EA%B2%8C/id6448703854",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/8e/5f/568e5f07-da7d-3bc8-b49b-a31b920a4f9a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -25,7 +25,7 @@
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/3e/c0/c43ec00d-cd1b-1435-1b65-32e4aad71187/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/3f/d4/6c3fd4e2-4190-83a4-7a7f-9dea5022910f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -39,29 +39,29 @@
     },
     {
       "rank": 5,
-      "title": "101cam - 필름 & 디지털 카메라",
-      "artist": "SNOW Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/b1/66/e3b1662d-4c02-dab2-47d9-dc6eea91e8d1/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/06/49/840649d1-5c4c-0c8a-4947-cf38e18493e4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/89/a5/1c89a53e-032b-cb5a-b1e5-e3227c749811/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/fe/ba/65feba87-9bf1-e1a6-112c-2415452033ad/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "101cam - 필름 & 디지털 카메라",
+      "artist": "SNOW Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/b1/66/e3b1662d-4c02-dab2-47d9-dc6eea91e8d1/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,20 +75,20 @@
     },
     {
       "rank": 9,
-      "title": "치지직",
-      "artist": "NAVER Corp.",
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/34/fe/5f34fe86-49fd-de6a-0764-00250ef56f5f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/06/49/840649d1-5c4c-0c8a-4947-cf38e18493e4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
-      "artist": "SKYWORK AI PTE LTD",
+      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
+      "artist": "SHINHAN BANK",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/ac/65/5fac6503-b5fc-8cd4-924b-62bf1005f585/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
