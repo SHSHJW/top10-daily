@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-10-01T01:47:48.430Z",
+  "updatedAt": "2026-10-02T01:59:56.630Z",
   "items": [
     {
       "rank": 1,
+      "title": "bubble for STARSHIP",
+      "artist": "Dear U Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/bubble-for-starship/id1667760766",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/c8/d3/4dc8d364-7fe7-ac56-ccd8-c8b654bc75a4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -11,7 +20,7 @@
       "price": "무료"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -20,7 +29,7 @@
       "price": "무료"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
       "artist": "ironpig Inc.",
       "category": "",
@@ -29,21 +38,12 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/18/5f/56185f5c-3d36-a721-48fe-203a47d5f002/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/c4/10/72c4100b-584b-356b-0b2e-acff6d296f1f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,24 +57,15 @@
     },
     {
       "rank": 7,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/06/49/840649d1-5c4c-0c8a-4947-cf38e18493e4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/c4/10/72c4100b-584b-356b-0b2e-acff6d296f1f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/05/c6/b805c64b-6cf1-31b7-2105-d098f7512156/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "애슐리 멤버스",
       "artist": "이랜드이츠",
       "category": "",
@@ -83,12 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "모두의카드",
-      "artist": "교통안전공단",
+      "rank": 9,
+      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
+      "artist": "SHINHAN BANK",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%91%90%EC%9D%98%EC%B9%B4%EB%93%9C/id1538531939",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/65/38/4c653833-d24c-47fa-d3b5-3ade79d2772b/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/05/c6/b805c64b-6cf1-31b7-2105-d098f7512156/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "하나증권V-대표MTS(NEW)",
+      "artist": "Hana Securities Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8Cv-%EB%8C%80%ED%91%9Cmts-new/id6755097570",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/3b/2c/193b2c90-cae6-7451-5a9b-f2da9e338f1a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
