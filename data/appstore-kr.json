@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T02:29:48.490Z",
+  "updatedAt": "2026-10-09T02:45:57.928Z",
   "items": [
     {
       "rank": 1,
@@ -12,15 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/3f/d4/6c3fd4e2-4190-83a4-7a7f-9dea5022910f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "NetShort - 인기 드라마 및 TV 프로그램",
       "artist": "NETSTORY PTE. LTD.",
       "category": "",
@@ -29,25 +20,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "bubble for STARSHIP",
-      "artist": "Dear U Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/bubble-for-starship/id1667760766",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/c8/d3/4dc8d364-7fe7-ac56-ccd8-c8b654bc75a4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/3e/66/1b3e66b0-b3bd-bcf2-3b5b-76af66d255a7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "title": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
       "artist": "FLEXTECH INC.",
       "category": "",
@@ -56,7 +29,25 @@
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/3f/d4/6c3fd4e2-4190-83a4-7a7f-9dea5022910f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "101cam - 필름 & 디지털 카메라",
+      "artist": "SNOW Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/51/68/cb51683a-9c9e-d8d0-dd76-eb45ccc89922/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
       "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
       "artist": "ironpig Inc.",
       "category": "",
@@ -65,21 +56,30 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "오렌즈",
-      "artist": "STARVISION CO., LTD.",
+      "rank": 7,
+      "title": "bubble for STARSHIP",
+      "artist": "Dear U Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%98%A4%EB%A0%8C%EC%A6%88/id1071031131",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/ee/31/c2ee31fc-e818-1ab3-27d9-a7028937c436/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/bubble-for-starship/id1667760766",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/c8/d3/4dc8d364-7fe7-ac56-ccd8-c8b654bc75a4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/05/11/ca051103-4acb-a2c4-6e5c-7568e85cfcf9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "101cam - 필름 & 디지털 카메라",
-      "artist": "SNOW Corporation",
+      "title": "NOL : 야놀자와 인터파크의 새로운 이름",
+      "artist": "YANOLJA CO.,LTD",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/b1/66/e3b1662d-4c02-dab2-47d9-dc6eea91e8d1/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/2e/aa/ac2eaa48-7153-68a4-5914-d7c4a859733f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
