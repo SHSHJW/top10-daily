@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-10-12T02:03:33.867Z",
+  "updatedAt": "2026-10-13T03:21:48.278Z",
   "items": [
     {
       "rank": 1,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/fe/ba/65feba87-9bf1-e1a6-112c-2415452033ad/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
@@ -20,21 +11,30 @@
       "price": "무료"
     },
     {
-      "rank": 3,
-      "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
-      "artist": "ironpig Inc.",
+      "rank": 2,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%82%B4%EA%B0%80-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%82%AC%EB%9E%91%ED%95%A0-%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%88%9C%EA%B0%84%EB%93%A4-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%95%B1/id6783366739",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/73/96/9d739664-db59-d7e3-aba2-81aceee30123/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/8e/12/c38e12d0-6277-24e6-285d-434f66183eb3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/fe/ba/65feba87-9bf1-e1a6-112c-2415452033ad/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "101cam - 필름 & 디지털 카메라",
-      "artist": "SNOW Corporation",
+      "title": "킹보드 - 맞춤법 검사기·번역 AI 키보드",
+      "artist": "Dong sub Park",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/51/68/cb51683a-9c9e-d8d0-dd76-eb45ccc89922/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%82%B9%EB%B3%B4%EB%93%9C-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B2%80%EC%82%AC%EA%B8%B0-%EB%B2%88%EC%97%AD-ai-%ED%82%A4%EB%B3%B4%EB%93%9C/id6762074672",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/3d/89/a13d8924-1dc7-e592-4fe0-1ec036330ba8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,11 +48,11 @@
     },
     {
       "rank": 6,
-      "title": "킹보드 - 맞춤법 검사기·번역 AI 키보드",
-      "artist": "Dong sub Park",
+      "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
+      "artist": "ironpig Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%82%B9%EB%B3%B4%EB%93%9C-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B2%80%EC%82%AC%EA%B8%B0-%EB%B2%88%EC%97%AD-ai-%ED%82%A4%EB%B3%B4%EB%93%9C/id6762074672",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/3d/89/a13d8924-1dc7-e592-4fe0-1ec036330ba8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%82%B4%EA%B0%80-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%82%AC%EB%9E%91%ED%95%A0-%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%88%9C%EA%B0%84%EB%93%A4-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%95%B1/id6783366739",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/73/96/9d739664-db59-d7e3-aba2-81aceee30123/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,29 +66,29 @@
     },
     {
       "rank": 8,
-      "title": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
-      "artist": "FLEXTECH INC.",
+      "title": "101cam - 필름 & 디지털 카메라",
+      "artist": "SNOW Corporation",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/47/20/54472055-16b9-d375-6ae1-0ba3cce7ef89/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/51/68/cb51683a-9c9e-d8d0-dd76-eb45ccc89922/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "유니클로 UNIQLO - 쇼핑",
-      "artist": "UNIQLO CO., LTD.",
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/b3/48/bcb34847-9f5a-75d7-01cc-b68c2062e16a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/3f/2f/4e3f2f2f-e6bd-91fc-c73f-8bdb62bd9dde/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "Payke 쿠폰으로 일본 여행 알뜰하게! 번역·리뷰",
-      "artist": "株式会社Payke",
+      "title": "NOL : 야놀자와 인터파크의 새로운 이름",
+      "artist": "YANOLJA CO.,LTD",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/payke-%EC%BF%A0%ED%8F%B0%EC%9C%BC%EB%A1%9C-%EC%9D%BC%EB%B3%B8-%EC%97%AC%ED%96%89-%EC%95%8C%EB%9C%B0%ED%95%98%EA%B2%8C-%EB%B2%88%EC%97%AD-%EB%A6%AC%EB%B7%B0/id1040452788",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/c6/20/d2c6205e-d8b2-1d07-25c0-dcb6283a9331/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/2e/aa/ac2eaa48-7153-68a4-5914-d7c4a859733f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
