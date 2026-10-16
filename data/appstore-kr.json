@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-10-15T01:11:53.715Z",
+  "updatedAt": "2026-10-16T00:59:46.714Z",
   "items": [
     {
       "rank": 1,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/3f/d4/6c3fd4e2-4190-83a4-7a7f-9dea5022910f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -20,12 +11,21 @@
       "price": "무료"
     },
     {
-      "rank": 3,
-      "title": "후라이드참잘하는집",
-      "artist": "WMPO Inc.",
+      "rank": 2,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%B0%B8%EC%9E%98%ED%95%98%EB%8A%94%EC%A7%91/id6798938676",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/90/c8/fd90c89e-c432-2e06-38a9-0a687511b55f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/3f/d4/6c3fd4e2-4190-83a4-7a7f-9dea5022910f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "NOL : 야놀자와 인터파크의 새로운 이름",
+      "artist": "YANOLJA CO.,LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/d2/fe/aad2feda-66f5-4bf4-7633-e2b5124f21e9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -34,7 +34,7 @@
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/61/43/51614377-8976-4277-5f5e-90c614b04913/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/40/fc/9540fc5b-705f-03bb-fefd-a70c3f840ced/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,11 +48,11 @@
     },
     {
       "rank": 6,
-      "title": "NOL : 야놀자와 인터파크의 새로운 이름",
-      "artist": "YANOLJA CO.,LTD",
+      "title": "후라이드참잘하는집",
+      "artist": "WMPO Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/d2/fe/aad2feda-66f5-4bf4-7633-e2b5124f21e9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%B0%B8%EC%9E%98%ED%95%98%EB%8A%94%EC%A7%91/id6798938676",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/5c/77/1e5c77a3-336e-1bda-b1a9-6ef5a92009df/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,11 +66,11 @@
     },
     {
       "rank": 8,
-      "title": "Google Gemini",
-      "artist": "Google",
+      "title": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
+      "artist": "FLEXTECH INC.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/69/2c/86692cd5-8c2d-c25f-8aaf-9cd1c7478d4a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/47/20/54472055-16b9-d375-6ae1-0ba3cce7ef89/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
-      "artist": "FLEXTECH INC.",
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/47/20/54472055-16b9-d375-6ae1-0ba3cce7ef89/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/69/2c/86692cd5-8c2d-c25f-8aaf-9cd1c7478d4a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
