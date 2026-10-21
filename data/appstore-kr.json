@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-10-20T01:33:55.127Z",
+  "updatedAt": "2026-10-21T01:15:56.487Z",
   "items": [
     {
       "rank": 1,
+      "title": "크레페",
+      "artist": "COOKIEPLACE Inc.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%81%AC%EB%A0%88%ED%8E%98/id6753073065",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/1f/88/3c1f88fb-e535-0d06-0aa7-7fa4ee783f7c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/3f/d4/6c3fd4e2-4190-83a4-7a7f-9dea5022910f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/22/d1/a422d187-52f2-ec6f-bb2d-87d3558373e6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,6 +30,24 @@
     },
     {
       "rank": 4,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/aa/b6/3faab6c9-7530-f401-f742-8e508798d635/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "네이버페이",
+      "artist": "Naver Financial Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/b8/b8/4eb8b88b-d0ba-c87b-348f-88141bc2469c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
       "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
       "artist": "ironpig Inc.",
       "category": "",
@@ -38,7 +56,7 @@
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "실손24",
       "artist": "Korean Insurance Development Institute Inc.",
       "category": "",
@@ -47,16 +65,7 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/0d/42/ef0d42c6-12b6-b9f6-3d9f-d95b91cd5627/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -65,30 +74,21 @@
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/0d/42/ef0d42c6-12b6-b9f6-3d9f-d95b91cd5627/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
       "title": "포켓CU",
       "artist": "BGFretail Co., Ltd.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/d2/2c/9fd22cff-28af-a061-c879-3615406ec36e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
-      "title": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
-      "artist": "FLEXTECH INC.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/00/c1/5400c15c-d56b-c562-7af2-08e925e3edb3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "淘宝-万能的淘宝！",
-      "artist": "浙江淘宝网络有限公司",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%E6%B7%98%E5%AE%9D-%E4%B8%87%E8%83%BD%E7%9A%84%E6%B7%98%E5%AE%9D/id387682726",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/b1/4a/d4b14a2f-73e2-a36d-49e7-ff8492fa7e06/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
