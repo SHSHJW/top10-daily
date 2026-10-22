@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-10-21T01:15:56.487Z",
+  "updatedAt": "2026-10-22T01:11:49.477Z",
   "items": [
     {
       "rank": 1,
-      "title": "크레페",
-      "artist": "COOKIEPLACE Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%81%AC%EB%A0%88%ED%8E%98/id6753073065",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/1f/88/3c1f88fb-e535-0d06-0aa7-7fa4ee783f7c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/3f/d4/6c3fd4e2-4190-83a4-7a7f-9dea5022910f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/91/bd/4391bdf8-0cfb-5f5d-ba04-9562a56a2f61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,11 +30,11 @@
     },
     {
       "rank": 4,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
+      "title": "NOL : 야놀자와 인터파크의 새로운 이름",
+      "artist": "YANOLJA CO.,LTD",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/aa/b6/3faab6c9-7530-f401-f742-8e508798d635/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/d2/fe/aad2feda-66f5-4bf4-7633-e2b5124f21e9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,11 +57,11 @@
     },
     {
       "rank": 7,
-      "title": "실손24",
-      "artist": "Korean Insurance Development Institute Inc.",
+      "title": "AI Catch(AI 캐치): AI 영상 생성기",
+      "artist": "Prominent Fortune PTE. LTD",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/3c/c0/083cc090-457a-dcc4-fb33-6e74a576378c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/ai-catch-ai-%EC%BA%90%EC%B9%98-ai-%EC%98%81%EC%83%81-%EC%83%9D%EC%84%B1%EA%B8%B0/id6739276631",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/59/0e/f5590e6a-9e2d-268f-72e6-1eb8c8ebe64d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -70,25 +70,25 @@
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/69/2c/86692cd5-8c2d-c25f-8aaf-9cd1c7478d4a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/06/62/300662ce-cd91-f109-8ca9-ca1517193f61/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
+      "title": "크레페",
+      "artist": "COOKIEPLACE Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/0d/42/ef0d42c6-12b6-b9f6-3d9f-d95b91cd5627/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%81%AC%EB%A0%88%ED%8E%98/id6753073065",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/4e/d0/584ed053-06df-b233-94a4-0bf42b6f8606/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "포켓CU",
-      "artist": "BGFretail Co., Ltd.",
+      "title": "실손24",
+      "artist": "Korean Insurance Development Institute Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/d2/2c/9fd22cff-28af-a061-c879-3615406ec36e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/3c/c0/083cc090-457a-dcc4-fb33-6e74a576378c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
