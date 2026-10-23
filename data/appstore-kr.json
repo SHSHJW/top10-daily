@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T01:11:49.477Z",
+  "updatedAt": "2026-10-23T01:11:15.599Z",
   "items": [
     {
       "rank": 1,
@@ -16,7 +16,7 @@
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/91/bd/4391bdf8-0cfb-5f5d-ba04-9562a56a2f61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/6f/5b/f26f5be9-3639-b2f6-3951-28654ddc5291/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,15 +30,6 @@
     },
     {
       "rank": 4,
-      "title": "NOL : 야놀자와 인터파크의 새로운 이름",
-      "artist": "YANOLJA CO.,LTD",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/d2/fe/aad2feda-66f5-4bf4-7633-e2b5124f21e9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
       "title": "네이버페이",
       "artist": "Naver Financial Corporation",
       "category": "",
@@ -47,16 +38,16 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
-      "artist": "ironpig Inc.",
+      "rank": 5,
+      "title": "NOL : 야놀자와 인터파크의 새로운 이름",
+      "artist": "YANOLJA CO.,LTD",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%82%B4%EA%B0%80-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%82%AC%EB%9E%91%ED%95%A0-%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%88%9C%EA%B0%84%EB%93%A4-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%95%B1/id6783366739",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/73/96/9d739664-db59-d7e3-aba2-81aceee30123/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/d2/fe/aad2feda-66f5-4bf4-7633-e2b5124f21e9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "AI Catch(AI 캐치): AI 영상 생성기",
       "artist": "Prominent Fortune PTE. LTD",
       "category": "",
@@ -65,7 +56,7 @@
       "price": "무료"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -74,21 +65,30 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "크레페",
-      "artist": "COOKIEPLACE Inc.",
+      "rank": 8,
+      "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
+      "artist": "ironpig Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%81%AC%EB%A0%88%ED%8E%98/id6753073065",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/4e/d0/584ed053-06df-b233-94a4-0bf42b6f8606/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%82%B4%EA%B0%80-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%82%AC%EB%9E%91%ED%95%A0-%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%88%9C%EA%B0%84%EB%93%A4-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%95%B1/id6783366739",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/73/96/9d739664-db59-d7e3-aba2-81aceee30123/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "Shardee 샤디 | mini vlog camera",
+      "artist": "DIARO",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/shardee-%EC%83%A4%EB%94%94-mini-vlog-camera/id6739505769",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/46/88/87468899-76c9-9edb-60ce-3ad2ad90d135/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "실손24",
-      "artist": "Korean Insurance Development Institute Inc.",
+      "title": "성범죄자 알림e",
+      "artist": "Ministry of Gender Equality and Family, Republic of Korea",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/3c/c0/083cc090-457a-dcc4-fb33-6e74a576378c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%84%B1%EB%B2%94%EC%A3%84%EC%9E%90-%EC%95%8C%EB%A6%BCe/id896534884",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/9d/00/129d00cb-17d1-1e69-f157-350428c97343/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
