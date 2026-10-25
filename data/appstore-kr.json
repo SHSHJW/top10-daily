@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T01:20:38.893Z",
+  "updatedAt": "2026-10-25T00:48:23.513Z",
   "items": [
     {
       "rank": 1,
@@ -12,11 +12,11 @@
     },
     {
       "rank": 2,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/20/ce/c420ce49-2515-c2b1-15d6-6328af6f1225/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/0d/42/ef0d42c6-12b6-b9f6-3d9f-d95b91cd5627/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -25,34 +25,34 @@
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/92/7d/0c927dd4-5dfa-b3ed-fc7f-74871727e9fa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/00/7c/eb007c0a-a26e-eb3e-9f89-cb1c37049237/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 4,
-      "title": "AI Catch(AI 캐치): AI 영상 생성기",
-      "artist": "Prominent Fortune PTE. LTD",
+      "title": "ReelShort - 드라마 & TV 실시간",
+      "artist": "NewLeaf Publishing",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/ai-catch-ai-%EC%BA%90%EC%B9%98-ai-%EC%98%81%EC%83%81-%EC%83%9D%EC%84%B1%EA%B8%B0/id6739276631",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/59/0e/f5590e6a-9e2d-268f-72e6-1eb8c8ebe64d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/reelshort-%EB%93%9C%EB%9D%BC%EB%A7%88-tv-%EC%8B%A4%EC%8B%9C%EA%B0%84/id1636235979",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "네이버페이",
-      "artist": "Naver Financial Corporation",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/b8/b8/4eb8b88b-d0ba-c87b-348f-88141bc2469c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
       "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
       "artist": "ironpig Inc.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%82%B4%EA%B0%80-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%82%AC%EB%9E%91%ED%95%A0-%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%88%9C%EA%B0%84%EB%93%A4-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%95%B1/id6783366739",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/73/96/9d739664-db59-d7e3-aba2-81aceee30123/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "AI Catch(AI 캐치): AI 영상 생성기",
+      "artist": "Prominent Fortune PTE. LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/ai-catch-ai-%EC%BA%90%EC%B9%98-ai-%EC%98%81%EC%83%81-%EC%83%9D%EC%84%B1%EA%B8%B0/id6739276631",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/59/0e/f5590e6a-9e2d-268f-72e6-1eb8c8ebe64d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,6 +66,15 @@
     },
     {
       "rank": 8,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/20/ce/c420ce49-2515-c2b1-15d6-6328af6f1225/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -74,21 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "ReelShort - 드라마 & TV 실시간",
-      "artist": "NewLeaf Publishing",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/reelshort-%EB%93%9C%EB%9D%BC%EB%A7%88-tv-%EC%8B%A4%EC%8B%9C%EA%B0%84/id1636235979",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 10,
-      "title": "NetShort - 인기 드라마 및 TV 프로그램",
-      "artist": "NETSTORY PTE. LTD.",
+      "title": "네이버페이",
+      "artist": "Naver Financial Corporation",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/0d/42/ef0d42c6-12b6-b9f6-3d9f-d95b91cd5627/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/b8/b8/4eb8b88b-d0ba-c87b-348f-88141bc2469c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
