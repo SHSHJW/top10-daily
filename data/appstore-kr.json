@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T02:24:15.909Z",
+  "updatedAt": "2026-10-31T01:59:53.017Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/ac/ec/a9acec34-2348-bb7a-c2e7-c3f8b1134a5b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/16/08/f51608f7-77cb-a5c0-4a7b-28450f37677f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -16,7 +16,7 @@
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/fd/d0/17fdd0a1-91b9-7620-18bc-be0c75a0e400/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/7d/46/8e7d46b1-57f2-77eb-60e2-cd42c9563e45/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,33 +48,6 @@
     },
     {
       "rank": 6,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/33/1b/63331b32-bc24-fa24-d7e7-935cb16e6c34/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "세븐일레븐",
-      "artist": "Korea Seven Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90/id1253773772",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/d4/2a/a4d42a4b-2806-581a-42a3-52ad2c7cf654/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "포켓CU",
-      "artist": "BGFretail Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/d2/2c/9fd22cff-28af-a061-c879-3615406ec36e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "우리동네GS (GS25, GS더프레시, 와인25플러스)",
       "artist": "GS Retail Co., Ltd.",
       "category": "",
@@ -83,12 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
+      "rank": 7,
+      "title": "포켓CU",
+      "artist": "BGFretail Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/2d/27/722d272a-9d6f-d186-8a92-6a884107df8f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/d2/2c/9fd22cff-28af-a061-c879-3615406ec36e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/33/1b/63331b32-bc24-fa24-d7e7-935cb16e6c34/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "이마트 - 매장쇼핑 전 필수!",
+      "artist": "SHINSEGAE EMART",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%9D%B4%EB%A7%88%ED%8A%B8-%EB%A7%A4%EC%9E%A5%EC%87%BC%ED%95%91-%EC%A0%84-%ED%95%84%EC%88%98/id397728319",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e2/10/82e210cb-bbd6-5831-b503-8f3d5fac85c2/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.jpeg/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "세븐일레븐",
+      "artist": "Korea Seven Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90/id1253773772",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/d4/2a/a4d42a4b-2806-581a-42a3-52ad2c7cf654/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
