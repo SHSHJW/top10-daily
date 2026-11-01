@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T01:59:53.017Z",
+  "updatedAt": "2026-11-01T01:50:06.593Z",
   "items": [
     {
       "rank": 1,
@@ -21,6 +21,15 @@
     },
     {
       "rank": 3,
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/0d/42/ef0d42c6-12b6-b9f6-3d9f-d95b91cd5627/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -29,21 +38,12 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "피클: 나만의 AI 에이전트",
-      "artist": "Pickle Company",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%94%BC%ED%81%B4-%EB%82%98%EB%A7%8C%EC%9D%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/id6795790129",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/82/72/2c827240-6a5f-bfdb-169b-858949c74db6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 5,
-      "title": "안전디딤돌",
-      "artist": "행정안전부",
+      "title": "캐치테이블",
+      "artist": "WADcorp",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%95%88%EC%A0%84%EB%94%94%EB%94%A4%EB%8F%8C/id6748367192",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/ba/1a/9bba1afd-e8c8-a09b-9c50-d716cf07368c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/01/3b/fd013bb7-cf1f-451d-ea2f-4b8ae5fce4d2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -57,20 +57,20 @@
     },
     {
       "rank": 7,
-      "title": "포켓CU",
-      "artist": "BGFretail Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/d2/2c/9fd22cff-28af-a061-c879-3615406ec36e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/33/1b/63331b32-bc24-fa24-d7e7-935cb16e6c34/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "포켓CU",
+      "artist": "BGFretail Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/d2/2c/9fd22cff-28af-a061-c879-3615406ec36e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "세븐일레븐",
-      "artist": "Korea Seven Co., Ltd.",
+      "title": "안전디딤돌",
+      "artist": "행정안전부",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90/id1253773772",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/d4/2a/a4d42a4b-2806-581a-42a3-52ad2c7cf654/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%95%88%EC%A0%84%EB%94%94%EB%94%A4%EB%8F%8C/id6748367192",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/ba/1a/9bba1afd-e8c8-a09b-9c50-d716cf07368c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
