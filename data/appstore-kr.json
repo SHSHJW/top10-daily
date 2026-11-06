@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T03:08:16.318Z",
+  "updatedAt": "2026-11-06T03:08:33.072Z",
   "items": [
     {
       "rank": 1,
@@ -12,11 +12,11 @@
     },
     {
       "rank": 2,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
+      "title": "더현대Hi",
+      "artist": "Hyundai Department Store Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/d6/f1/d7d6f168-f3ce-ee3c-e8fd-0563019400d4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%8D%94%ED%98%84%EB%8C%80hi/id1067693191",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/79/8f/75798fe0-a538-d5fd-4eac-ab4ecfaeb8c7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,6 +30,15 @@
     },
     {
       "rank": 4,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/d6/f1/d7d6f168-f3ce-ee3c-e8fd-0563019400d4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -38,39 +47,30 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "더현대Hi",
-      "artist": "Hyundai Department Store Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8D%94%ED%98%84%EB%8C%80hi/id1067693191",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/79/8f/75798fe0-a538-d5fd-4eac-ab4ecfaeb8c7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 6,
-      "title": "FoxPeek - 기기 사양 확인",
-      "artist": "Xiamen Infinity Starway Technology Co., Ltd.",
+      "title": "더존 위하고 모바일",
+      "artist": "Douzone Bizon Co.,Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/foxpeek-%EA%B8%B0%EA%B8%B0-%EC%82%AC%EC%96%91-%ED%99%95%EC%9D%B8/id6786934374",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/a5/33/63a5331c-0a6e-0297-26b9-5a1e63b75201/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%8D%94%EC%A1%B4-%EC%9C%84%ED%95%98%EA%B3%A0-%EB%AA%A8%EB%B0%94%EC%9D%BC/id1363039300",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/ce/ff/1eceff33-ba31-b771-3a1d-5b9cbd22ed16/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "AnySchedule - 공유 캘린더 & 플래너",
-      "artist": "ReleCompany",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/anyschedule-%EA%B3%B5%EC%9C%A0-%EC%BA%98%EB%A6%B0%EB%8D%94-%ED%94%8C%EB%9E%98%EB%84%88/id6759487521",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/92/2a/3f922ac2-b869-946d-d409-7b11bfb7ba03/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/96/f2/c396f2cb-1981-3845-5b59-7cffb0565921/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "복지로",
+      "artist": "MINISTRY OF HEALTH & WELFARE",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%B3%B5%EC%A7%80%EB%A1%9C/id490534512",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/e2/ea/86e2eac5-e5f3-30d7-8e18-3f38c15ad834/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "NOL : 야놀자와 인터파크의 새로운 이름",
-      "artist": "YANOLJA CO.,LTD",
+      "title": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/69/8c/90698c47-8413-6cbc-70eb-886aad3690c6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/9c/84/5c9c8431-bd39-08fa-cba4-8bb6561f9877/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
