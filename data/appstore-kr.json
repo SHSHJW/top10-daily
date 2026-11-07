@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T03:08:33.072Z",
+  "updatedAt": "2026-11-07T02:31:22.765Z",
   "items": [
     {
       "rank": 1,
@@ -12,15 +12,6 @@
     },
     {
       "rank": 2,
-      "title": "더현대Hi",
-      "artist": "Hyundai Department Store Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8D%94%ED%98%84%EB%8C%80hi/id1067693191",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/79/8f/75798fe0-a538-d5fd-4eac-ab4ecfaeb8c7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "피클: 나만의 AI 에이전트",
       "artist": "Pickle Company",
       "category": "",
@@ -29,16 +20,16 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/d6/f1/d7d6f168-f3ce-ee3c-e8fd-0563019400d4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/6d/38/fd6d38a7-9464-7fc5-c6d2-9ea0e83eebda/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -47,25 +38,16 @@
       "price": "무료"
     },
     {
+      "rank": 5,
+      "title": "ReelShort - 드라마 & TV 실시간",
+      "artist": "NewLeaf Publishing",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/reelshort-%EB%93%9C%EB%9D%BC%EB%A7%88-tv-%EC%8B%A4%EC%8B%9C%EA%B0%84/id1636235979",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 6,
-      "title": "더존 위하고 모바일",
-      "artist": "Douzone Bizon Co.,Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8D%94%EC%A1%B4-%EC%9C%84%ED%95%98%EA%B3%A0-%EB%AA%A8%EB%B0%94%EC%9D%BC/id1363039300",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/ce/ff/1eceff33-ba31-b771-3a1d-5b9cbd22ed16/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/96/f2/c396f2cb-1981-3845-5b59-7cffb0565921/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "복지로",
       "artist": "MINISTRY OF HEALTH & WELFARE",
       "category": "",
@@ -74,21 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "실손24",
-      "artist": "Korean Insurance Development Institute Inc.",
+      "rank": 7,
+      "title": "더현대Hi",
+      "artist": "Hyundai Department Store Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/3c/c0/083cc090-457a-dcc4-fb33-6e74a576378c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%8D%94%ED%98%84%EB%8C%80hi/id1067693191",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/79/8f/75798fe0-a538-d5fd-4eac-ab4ecfaeb8c7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "서울Pay+ (서울페이,서울페이플러스,서울사랑상품권)",
+      "artist": "비즈플레이(주)",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8pay-%EC%84%9C%EC%9A%B8%ED%8E%98%EC%9D%B4-%EC%84%9C%EC%9A%B8%ED%8E%98%EC%9D%B4%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%84%9C%EC%9A%B8%EC%82%AC%EB%9E%91%EC%83%81%ED%92%88%EA%B6%8C/id6479675842",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/ad/e1/eeade1f9-1c86-ff02-15c3-cf99b1044e19/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/96/f2/c396f2cb-1981-3845-5b59-7cffb0565921/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "ChatGPT",
-      "artist": "OpenAI OpCo, LLC",
+      "title": "세븐일레븐",
+      "artist": "Korea Seven Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/9c/84/5c9c8431-bd39-08fa-cba4-8bb6561f9877/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90/id1253773772",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/d4/2a/a4d42a4b-2806-581a-42a3-52ad2c7cf654/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
