@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T02:21:04.162Z",
+  "updatedAt": "2026-11-10T04:29:17.465Z",
   "items": [
     {
       "rank": 1,
@@ -21,60 +21,6 @@
     },
     {
       "rank": 3,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/08/a2/eb08a23b-5d02-23e3-da67-f08d5a11f774/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
-      "title": "TOPTEN10",
-      "artist": "신성통상㈜",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/topten10/id6450069980",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/37/5d/5a375d32-4a2b-db68-179f-f871aa189b0f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 5,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/4a/75/a74a7522-69e1-c4d3-55ec-0c07dfd8c29a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "유니클로 UNIQLO - 쇼핑",
-      "artist": "UNIQLO CO., LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/df/39/d5df3950-7bbe-81d2-170a-6be0c40a71c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "ReelShort - 드라마 & TV 실시간",
-      "artist": "NewLeaf Publishing",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/reelshort-%EB%93%9C%EB%9D%BC%EB%A7%88-tv-%EC%8B%A4%EC%8B%9C%EA%B0%84/id1636235979",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "DramaWave -일본 / 한국 / 인기 단편 드라마",
-      "artist": "SKYWORK AI PTE LTD",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/ce/40/08ce40ee-4644-deba-4a38-1df5dcd45656/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -83,12 +29,66 @@
       "price": "무료"
     },
     {
-      "rank": 10,
+      "rank": 4,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/08/a2/eb08a23b-5d02-23e3-da67-f08d5a11f774/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/18/18/ac18189d-f7c9-ed70-deb5-62aa7abc80d6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "카카오페이",
+      "artist": "kakaopay corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4/id1464496236",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/d3/90/8dd3904a-bda1-3d27-f1ba-7d7d274ed405/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "다이소몰",
+      "artist": "ASUNGDAISO, Co.,Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%8B%A4%EC%9D%B4%EC%86%8C%EB%AA%B0/id1070715498",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/cf/8e/6fcf8e4f-7fa3-032e-9fa5-c5837c7a273f/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/96/f2/c396f2cb-1981-3845-5b59-7cffb0565921/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "29CM",
+      "artist": "29CM",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/29cm/id789634744",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/59/df/9259df47-5c38-2c3c-3d23-cf79eec7b3a2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/14/d8/f014d8ad-5a07-c9d3-f12a-03acde9e6776/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
