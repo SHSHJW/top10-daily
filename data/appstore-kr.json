@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-12T03:34:53.356Z",
+  "updatedAt": "2026-11-13T03:07:01.710Z",
   "items": [
     {
       "rank": 1,
-      "title": "엽기떡볶이",
-      "artist": "(주)핫시즈너",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%97%BD%EA%B8%B0%EB%96%A1%EB%B3%B6%EC%9D%B4/id1190023113",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/42/f7/6342f720-477b-e5c8-b902-661277b9f115/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/e8/ad/5de8adb3-fb94-06b4-5d6a-5cac65fd3a65/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
+      "title": "엽기떡볶이",
+      "artist": "(주)핫시즈너",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%97%BD%EA%B8%B0%EB%96%A1%EB%B3%B6%EC%9D%B4/id1190023113",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/42/f7/6342f720-477b-e5c8-b902-661277b9f115/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -30,11 +30,11 @@
     },
     {
       "rank": 4,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "title": "Everland",
+      "artist": "Samsung Everland Co. Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/18/18/ac18189d-f7c9-ed70-deb5-62aa7abc80d6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/everland/id396584034",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/68/13/0d6813a9-6ad6-4584-7fc5-ecf360b59460/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -43,52 +43,52 @@
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/a0/eb/f8a0eba3-be3c-7cbb-214b-f138d28f45d5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/49/47/cd4947cd-775d-0ca2-28ad-405a7ff62e59/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
+      "title": "삼쩜삼 - 세금/병원비 환급, 정부 혜택, 앱테크",
+      "artist": "자비스앤빌런즈",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/96/82/9c9682e8-22d8-3062-3789-67c0c6bc0723/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%A9%9C%EC%82%BC-%EC%84%B8%EA%B8%88-%EB%B3%91%EC%9B%90%EB%B9%84-%ED%99%98%EA%B8%89-%EC%A0%95%EB%B6%80-%ED%98%9C%ED%83%9D-%EC%95%B1%ED%85%8C%ED%81%AC/id1584600717",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/6f/f3/146ff37e-cd6e-6be0-8180-8964792895e3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "카카오페이",
-      "artist": "kakaopay corp.",
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4/id1464496236",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/27/f5/1a27f559-b38c-7e6c-4a31-22bb83768a15/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/5d/2d/0d5d2db1-2893-27f2-70dc-7d7c66b42719/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "KFC Korea",
-      "artist": "KFC KOREA Co., Ltd",
+      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "artist": "Trip.com Travel Singapore Pte. Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/kfc-korea/id1255799839",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/61/d3/2e61d3ae-3dc2-d611-fb85-0c632caabf13/AppIconDooms-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/f9/fe/56f9fe7f-36ad-50d2-9ef8-8e40537ed0c2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "포켓CU",
-      "artist": "BGFretail Co., Ltd.",
+      "title": "MUJI KR",
+      "artist": "MUJI KOREA CO.,LTD",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/d2/2c/9fd22cff-28af-a061-c879-3615406ec36e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/0b/66/a30b66f5-867b-b90e-f488-232a3e4b0c14/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "29CM",
-      "artist": "29CM",
+      "title": "실손24",
+      "artist": "Korean Insurance Development Institute Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/29cm/id789634744",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/59/df/9259df47-5c38-2c3c-3d23-cf79eec7b3a2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/3c/c0/083cc090-457a-dcc4-fb33-6e74a576378c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
