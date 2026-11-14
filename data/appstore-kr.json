@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T03:07:01.710Z",
+  "updatedAt": "2026-11-14T02:53:50.675Z",
   "items": [
     {
       "rank": 1,
@@ -12,20 +12,20 @@
     },
     {
       "rank": 2,
-      "title": "엽기떡볶이",
-      "artist": "(주)핫시즈너",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%97%BD%EA%B8%B0%EB%96%A1%EB%B3%B6%EC%9D%B4/id1190023113",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/42/f7/6342f720-477b-e5c8-b902-661277b9f115/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "피클: 나만의 AI 에이전트",
       "artist": "Pickle Company",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%94%BC%ED%81%B4-%EB%82%98%EB%A7%8C%EC%9D%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/id6795790129",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/1a/99/0d1a992a-3ea5-b17c-5b3f-9fd76993b242/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "MUJI KR",
+      "artist": "MUJI KOREA CO.,LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/0b/66/a30b66f5-867b-b90e-f488-232a3e4b0c14/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,11 +48,11 @@
     },
     {
       "rank": 6,
-      "title": "삼쩜삼 - 세금/병원비 환급, 정부 혜택, 앱테크",
-      "artist": "자비스앤빌런즈",
+      "title": "엽기떡볶이",
+      "artist": "(주)핫시즈너",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%A9%9C%EC%82%BC-%EC%84%B8%EA%B8%88-%EB%B3%91%EC%9B%90%EB%B9%84-%ED%99%98%EA%B8%89-%EC%A0%95%EB%B6%80-%ED%98%9C%ED%83%9D-%EC%95%B1%ED%85%8C%ED%81%AC/id1584600717",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/6f/f3/146ff37e-cd6e-6be0-8180-8964792895e3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%97%BD%EA%B8%B0%EB%96%A1%EB%B3%B6%EC%9D%B4/id1190023113",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/42/f7/6342f720-477b-e5c8-b902-661277b9f115/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -66,6 +66,15 @@
     },
     {
       "rank": 8,
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/eb/ee/4febeede-16b1-2b8c-6356-3c5301b1dc15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "Trip.com 트립닷컴 - 여행 할인 예약",
       "artist": "Trip.com Travel Singapore Pte. Ltd.",
       "category": "",
@@ -74,21 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "MUJI KR",
-      "artist": "MUJI KOREA CO.,LTD",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/0b/66/a30b66f5-867b-b90e-f488-232a3e4b0c14/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 10,
-      "title": "실손24",
-      "artist": "Korean Insurance Development Institute Inc.",
+      "title": "Google Gemini",
+      "artist": "Google",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/3c/c0/083cc090-457a-dcc4-fb33-6e74a576378c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/b0/e6/e0b0e606-4e2a-537c-2d94-64db64e40396/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
