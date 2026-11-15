@@ -1,26 +1,8 @@
 {
-  "updatedAt": "2026-11-14T02:53:50.675Z",
+  "updatedAt": "2026-11-15T02:22:52.577Z",
   "items": [
     {
       "rank": 1,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/e8/ad/5de8adb3-fb94-06b4-5d6a-5cac65fd3a65/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
-      "title": "피클: 나만의 AI 에이전트",
-      "artist": "Pickle Company",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%94%BC%ED%81%B4-%EB%82%98%EB%A7%8C%EC%9D%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/id6795790129",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/1a/99/0d1a992a-3ea5-b17c-5b3f-9fd76993b242/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "MUJI KR",
       "artist": "MUJI KOREA CO.,LTD",
       "category": "",
@@ -29,43 +11,34 @@
       "price": "무료"
     },
     {
-      "rank": 4,
-      "title": "Everland",
-      "artist": "Samsung Everland Co. Ltd.",
+      "rank": 2,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/everland/id396584034",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/68/13/0d6813a9-6ad6-4584-7fc5-ecf360b59460/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/e8/ad/5de8adb3-fb94-06b4-5d6a-5cac65fd3a65/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "title": "피클: 나만의 AI 에이전트",
+      "artist": "Pickle Company",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%94%BC%ED%81%B4-%EB%82%98%EB%A7%8C%EC%9D%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/id6795790129",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/1a/99/0d1a992a-3ea5-b17c-5b3f-9fd76993b242/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/49/47/cd4947cd-775d-0ca2-28ad-405a7ff62e59/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/78/19/f778197d-06fe-8143-0e86-49a1dccec2b4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "엽기떡볶이",
-      "artist": "(주)핫시즈너",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%97%BD%EA%B8%B0%EB%96%A1%EB%B3%B6%EC%9D%B4/id1190023113",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/42/f7/6342f720-477b-e5c8-b902-661277b9f115/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/5d/2d/0d5d2db1-2893-27f2-70dc-7d7c66b42719/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "title": "NetShort - 인기 드라마 및 TV 프로그램",
       "artist": "NETSTORY PTE. LTD.",
       "category": "",
@@ -74,21 +47,48 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "artist": "Trip.com Travel Singapore Pte. Ltd.",
+      "rank": 6,
+      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "artist": "Hana Bank",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/f9/fe/56f9fe7f-36ad-50d2-9ef8-8e40537ed0c2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/5d/2d/0d5d2db1-2893-27f2-70dc-7d7c66b42719/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/4f/9e/b44f9eac-9cbc-23aa-89fe-e8e4fed3b751/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/b0/e6/e0b0e606-4e2a-537c-2d94-64db64e40396/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "네이버페이",
+      "artist": "Naver Financial Corporation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/9c/f7/659cf71d-3b47-0535-b6dd-f2696142c249/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "29CM",
+      "artist": "29CM",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/29cm/id789634744",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/59/df/9259df47-5c38-2c3c-3d23-cf79eec7b3a2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
