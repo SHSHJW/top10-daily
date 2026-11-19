@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-11-18T04:00:16.087Z",
+  "updatedAt": "2026-11-19T03:57:38.602Z",
   "items": [
     {
       "rank": 1,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/e8/ad/5de8adb3-fb94-06b4-5d6a-5cac65fd3a65/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "피클: 나만의 AI 에이전트",
       "artist": "Pickle Company",
       "category": "",
@@ -20,21 +11,30 @@
       "price": "무료"
     },
     {
-      "rank": 3,
-      "title": "MUJI KR",
-      "artist": "MUJI KOREA CO.,LTD",
+      "rank": 2,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/0b/66/a30b66f5-867b-b90e-f488-232a3e4b0c14/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/e8/ad/5de8adb3-fb94-06b4-5d6a-5cac65fd3a65/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b2/9e/54b29e8c-1a68-d582-6e0e-c83cf7d11ccc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "MUJI KR",
+      "artist": "MUJI KOREA CO.,LTD",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/0b/66/a30b66f5-867b-b90e-f488-232a3e4b0c14/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -52,43 +52,43 @@
       "artist": "Duolingo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/73/b0/0d73b035-3704-47c1-cfae-4c343417f9d5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/53/9e/71539ed2-0269-717b-f691-224b650dc6c1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "카카오뱅크",
-      "artist": "KakaoBank Corp.",
+      "title": "팝콘D플레이",
+      "artist": "Daewon Media Co.,Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC/id1258016944",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/cf/e6/c3cfe6e6-5c6a-ba95-ae0a-4ecbf87ac4ef/AppIcon_real-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%ED%8C%9D%EC%BD%98d%ED%94%8C%EB%A0%88%EC%9D%B4/id6778278444",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/97/04/88970489-c758-0147-71c9-8ef0d3437bcf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 8,
-      "title": "실손24",
-      "artist": "Korean Insurance Development Institute Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/77/c9/7177c9f4-da2d-1d0b-fe40-e96bba56fd0b/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/b0/e6/e0b0e606-4e2a-537c-2d94-64db64e40396/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/0b/96/ab0b965d-c303-140d-62ae-d9c201e41045/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "SBS play",
+      "artist": "SBS I&M Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/sbs-play/id1020136055",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/99/85/169985a1-bcf5-accf-9334-61effe08f525/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "나이키",
-      "artist": "Nike, Inc",
+      "title": "실손24",
+      "artist": "Korean Insurance Development Institute Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%82%98%EC%9D%B4%ED%82%A4/id1095459556",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/ad/70/2cad70bc-4b40-dc1d-1055-d266bc4224c7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/4e/5e/bf4e5e78-14f8-927e-4a0d-74a72c8e9dce/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
