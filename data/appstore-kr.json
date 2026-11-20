@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-19T03:57:38.602Z",
+  "updatedAt": "2026-11-20T03:51:28.211Z",
   "items": [
     {
       "rank": 1,
-      "title": "피클: 나만의 AI 에이전트",
-      "artist": "Pickle Company",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%94%BC%ED%81%B4-%EB%82%98%EB%A7%8C%EC%9D%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/id6795790129",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/1a/99/0d1a992a-3ea5-b17c-5b3f-9fd76993b242/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
       "title": "네이버플러스 스토어",
       "artist": "NAVER Corp.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/e8/ad/5de8adb3-fb94-06b4-5d6a-5cac65fd3a65/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/46/bf/0446bfcd-5f1a-6cef-066c-e36b29f3e335/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
+      "title": "피클: 나만의 AI 에이전트",
+      "artist": "Pickle Company",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%94%BC%ED%81%B4-%EB%82%98%EB%A7%8C%EC%9D%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/id6795790129",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/4e/74/304e748e-0a5b-74fc-2b53-ee33c33e6ae1/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -48,33 +48,6 @@
     },
     {
       "rank": 6,
-      "title": "듀오링고(Duolingo): 언어 학습",
-      "artist": "Duolingo",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/53/9e/71539ed2-0269-717b-f691-224b650dc6c1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "팝콘D플레이",
-      "artist": "Daewon Media Co.,Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%8C%9D%EC%BD%98d%ED%94%8C%EB%A0%88%EC%9D%B4/id6778278444",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/97/04/88970489-c758-0147-71c9-8ef0d3437bcf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/0b/96/ab0b965d-c303-140d-62ae-d9c201e41045/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
       "title": "SBS play",
       "artist": "SBS I&M Co., Ltd.",
       "category": "",
@@ -83,12 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "title": "커피빈",
+      "artist": "CoffeeBeanKorea",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%BB%A4%ED%94%BC%EB%B9%88/id1482718354",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/4b/7e/504b7eeb-2c37-379e-ec2e-3a69ab37fd6b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/42/70/0042705c-df7a-cff7-d36e-bc19b959ee3e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "실손24",
       "artist": "Korean Insurance Development Institute Inc.",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/4e/5e/bf4e5e78-14f8-927e-4a0d-74a72c8e9dce/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "듀오링고(Duolingo): 언어 학습",
+      "artist": "Duolingo",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/53/9e/71539ed2-0269-717b-f691-224b650dc6c1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
