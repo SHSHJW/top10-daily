@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T03:51:28.211Z",
+  "updatedAt": "2026-11-21T03:44:11.341Z",
   "items": [
     {
       "rank": 1,
@@ -39,6 +39,15 @@
     },
     {
       "rank": 5,
+      "title": "쿠우쿠우 멤버십",
+      "artist": "Waldlust Co., Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%EC%9A%B0%EC%BF%A0%EC%9A%B0-%EB%A9%A4%EB%B2%84%EC%8B%AD/id6465872138",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d6/1a/05d61a23-c91b-f5d5-5ab4-56320f050c58/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
@@ -47,21 +56,12 @@
       "price": "무료"
     },
     {
-      "rank": 6,
-      "title": "SBS play",
-      "artist": "SBS I&M Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/sbs-play/id1020136055",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/99/85/169985a1-bcf5-accf-9334-61effe08f525/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 7,
-      "title": "커피빈",
-      "artist": "CoffeeBeanKorea",
+      "title": "실손24",
+      "artist": "Korean Insurance Development Institute Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BB%A4%ED%94%BC%EB%B9%88/id1482718354",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/4b/7e/504b7eeb-2c37-379e-ec2e-3a69ab37fd6b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/4e/5e/bf4e5e78-14f8-927e-4a0d-74a72c8e9dce/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,11 +75,11 @@
     },
     {
       "rank": 9,
-      "title": "실손24",
-      "artist": "Korean Insurance Development Institute Inc.",
+      "title": "알바몬 - 대한민국 1위 아르바이트 플랫폼",
+      "artist": "WORXPHERE LLC.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/4e/5e/bf4e5e78-14f8-927e-4a0d-74a72c8e9dce/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%95%8C%EB%B0%94%EB%AA%AC-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-1%EC%9C%84-%EC%95%84%EB%A5%B4%EB%B0%94%EC%9D%B4%ED%8A%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC/id382535825",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/b4/55/47b4551f-fa05-7ea9-0473-a18a221899ce/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
