@@ -1,35 +1,8 @@
 {
-  "updatedAt": "2026-11-21T03:44:11.341Z",
+  "updatedAt": "2026-11-22T02:48:47.340Z",
   "items": [
     {
       "rank": 1,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/46/bf/0446bfcd-5f1a-6cef-066c-e36b29f3e335/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
-      "title": "피클: 나만의 AI 에이전트",
-      "artist": "Pickle Company",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%94%BC%ED%81%B4-%EB%82%98%EB%A7%8C%EC%9D%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/id6795790129",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/4e/74/304e748e-0a5b-74fc-2b53-ee33c33e6ae1/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
-      "title": "Claude by Anthropic",
-      "artist": "Anthropic PBC",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b2/9e/54b29e8c-1a68-d582-6e0e-c83cf7d11ccc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 4,
       "title": "MUJI KR",
       "artist": "MUJI KOREA CO.,LTD",
       "category": "",
@@ -38,34 +11,43 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "쿠우쿠우 멤버십",
-      "artist": "Waldlust Co., Ltd.",
+      "rank": 2,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%EC%9A%B0%EC%BF%A0%EC%9A%B0-%EB%A9%A4%EB%B2%84%EC%8B%AD/id6465872138",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d6/1a/05d61a23-c91b-f5d5-5ab4-56320f050c58/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/46/bf/0446bfcd-5f1a-6cef-066c-e36b29f3e335/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/3c/7b/213c7baf-7731-12fc-ea82-e1628b3fa4e7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "피클: 나만의 AI 에이전트",
+      "artist": "Pickle Company",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%94%BC%ED%81%B4-%EB%82%98%EB%A7%8C%EC%9D%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/id6795790129",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/4e/74/304e748e-0a5b-74fc-2b53-ee33c33e6ae1/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "DramaBox - 영화와 숏폼 드라마",
+      "artist": "STORYMATRIX PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/2f/e8/d52fe83e-5900-978a-dfe7-8df0297d4191/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 6,
-      "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "artist": "Hana Bank",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/5d/2d/0d5d2db1-2893-27f2-70dc-7d7c66b42719/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
-      "title": "실손24",
-      "artist": "Korean Insurance Development Institute Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/4e/5e/bf4e5e78-14f8-927e-4a0d-74a72c8e9dce/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 8,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -74,21 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 9,
-      "title": "알바몬 - 대한민국 1위 아르바이트 플랫폼",
-      "artist": "WORXPHERE LLC.",
+      "rank": 7,
+      "title": "쿠우쿠우 멤버십",
+      "artist": "Waldlust Co., Ltd.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%95%8C%EB%B0%94%EB%AA%AC-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-1%EC%9C%84-%EC%95%84%EB%A5%B4%EB%B0%94%EC%9D%B4%ED%8A%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC/id382535825",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/b4/55/47b4551f-fa05-7ea9-0473-a18a221899ce/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%EC%9A%B0%EC%BF%A0%EC%9A%B0-%EB%A9%A4%EB%B2%84%EC%8B%AD/id6465872138",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d6/1a/05d61a23-c91b-f5d5-5ab4-56320f050c58/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "title": "NetShort - 인기 드라마 및 TV 프로그램",
+      "artist": "NETSTORY PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/43/e5/2e43e5c8-4b90-2872-67fa-786a36f1f5e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/53/9e/71539ed2-0269-717b-f691-224b650dc6c1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "알바몬 - 대한민국 1위 아르바이트 플랫폼",
+      "artist": "WORXPHERE LLC.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%95%8C%EB%B0%94%EB%AA%AC-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-1%EC%9C%84-%EC%95%84%EB%A5%B4%EB%B0%94%EC%9D%B4%ED%8A%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC/id382535825",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/b4/55/47b4551f-fa05-7ea9-0473-a18a221899ce/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
