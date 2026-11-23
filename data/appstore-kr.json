@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T02:48:47.340Z",
+  "updatedAt": "2026-11-23T03:29:30.089Z",
   "items": [
     {
       "rank": 1,
@@ -21,6 +21,15 @@
     },
     {
       "rank": 3,
+      "title": "팝콘D플레이",
+      "artist": "Daewon Media Co.,Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%8C%9D%EC%BD%98d%ED%94%8C%EB%A0%88%EC%9D%B4/id6778278444",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/97/04/88970489-c758-0147-71c9-8ef0d3437bcf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
@@ -29,7 +38,7 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "피클: 나만의 AI 에이전트",
       "artist": "Pickle Company",
       "category": "",
@@ -38,25 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "DramaBox - 영화와 숏폼 드라마",
-      "artist": "STORYMATRIX PTE. LTD.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/2f/e8/d52fe83e-5900-978a-dfe7-8df0297d4191/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 6,
-      "title": "Google Gemini",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/42/70/0042705c-df7a-cff7-d36e-bc19b959ee3e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "쿠우쿠우 멤버십",
       "artist": "Waldlust Co., Ltd.",
       "category": "",
@@ -65,7 +56,25 @@
       "price": "무료"
     },
     {
+      "rank": 7,
+      "title": "DramaBox - 영화와 숏폼 드라마",
+      "artist": "STORYMATRIX PTE. LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/2f/e8/d52fe83e-5900-978a-dfe7-8df0297d4191/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
       "rank": 8,
+      "title": "Google Gemini",
+      "artist": "Google",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/42/70/0042705c-df7a-cff7-d36e-bc19b959ee3e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
       "title": "NetShort - 인기 드라마 및 TV 프로그램",
       "artist": "NETSTORY PTE. LTD.",
       "category": "",
@@ -74,21 +83,12 @@
       "price": "무료"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "듀오링고(Duolingo): 언어 학습",
       "artist": "Duolingo",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/53/9e/71539ed2-0269-717b-f691-224b650dc6c1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
-      "title": "알바몬 - 대한민국 1위 아르바이트 플랫폼",
-      "artist": "WORXPHERE LLC.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%95%8C%EB%B0%94%EB%AA%AC-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-1%EC%9C%84-%EC%95%84%EB%A5%B4%EB%B0%94%EC%9D%B4%ED%8A%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC/id382535825",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/b4/55/47b4551f-fa05-7ea9-0473-a18a221899ce/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
