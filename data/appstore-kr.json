@@ -1,26 +1,8 @@
 {
-  "updatedAt": "2026-11-24T06:43:49.158Z",
+  "updatedAt": "2026-11-25T05:12:57.092Z",
   "items": [
     {
       "rank": 1,
-      "title": "팝콘D플레이",
-      "artist": "Daewon Media Co.,Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%ED%8C%9D%EC%BD%98d%ED%94%8C%EB%A0%88%EC%9D%B4/id6778278444",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/97/04/88970489-c758-0147-71c9-8ef0d3437bcf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 2,
-      "title": "네이버플러스 스토어",
-      "artist": "NAVER Corp.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/ac/9e/7aac9e0c-da5c-c85f-1614-38c403eb14e7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 3,
       "title": "피클: 나만의 AI 에이전트",
       "artist": "Pickle Company",
       "category": "",
@@ -29,39 +11,57 @@
       "price": "무료"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "Claude by Anthropic",
       "artist": "Anthropic PBC",
       "category": "",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/3c/7b/213c7baf-7731-12fc-ea82-e1628b3fa4e7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/e0/66/e6e06686-7ff3-cc9e-40e1-daadb918aab3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "MUJI KR",
-      "artist": "MUJI KOREA CO.,LTD",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/muji-kr/id6739993593",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/0b/66/a30b66f5-867b-b90e-f488-232a3e4b0c14/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 6,
-      "title": "쿠우쿠우 멤버십",
-      "artist": "Waldlust Co., Ltd.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%BF%A0%EC%9A%B0%EC%BF%A0%EC%9A%B0-%EB%A9%A4%EB%B2%84%EC%8B%AD/id6465872138",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d6/1a/05d61a23-c91b-f5d5-5ab4-56320f050c58/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "title": "하나은행, 새로워진 하나원큐를 경험해 보세요",
       "artist": "Hana Bank",
       "category": "",
       "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/5d/2d/0d5d2db1-2893-27f2-70dc-7d7c66b42719/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "팝콘D플레이",
+      "artist": "Daewon Media Co.,Ltd.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%8C%9D%EC%BD%98d%ED%94%8C%EB%A0%88%EC%9D%B4/id6778278444",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/97/04/88970489-c758-0147-71c9-8ef0d3437bcf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
+      "artist": "SHINHAN BANK",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/f2/73/21f273b5-95ec-b2d6-a461-18560bb585ee/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "네이버플러스 스토어",
+      "artist": "NAVER Corp.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/ac/9e/7aac9e0c-da5c-c85f-1614-38c403eb14e7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "온라인 패션 스토어 무신사",
+      "artist": "MUSINSA Co.,Ltd",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%8C%A8%EC%85%98-%EC%8A%A4%ED%86%A0%EC%96%B4-%EB%AC%B4%EC%8B%A0%EC%82%AC/id1003139529",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/f9/6f/15f96f8f-e126-5cbd-59ea-525ff1a492ee/iOS26Appicon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
@@ -75,20 +75,20 @@
     },
     {
       "rank": 9,
-      "title": "온라인 패션 스토어 무신사",
-      "artist": "MUSINSA Co.,Ltd",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%8C%A8%EC%85%98-%EC%8A%A4%ED%86%A0%EC%96%B4-%EB%AC%B4%EC%8B%A0%EC%82%AC/id1003139529",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/f9/6f/15f96f8f-e126-5cbd-59ea-525ff1a492ee/iOS26Appicon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 10,
       "title": "Google Authenticator",
       "artist": "Google",
       "category": "",
       "url": "https://apps.apple.com/kr/app/google-authenticator/id388497605",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/b1/0e/3ab10ed1-7ba1-7aae-8224-28d8788b4716/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "한국장학재단",
+      "artist": "Korea Student Aid Foundation",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B5%AD%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8/id1400580506",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/41/40/1b4140dc-6948-1e7a-2be4-dc834971ed90/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
