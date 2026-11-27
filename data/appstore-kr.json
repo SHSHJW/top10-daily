@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T04:41:36.117Z",
+  "updatedAt": "2026-11-27T04:46:16.728Z",
   "items": [
     {
       "rank": 1,
@@ -48,15 +48,6 @@
     },
     {
       "rank": 6,
-      "title": "땡겨요",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/37/4d/ad374d53-0338-0a8a-b772-23ed0c73149c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "실손24",
       "artist": "Korean Insurance Development Institute Inc.",
       "category": "",
@@ -65,16 +56,7 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "Google Authenticator",
-      "artist": "Google",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/google-authenticator/id388497605",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/b1/0e/3ab10ed1-7ba1-7aae-8224-28d8788b4716/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -83,12 +65,30 @@
       "price": "무료"
     },
     {
-      "rank": 10,
-      "title": "bhc 치킨 - Tasty, Crispy, Juicy!",
-      "artist": "Dining Brands Group Co., Ltd.",
+      "rank": 8,
+      "title": "땡겨요",
+      "artist": "SHINHAN BANK",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/bhc-%EC%B9%98%ED%82%A8-tasty-crispy-juicy/id6740256361",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/ea/31/f3ea3188-4691-2af8-42fb-85b64f36d81f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/37/4d/ad374d53-0338-0a8a-b772-23ed0c73149c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "건강보험25시",
+      "artist": "국민건강보험공단",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%9825%EC%8B%9C/id375279377",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/16/0b/cc160b54-003c-5e1e-ecae-9be3dab70782/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "대한민국 모바일신분증",
+      "artist": "행정안전부",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/f7/6b/cdf76b8f-aa68-cfde-aa29-b45b9f22e0a6/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
