@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T04:46:16.728Z",
+  "updatedAt": "2026-11-28T04:29:56.490Z",
   "items": [
     {
       "rank": 1,
@@ -30,6 +30,15 @@
     },
     {
       "rank": 4,
+      "title": "까사TCG",
+      "artist": "CHANHO LEE",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EA%B9%8C%EC%82%ACtcg/id6796545653",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/80/b3/1b80b3fc-5217-250a-c64e-deeffe12c4fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
       "title": "온라인 패션 스토어 무신사",
       "artist": "MUSINSA Co.,Ltd",
       "category": "",
@@ -38,25 +47,7 @@
       "price": "무료"
     },
     {
-      "rank": 5,
-      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
-      "artist": "SHINHAN BANK",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/f2/73/21f273b5-95ec-b2d6-a461-18560bb585ee/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
       "rank": 6,
-      "title": "실손24",
-      "artist": "Korean Insurance Development Institute Inc.",
-      "category": "",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/4e/5e/bf4e5e78-14f8-927e-4a0d-74a72c8e9dce/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "price": "무료"
-    },
-    {
-      "rank": 7,
       "title": "Google Gemini",
       "artist": "Google",
       "category": "",
@@ -65,30 +56,39 @@
       "price": "무료"
     },
     {
-      "rank": 8,
-      "title": "땡겨요",
-      "artist": "SHINHAN BANK",
+      "rank": 7,
+      "title": "실손24",
+      "artist": "Korean Insurance Development Institute Inc.",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/37/4d/ad374d53-0338-0a8a-b772-23ed0c73149c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/4e/5e/bf4e5e78-14f8-927e-4a0d-74a72c8e9dce/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "유니클로 UNIQLO - 쇼핑",
+      "artist": "UNIQLO CO., LTD.",
+      "category": "",
+      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/df/39/d5df3950-7bbe-81d2-170a-6be0c40a71c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 9,
-      "title": "건강보험25시",
+      "title": "모바일 건강보험증",
       "artist": "국민건강보험공단",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%9825%EC%8B%9C/id375279377",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/16/0b/cc160b54-003c-5e1e-ecae-9be3dab70782/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EC%A6%9D/id6444602589",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/82/24/8d8224a7-6635-0d9e-fbeb-78516b3335d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "대한민국 모바일신분증",
-      "artist": "행정안전부",
+      "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
+      "artist": "SHINHAN BANK",
       "category": "",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/f7/6b/cdf76b8f-aa68-cfde-aa29-b45b9f22e0a6/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/f2/73/21f273b5-95ec-b2d6-a461-18560bb585ee/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "price": "무료"
     }
   ]
